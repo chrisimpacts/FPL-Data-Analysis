@@ -1,0 +1,2281 @@
+season,team_name_bet,opp_team_name_bet,team_goals,opp_team_goals,Bet365_win_odds,Bet365_draw_odds,Bet365_lose_odds,bet_merge_code
+20222023,Crystal Palace,Arsenal,0.0,2.0,4.2,3.6,1.85,20222023_16_11_Home
+20222023,Fulham,Liverpool,2.0,2.0,11.0,6.0,1.25,20222023_18_3_Home
+20222023,Bournemouth,Aston Villa,2.0,0.0,3.75,3.5,2.0,20222023_24_20_Home
+20222023,Leeds,Wolves,2.0,1.0,2.25,3.4,3.2,20222023_10_8_Home
+20222023,Newcastle,Nott'm Forest,2.0,0.0,1.66,3.8,5.25,20222023_15_25_Home
+20222023,Tottenham,Southampton,4.0,1.0,1.33,5.5,8.5,20222023_17_7_Home
+20222023,Everton,Chelsea,0.0,1.0,5.5,4.0,1.61,20222023_5_1_Home
+20222023,Leicester,Brentford,2.0,2.0,2.0,3.75,3.5,20222023_6_21_Home
+20222023,Man United,Brighton,1.0,2.0,1.6,4.2,5.25,20222023_14_19_Home
+20222023,West Ham,Man City,0.0,2.0,8.0,5.0,1.36,20222023_9_4_Home
+20222023,Aston Villa,Everton,2.0,1.0,1.8,3.5,4.75,20222023_20_5_Home
+20222023,Arsenal,Leicester,4.0,2.0,1.53,4.33,5.75,20222023_11_6_Home
+20222023,Brighton,Newcastle,0.0,0.0,2.45,3.2,3.0,20222023_19_15_Home
+20222023,Man City,Bournemouth,4.0,0.0,1.06,13.0,29.0,20222023_4_24_Home
+20222023,Southampton,Leeds,2.0,2.0,2.25,3.5,3.1,20222023_7_10_Home
+20222023,Wolves,Fulham,0.0,0.0,2.3,3.3,3.2,20222023_8_18_Home
+20222023,Brentford,Man United,4.0,0.0,3.75,3.5,2.0,20222023_21_14_Home
+20222023,Nott'm Forest,West Ham,1.0,0.0,4.2,3.6,1.85,20222023_25_9_Home
+20222023,Chelsea,Tottenham,2.0,2.0,2.25,3.4,3.2,20222023_1_17_Home
+20222023,Liverpool,Crystal Palace,1.0,1.0,1.18,6.75,16.0,20222023_3_16_Home
+20222023,Tottenham,Wolves,1.0,0.0,1.4,4.75,7.5,20222023_17_8_Home
+20222023,Crystal Palace,Aston Villa,3.0,1.0,2.5,3.25,2.9,20222023_16_20_Home
+20222023,Everton,Nott'm Forest,1.0,1.0,1.9,3.6,4.0,20222023_5_25_Home
+20222023,Fulham,Brentford,3.0,2.0,2.45,3.4,2.9,20222023_18_21_Home
+20222023,Leicester,Southampton,1.0,2.0,1.83,4.0,4.0,20222023_6_7_Home
+20222023,Bournemouth,Arsenal,0.0,3.0,8.0,4.75,1.4,20222023_24_11_Home
+20222023,Leeds,Chelsea,3.0,0.0,5.75,4.5,1.53,20222023_10_1_Home
+20222023,West Ham,Brighton,0.0,2.0,2.3,3.4,3.1,20222023_9_19_Home
+20222023,Newcastle,Man City,3.0,3.0,7.5,5.0,1.36,20222023_15_4_Home
+20222023,Man United,Liverpool,2.0,1.0,5.25,4.33,1.6,20222023_14_3_Home
+20222023,Southampton,Man United,0.0,1.0,4.2,4.0,1.8,20222023_7_14_Home
+20222023,Brentford,Everton,1.0,1.0,2.0,3.5,3.75,20222023_21_5_Home
+20222023,Brighton,Leeds,1.0,0.0,1.9,3.8,3.8,20222023_19_10_Home
+20222023,Chelsea,Leicester,2.0,1.0,1.4,5.0,7.0,20222023_1_6_Home
+20222023,Liverpool,Bournemouth,9.0,0.0,1.1,10.0,26.0,20222023_3_24_Home
+20222023,Man City,Crystal Palace,4.0,2.0,1.18,7.5,13.0,20222023_4_16_Home
+20222023,Arsenal,Fulham,2.0,1.0,1.3,5.75,9.0,20222023_11_18_Home
+20222023,Aston Villa,West Ham,0.0,1.0,2.3,3.4,3.1,20222023_20_9_Home
+20222023,Wolves,Newcastle,1.0,1.0,2.7,3.3,2.7,20222023_8_15_Home
+20222023,Nott'm Forest,Tottenham,0.0,2.0,7.0,4.6,1.44,20222023_25_17_Home
+20222023,Crystal Palace,Brentford,1.0,1.0,2.05,3.4,3.6,20222023_16_21_Home
+20222023,Fulham,Brighton,2.0,1.0,3.1,3.3,2.3,20222023_18_19_Home
+20222023,Southampton,Chelsea,2.0,1.0,5.25,4.0,1.61,20222023_7_1_Home
+20222023,Leeds,Everton,1.0,1.0,2.15,3.5,3.3,20222023_10_5_Home
+20222023,Arsenal,Aston Villa,2.0,1.0,1.45,4.5,6.0,20222023_11_20_Home
+20222023,Bournemouth,Wolves,0.0,0.0,3.5,3.3,2.15,20222023_24_8_Home
+20222023,Man City,Nott'm Forest,6.0,0.0,1.06,13.0,29.0,20222023_4_25_Home
+20222023,West Ham,Tottenham,1.0,1.0,3.6,3.8,1.95,20222023_9_17_Home
+20222023,Liverpool,Newcastle,2.0,1.0,1.33,5.25,9.0,20222023_3_15_Home
+20222023,Leicester,Man United,0.0,1.0,3.4,3.75,2.05,20222023_6_14_Home
+20222023,Everton,Liverpool,0.0,0.0,7.0,4.75,1.4,20222023_5_3_Home
+20222023,Brentford,Leeds,5.0,2.0,2.1,3.5,3.4,20222023_21_10_Home
+20222023,Chelsea,West Ham,2.0,1.0,1.55,4.5,5.5,20222023_1_9_Home
+20222023,Newcastle,Crystal Palace,0.0,0.0,2.0,3.5,3.75,20222023_15_16_Home
+20222023,Nott'm Forest,Bournemouth,2.0,3.0,1.95,3.5,3.8,20222023_25_24_Home
+20222023,Tottenham,Fulham,2.0,1.0,1.5,4.5,6.5,20222023_17_18_Home
+20222023,Wolves,Southampton,1.0,0.0,2.2,3.4,3.25,20222023_8_7_Home
+20222023,Aston Villa,Man City,1.0,1.0,8.0,5.5,1.33,20222023_20_4_Home
+20222023,Brighton,Leicester,5.0,2.0,1.83,3.5,4.5,20222023_19_6_Home
+20222023,Man United,Arsenal,3.0,1.0,2.5,3.5,2.7,20222023_14_11_Home
+20222023,Aston Villa,Southampton,1.0,0.0,2.1,3.5,3.5,20222023_20_7_Home
+20222023,Nott'm Forest,Fulham,2.0,3.0,2.75,3.3,2.62,20222023_25_18_Home
+20222023,Wolves,Man City,0.0,3.0,9.5,5.0,1.33,20222023_8_4_Home
+20222023,Newcastle,Bournemouth,1.0,1.0,1.44,4.4,7.5,20222023_15_24_Home
+20222023,Tottenham,Leicester,6.0,2.0,1.45,4.5,7.0,20222023_17_6_Home
+20222023,Brentford,Arsenal,0.0,3.0,4.2,3.8,1.8,20222023_21_11_Home
+20222023,Everton,West Ham,1.0,0.0,2.9,3.25,2.5,20222023_5_9_Home
+20222023,Arsenal,Tottenham,3.0,1.0,2.05,3.75,3.3,20222023_11_17_Home
+20222023,Bournemouth,Brentford,0.0,0.0,3.3,3.4,2.2,20222023_24_21_Home
+20222023,Crystal Palace,Chelsea,1.0,2.0,4.2,3.6,1.85,20222023_16_1_Home
+20222023,Fulham,Newcastle,1.0,4.0,3.0,3.4,2.37,20222023_18_15_Home
+20222023,Liverpool,Brighton,3.0,3.0,1.33,5.25,8.5,20222023_3_19_Home
+20222023,Southampton,Everton,1.0,2.0,2.15,3.4,3.4,20222023_7_5_Home
+20222023,West Ham,Wolves,2.0,0.0,1.95,3.5,4.2,20222023_9_8_Home
+20222023,Man City,Man United,6.0,3.0,1.33,5.75,7.5,20222023_4_14_Home
+20222023,Leeds,Aston Villa,0.0,0.0,2.35,3.4,3.0,20222023_10_20_Home
+20222023,Leicester,Nott'm Forest,4.0,0.0,1.75,4.0,4.33,20222023_6_25_Home
+20222023,Bournemouth,Leicester,2.0,1.0,3.6,3.4,2.05,20222023_24_6_Home
+20222023,Chelsea,Wolves,3.0,0.0,1.4,4.5,8.0,20222023_1_8_Home
+20222023,Man City,Southampton,4.0,0.0,1.11,10.0,17.0,20222023_4_7_Home
+20222023,Newcastle,Brentford,5.0,1.0,1.83,3.8,4.2,20222023_15_21_Home
+20222023,Brighton,Tottenham,0.0,1.0,2.8,3.4,2.5,20222023_19_17_Home
+20222023,Crystal Palace,Leeds,2.0,1.0,2.05,3.5,3.6,20222023_16_10_Home
+20222023,West Ham,Fulham,3.0,1.0,1.72,3.8,4.75,20222023_9_18_Home
+20222023,Arsenal,Liverpool,3.0,2.0,2.5,3.6,2.62,20222023_11_3_Home
+20222023,Everton,Man United,1.0,2.0,3.6,3.5,2.05,20222023_5_14_Home
+20222023,Nott'm Forest,Aston Villa,1.0,1.0,3.3,3.4,2.2,20222023_25_20_Home
+20222023,Brentford,Brighton,2.0,0.0,3.1,3.4,2.3,20222023_21_19_Home
+20222023,Leicester,Crystal Palace,0.0,0.0,2.3,3.4,3.1,20222023_6_16_Home
+20222023,Fulham,Bournemouth,2.0,2.0,1.85,3.75,4.0,20222023_18_24_Home
+20222023,Wolves,Nott'm Forest,1.0,0.0,1.7,3.75,5.0,20222023_8_25_Home
+20222023,Tottenham,Everton,2.0,0.0,1.5,4.5,6.5,20222023_17_5_Home
+20222023,Aston Villa,Chelsea,0.0,2.0,4.33,3.75,1.8,20222023_20_1_Home
+20222023,Leeds,Arsenal,0.0,1.0,6.0,4.2,1.55,20222023_10_11_Home
+20222023,Man United,Newcastle,0.0,0.0,1.95,3.8,3.5,20222023_14_15_Home
+20222023,Southampton,West Ham,1.0,1.0,2.9,3.4,2.4,20222023_7_9_Home
+20222023,Liverpool,Man City,1.0,0.0,3.6,4.0,1.9,20222023_3_4_Home
+20222023,Brighton,Nott'm Forest,0.0,0.0,1.4,4.75,7.0,20222023_19_25_Home
+20222023,Crystal Palace,Wolves,2.0,1.0,2.25,3.1,3.4,20222023_16_8_Home
+20222023,Bournemouth,Southampton,0.0,1.0,2.62,3.3,2.62,20222023_24_7_Home
+20222023,Brentford,Chelsea,0.0,0.0,4.75,3.8,1.72,20222023_21_1_Home
+20222023,Liverpool,West Ham,1.0,0.0,1.4,5.0,7.0,20222023_3_9_Home
+20222023,Newcastle,Everton,1.0,0.0,1.6,3.8,5.75,20222023_15_5_Home
+20222023,Man United,Tottenham,2.0,0.0,2.45,3.5,2.75,20222023_14_17_Home
+20222023,Fulham,Aston Villa,3.0,0.0,2.9,3.3,2.5,20222023_18_20_Home
+20222023,Leicester,Leeds,2.0,0.0,2.25,3.6,3.0,20222023_6_10_Home
+20222023,Nott'm Forest,Liverpool,1.0,0.0,11.0,6.0,1.25,20222023_25_3_Home
+20222023,Everton,Crystal Palace,3.0,0.0,2.6,3.2,2.87,20222023_5_16_Home
+20222023,Man City,Brighton,3.0,1.0,1.2,7.0,13.0,20222023_4_19_Home
+20222023,Chelsea,Man United,1.0,1.0,2.05,3.5,3.5,20222023_1_14_Home
+20222023,Aston Villa,Brentford,4.0,0.0,2.1,3.5,3.5,20222023_20_21_Home
+20222023,Leeds,Fulham,2.0,3.0,2.05,3.5,3.6,20222023_10_18_Home
+20222023,Southampton,Arsenal,1.0,1.0,6.0,4.0,1.57,20222023_7_11_Home
+20222023,Wolves,Leicester,0.0,4.0,2.25,3.25,3.25,20222023_8_6_Home
+20222023,Tottenham,Newcastle,1.0,2.0,2.05,3.5,3.5,20222023_17_15_Home
+20222023,West Ham,Bournemouth,2.0,0.0,1.55,4.0,6.0,20222023_9_24_Home
+20222023,Leicester,Man City,0.0,1.0,10.0,6.5,1.25,20222023_6_4_Home
+20222023,Bournemouth,Tottenham,2.0,3.0,5.0,3.8,1.7,20222023_24_17_Home
+20222023,Brentford,Wolves,1.0,1.0,2.2,3.4,3.3,20222023_21_8_Home
+20222023,Brighton,Chelsea,4.0,1.0,3.0,3.3,2.4,20222023_19_1_Home
+20222023,Crystal Palace,Southampton,1.0,0.0,1.9,3.6,4.0,20222023_16_7_Home
+20222023,Newcastle,Aston Villa,4.0,0.0,1.8,3.75,4.5,20222023_15_20_Home
+20222023,Fulham,Everton,0.0,0.0,2.37,3.4,3.0,20222023_18_5_Home
+20222023,Liverpool,Leeds,1.0,2.0,1.3,6.0,9.0,20222023_3_10_Home
+20222023,Arsenal,Nott'm Forest,5.0,0.0,1.2,7.0,12.0,20222023_11_25_Home
+20222023,Man United,West Ham,1.0,0.0,1.66,4.0,4.8,20222023_14_9_Home
+20222023,Leeds,Bournemouth,4.0,3.0,1.72,3.8,4.75,20222023_10_24_Home
+20222023,Man City,Fulham,2.0,1.0,1.11,9.5,19.0,20222023_4_18_Home
+20222023,Nott'm Forest,Brentford,2.0,2.0,2.75,3.3,2.6,20222023_25_21_Home
+20222023,Wolves,Brighton,2.0,3.0,3.3,3.3,2.25,20222023_8_19_Home
+20222023,Everton,Leicester,0.0,2.0,2.4,3.3,3.0,20222023_5_6_Home
+20222023,Chelsea,Arsenal,0.0,1.0,2.55,3.4,2.7,20222023_1_11_Home
+20222023,Aston Villa,Man United,3.0,1.0,3.3,3.8,2.1,20222023_20_14_Home
+20222023,Southampton,Newcastle,1.0,4.0,4.0,3.6,1.9,20222023_7_15_Home
+20222023,West Ham,Crystal Palace,1.0,2.0,1.9,3.4,4.2,20222023_9_16_Home
+20222023,Tottenham,Liverpool,1.0,2.0,3.3,3.6,2.1,20222023_17_3_Home
+20222023,Man City,Brentford,1.0,2.0,1.14,8.0,17.0,20222023_4_21_Home
+20222023,Bournemouth,Everton,3.0,0.0,2.8,3.25,2.6,20222023_24_5_Home
+20222023,Liverpool,Southampton,3.0,1.0,1.25,6.5,11.0,20222023_3_7_Home
+20222023,Nott'm Forest,Crystal Palace,1.0,0.0,3.1,3.1,2.45,20222023_25_16_Home
+20222023,Tottenham,Leeds,4.0,3.0,1.65,4.2,4.75,20222023_17_10_Home
+20222023,West Ham,Leicester,0.0,2.0,2.05,3.4,3.75,20222023_9_6_Home
+20222023,Newcastle,Chelsea,1.0,0.0,2.35,3.4,3.0,20222023_15_1_Home
+20222023,Wolves,Arsenal,0.0,2.0,6.0,4.2,1.55,20222023_8_11_Home
+20222023,Brighton,Aston Villa,1.0,2.0,1.83,3.75,4.2,20222023_19_20_Home
+20222023,Fulham,Man United,1.0,2.0,3.8,3.8,1.9,20222023_18_14_Home
+20222023,Brentford,Tottenham,2.0,2.0,4.0,3.6,1.91,20222023_21_17_Home
+20222023,Crystal Palace,Fulham,0.0,3.0,2.05,3.6,3.5,20222023_16_18_Home
+20222023,Everton,Wolves,1.0,2.0,2.3,3.25,3.2,20222023_5_8_Home
+20222023,Leicester,Newcastle,0.0,3.0,3.25,3.5,2.2,20222023_6_15_Home
+20222023,Southampton,Brighton,1.0,3.0,3.3,3.5,2.15,20222023_7_19_Home
+20222023,Aston Villa,Liverpool,1.0,3.0,4.75,4.0,1.7,20222023_20_3_Home
+20222023,Arsenal,West Ham,3.0,1.0,1.5,4.33,6.5,20222023_11_9_Home
+20222023,Chelsea,Bournemouth,2.0,0.0,1.3,5.5,10.0,20222023_1_24_Home
+20222023,Man United,Nott'm Forest,3.0,0.0,1.29,5.5,11.0,20222023_14_25_Home
+20222023,Leeds,Man City,1.0,3.0,9.5,6.0,1.29,20222023_10_4_Home
+20222023,West Ham,Brentford,0.0,2.0,2.0,3.6,3.6,20222023_9_21_Home
+20222023,Liverpool,Leicester,2.0,1.0,1.29,6.0,9.5,20222023_3_6_Home
+20222023,Wolves,Man United,0.0,1.0,4.0,3.6,1.91,20222023_8_14_Home
+20222023,Bournemouth,Crystal Palace,0.0,2.0,2.8,3.3,2.5,20222023_24_16_Home
+20222023,Fulham,Southampton,2.0,1.0,1.95,3.6,3.75,20222023_18_7_Home
+20222023,Man City,Everton,1.0,1.0,1.13,9.0,19.0,20222023_4_5_Home
+20222023,Newcastle,Leeds,0.0,0.0,1.45,4.5,7.0,20222023_15_10_Home
+20222023,Brighton,Arsenal,2.0,4.0,3.4,3.5,2.1,20222023_19_11_Home
+20222023,Tottenham,Aston Villa,0.0,2.0,1.67,4.0,5.0,20222023_17_20_Home
+20222023,Nott'm Forest,Chelsea,1.0,1.0,5.0,3.8,1.7,20222023_25_1_Home
+20222023,Brentford,Liverpool,3.0,1.0,5.5,4.33,1.55,20222023_21_3_Home
+20222023,Arsenal,Newcastle,0.0,0.0,1.8,3.8,4.33,20222023_11_15_Home
+20222023,Everton,Brighton,1.0,4.0,3.5,3.5,2.1,20222023_5_19_Home
+20222023,Leicester,Fulham,0.0,1.0,2.2,3.6,3.1,20222023_6_18_Home
+20222023,Man United,Bournemouth,3.0,0.0,1.29,5.5,11.0,20222023_14_24_Home
+20222023,Southampton,Nott'm Forest,0.0,1.0,2.0,3.5,3.8,20222023_7_25_Home
+20222023,Leeds,West Ham,2.0,2.0,2.6,3.5,2.6,20222023_10_9_Home
+20222023,Aston Villa,Wolves,1.0,1.0,1.95,3.6,4.0,20222023_20_8_Home
+20222023,Crystal Palace,Tottenham,0.0,4.0,3.4,3.5,2.15,20222023_16_17_Home
+20222023,Chelsea,Man City,0.0,1.0,5.0,4.0,1.67,20222023_1_4_Home
+20222023,Fulham,Chelsea,2.0,1.0,3.3,3.5,2.15,20222023_18_1_Home
+20222023,Aston Villa,Leeds,2.0,1.0,1.91,3.6,4.0,20222023_20_10_Home
+20222023,Man United,Man City,2.0,1.0,4.2,3.6,1.85,20222023_14_4_Home
+20222023,Brighton,Liverpool,3.0,0.0,3.4,3.6,2.1,20222023_19_3_Home
+20222023,Everton,Southampton,1.0,2.0,2.25,3.25,3.3,20222023_5_7_Home
+20222023,Nott'm Forest,Leicester,2.0,0.0,2.7,3.3,2.63,20222023_25_6_Home
+20222023,Wolves,West Ham,1.0,0.0,2.63,3.3,2.7,20222023_8_9_Home
+20222023,Brentford,Bournemouth,2.0,0.0,1.65,4.0,5.25,20222023_21_24_Home
+20222023,Chelsea,Crystal Palace,1.0,0.0,1.62,4.0,5.25,20222023_1_16_Home
+20222023,Newcastle,Fulham,1.0,0.0,1.5,4.33,6.5,20222023_15_18_Home
+20222023,Tottenham,Arsenal,0.0,2.0,3.1,3.6,2.2,20222023_17_11_Home
+20222023,Crystal Palace,Man United,1.0,1.0,4.5,3.6,1.8,20222023_16_14_Home
+20222023,Man City,Tottenham,4.0,2.0,1.36,5.0,8.5,20222023_4_17_Home
+20222023,Liverpool,Chelsea,0.0,0.0,1.85,3.75,4.0,20222023_3_1_Home
+20222023,Bournemouth,Nott'm Forest,1.0,1.0,2.75,3.1,2.75,20222023_24_25_Home
+20222023,Leicester,Brighton,2.0,2.0,3.6,3.5,2.05,20222023_6_19_Home
+20222023,Southampton,Aston Villa,0.0,1.0,2.88,3.25,2.55,20222023_7_20_Home
+20222023,West Ham,Everton,2.0,0.0,1.8,3.75,4.75,20222023_9_5_Home
+20222023,Crystal Palace,Newcastle,0.0,0.0,4.4,3.5,1.85,20222023_16_15_Home
+20222023,Leeds,Brentford,0.0,0.0,2.38,3.6,2.88,20222023_10_21_Home
+20222023,Man City,Wolves,3.0,0.0,1.2,8.0,11.0,20222023_4_8_Home
+20222023,Arsenal,Man United,3.0,2.0,1.8,3.8,4.2,20222023_11_14_Home
+20222023,Fulham,Tottenham,0.0,1.0,3.3,3.6,2.1,20222023_18_17_Home
+20222023,Chelsea,Fulham,0.0,0.0,1.62,4.0,5.25,20222023_1_18_Home
+20222023,Everton,Arsenal,1.0,0.0,8.5,4.5,1.4,20222023_5_11_Home
+20222023,Aston Villa,Leicester,2.0,4.0,1.95,3.6,3.8,20222023_20_6_Home
+20222023,Brentford,Southampton,3.0,0.0,1.85,3.6,4.2,20222023_21_7_Home
+20222023,Brighton,Bournemouth,1.0,0.0,1.33,5.25,8.5,20222023_19_24_Home
+20222023,Man United,Crystal Palace,2.0,1.0,1.4,4.75,8.0,20222023_14_16_Home
+20222023,Wolves,Liverpool,3.0,0.0,4.0,3.8,1.85,20222023_8_3_Home
+20222023,Newcastle,West Ham,1.0,1.0,1.6,3.8,6.0,20222023_15_9_Home
+20222023,Nott'm Forest,Leeds,1.0,0.0,2.63,3.3,2.7,20222023_25_10_Home
+20222023,Tottenham,Man City,1.0,0.0,4.33,4.2,1.73,20222023_17_4_Home
+20222023,Man United,Leeds,2.0,2.0,1.45,5.0,6.0,20222023_14_10_Home
+20222023,West Ham,Chelsea,1.0,1.0,3.3,3.3,2.25,20222023_9_1_Home
+20222023,Arsenal,Brentford,1.0,1.0,1.44,4.75,7.0,20222023_11_21_Home
+20222023,Crystal Palace,Brighton,1.0,1.0,3.8,3.5,2.0,20222023_16_19_Home
+20222023,Fulham,Nott'm Forest,2.0,0.0,1.91,3.5,4.33,20222023_18_25_Home
+20222023,Leicester,Tottenham,4.0,1.0,3.4,3.6,2.1,20222023_6_17_Home
+20222023,Southampton,Wolves,1.0,2.0,2.9,3.2,2.55,20222023_7_8_Home
+20222023,Bournemouth,Newcastle,1.0,1.0,6.5,4.0,1.53,20222023_24_15_Home
+20222023,Leeds,Man United,0.0,2.0,3.75,3.8,1.91,20222023_10_14_Home
+20222023,Man City,Aston Villa,3.0,1.0,1.25,6.5,11.0,20222023_4_20_Home
+20222023,Liverpool,Everton,2.0,0.0,1.5,4.33,6.5,20222023_3_5_Home
+20222023,Arsenal,Man City,1.0,3.0,2.9,3.5,2.35,20222023_11_4_Home
+20222023,Aston Villa,Arsenal,2.0,4.0,4.5,3.6,1.5,20222023_20_11_Home
+20222023,Brentford,Crystal Palace,1.0,1.0,1.83,3.5,4.5,20222023_21_16_Home
+20222023,Brighton,Fulham,0.0,1.0,1.65,3.8,5.5,20222023_19_18_Home
+20222023,Chelsea,Southampton,0.0,1.0,1.4,4.75,8.5,20222023_1_7_Home
+20222023,Everton,Leeds,1.0,0.0,2.4,3.3,3.0,20222023_5_10_Home
+20222023,Nott'm Forest,Man City,1.0,1.0,8.5,5.5,1.3,20222023_25_4_Home
+20222023,Wolves,Bournemouth,0.0,1.0,1.67,3.6,6.0,20222023_8_24_Home
+20222023,Newcastle,Liverpool,0.0,2.0,2.5,3.5,2.7,20222023_15_3_Home
+20222023,Man United,Leicester,3.0,0.0,1.62,4.33,5.25,20222023_14_6_Home
+20222023,Tottenham,West Ham,2.0,0.0,1.75,3.6,4.75,20222023_17_9_Home
+20222023,Fulham,Wolves,1.0,1.0,2.5,3.2,3.0,20222023_18_8_Home
+20222023,Everton,Aston Villa,0.0,2.0,2.5,3.2,3.0,20222023_5_20_Home
+20222023,Leeds,Southampton,1.0,0.0,1.95,3.5,4.0,20222023_10_7_Home
+20222023,Leicester,Arsenal,0.0,1.0,4.75,4.0,1.7,20222023_6_11_Home
+20222023,West Ham,Nott'm Forest,4.0,0.0,1.75,3.6,5.0,20222023_9_25_Home
+20222023,Bournemouth,Man City,1.0,4.0,10.0,5.75,1.29,20222023_24_4_Home
+20222023,Crystal Palace,Liverpool,0.0,0.0,4.75,3.8,1.73,20222023_16_3_Home
+20222023,Tottenham,Chelsea,2.0,0.0,2.55,3.25,2.9,20222023_17_1_Home
+20222023,Arsenal,Everton,4.0,0.0,1.36,4.75,10.0,20222023_11_5_Home
+20222023,Liverpool,Wolves,2.0,0.0,1.5,4.75,6.0,20222023_3_8_Home
+20222023,Man City,Newcastle,2.0,0.0,1.45,4.5,7.0,20222023_4_15_Home
+20222023,Arsenal,Bournemouth,3.0,2.0,1.22,7.0,12.0,20222023_11_24_Home
+20222023,Aston Villa,Crystal Palace,1.0,0.0,2.05,3.3,3.8,20222023_20_16_Home
+20222023,Brighton,West Ham,4.0,0.0,1.8,3.6,4.5,20222023_19_9_Home
+20222023,Chelsea,Leeds,1.0,0.0,1.62,4.0,5.5,20222023_1_10_Home
+20222023,Wolves,Tottenham,1.0,0.0,3.3,3.4,2.2,20222023_8_17_Home
+20222023,Southampton,Leicester,1.0,0.0,2.75,3.3,2.6,20222023_7_6_Home
+20222023,Nott'm Forest,Everton,2.0,2.0,2.7,3.0,2.88,20222023_25_5_Home
+20222023,Liverpool,Man United,7.0,0.0,2.38,3.6,2.88,20222023_3_14_Home
+20222023,Brentford,Fulham,3.0,2.0,1.95,3.6,3.75,20222023_21_18_Home
+20222023,Bournemouth,Liverpool,1.0,0.0,7.5,5.0,1.4,20222023_24_3_Home
+20222023,Everton,Brentford,1.0,0.0,2.7,3.25,2.7,20222023_5_21_Home
+20222023,Leeds,Brighton,2.0,2.0,3.75,3.6,1.95,20222023_10_19_Home
+20222023,Leicester,Chelsea,1.0,3.0,3.75,3.5,1.95,20222023_6_1_Home
+20222023,Tottenham,Nott'm Forest,3.0,1.0,1.44,4.75,7.0,20222023_17_25_Home
+20222023,Crystal Palace,Man City,0.0,1.0,9.0,4.75,1.36,20222023_16_4_Home
+20222023,Fulham,Arsenal,0.0,3.0,6.0,4.0,1.57,20222023_18_11_Home
+20222023,Man United,Southampton,0.0,0.0,1.36,5.0,9.0,20222023_14_7_Home
+20222023,West Ham,Aston Villa,1.0,1.0,2.2,3.3,3.4,20222023_9_20_Home
+20222023,Newcastle,Wolves,2.0,1.0,1.65,3.75,5.5,20222023_15_8_Home
+20222023,Brighton,Crystal Palace,1.0,0.0,1.44,4.2,8.0,20222023_19_16_Home
+20222023,Southampton,Brentford,0.0,2.0,2.88,3.25,2.5,20222023_7_21_Home
+20222023,Nott'm Forest,Newcastle,1.0,2.0,5.5,3.8,1.62,20222023_25_15_Home
+20222023,Aston Villa,Bournemouth,3.0,0.0,1.7,3.8,5.0,20222023_20_24_Home
+20222023,Brentford,Leicester,1.0,1.0,1.91,3.6,3.75,20222023_21_6_Home
+20222023,Southampton,Tottenham,3.0,3.0,4.75,3.6,1.75,20222023_7_17_Home
+20222023,Wolves,Leeds,2.0,4.0,2.25,3.2,3.3,20222023_8_10_Home
+20222023,Chelsea,Everton,2.0,2.0,1.5,4.2,7.5,20222023_1_5_Home
+20222023,Arsenal,Crystal Palace,4.0,1.0,1.25,5.5,15.0,20222023_11_16_Home
+20222023,Man City,Liverpool,4.0,1.0,1.62,4.2,5.0,20222023_4_3_Home
+20222023,Arsenal,Leeds,4.0,1.0,1.29,6.0,9.0,20222023_11_10_Home
+20222023,Bournemouth,Fulham,2.0,1.0,2.55,3.3,2.8,20222023_24_18_Home
+20222023,Brighton,Brentford,3.0,3.0,1.67,4.0,5.0,20222023_19_21_Home
+20222023,Crystal Palace,Leicester,2.0,1.0,2.5,3.25,2.9,20222023_16_6_Home
+20222023,Nott'm Forest,Wolves,1.0,1.0,3.0,3.1,2.55,20222023_25_8_Home
+20222023,Chelsea,Aston Villa,0.0,2.0,1.67,3.8,5.25,20222023_1_20_Home
+20222023,West Ham,Southampton,1.0,0.0,1.73,3.6,5.0,20222023_9_7_Home
+20222023,Newcastle,Man United,2.0,0.0,2.4,3.4,2.9,20222023_15_14_Home
+20222023,Everton,Tottenham,1.0,1.0,3.4,3.3,2.2,20222023_5_17_Home
+20222023,Bournemouth,Brighton,0.0,2.0,6.0,4.2,1.53,20222023_24_19_Home
+20222023,Leeds,Nott'm Forest,2.0,1.0,1.7,3.75,5.0,20222023_10_25_Home
+20222023,Leicester,Aston Villa,1.0,2.0,2.55,3.3,2.75,20222023_6_20_Home
+20222023,Chelsea,Liverpool,0.0,0.0,2.2,3.4,3.25,20222023_1_3_Home
+20222023,Man United,Brentford,1.0,0.0,1.65,4.0,5.0,20222023_14_21_Home
+20222023,West Ham,Newcastle,1.0,5.0,3.6,3.25,2.15,20222023_9_15_Home
+20222023,Man United,Everton,2.0,0.0,1.5,4.33,6.5,20222023_14_5_Home
+20222023,Aston Villa,Nott'm Forest,2.0,0.0,1.6,4.2,5.25,20222023_20_25_Home
+20222023,Brentford,Newcastle,1.0,2.0,3.6,3.4,2.05,20222023_21_15_Home
+20222023,Fulham,West Ham,0.0,1.0,2.8,3.25,2.63,20222023_18_9_Home
+20222023,Leicester,Bournemouth,0.0,1.0,1.83,3.75,4.2,20222023_6_24_Home
+20222023,Tottenham,Brighton,2.0,1.0,2.55,3.5,2.7,20222023_17_19_Home
+20222023,Wolves,Chelsea,1.0,0.0,4.2,3.5,1.91,20222023_8_1_Home
+20222023,Southampton,Man City,1.0,4.0,11.0,6.0,1.25,20222023_7_4_Home
+20222023,Leeds,Crystal Palace,1.0,5.0,2.1,3.4,3.6,20222023_10_16_Home
+20222023,Liverpool,Arsenal,2.0,2.0,2.88,3.6,2.38,20222023_3_11_Home
+20222023,Aston Villa,Newcastle,3.0,0.0,3.6,3.4,2.05,20222023_20_15_Home
+20222023,Chelsea,Brighton,1.0,2.0,2.63,3.4,2.63,20222023_1_19_Home
+20222023,Everton,Fulham,1.0,3.0,2.05,3.4,3.7,20222023_5_18_Home
+20222023,Southampton,Crystal Palace,0.0,2.0,2.8,3.1,2.7,20222023_7_16_Home
+20222023,Tottenham,Bournemouth,2.0,3.0,1.45,4.5,7.0,20222023_17_24_Home
+20222023,Wolves,Brentford,2.0,0.0,2.45,3.1,3.0,20222023_8_21_Home
+20222023,Man City,Leicester,3.0,1.0,1.14,8.5,15.0,20222023_4_6_Home
+20222023,West Ham,Arsenal,2.0,2.0,6.0,4.2,1.55,20222023_9_11_Home
+20222023,Nott'm Forest,Man United,0.0,2.0,5.5,4.0,1.62,20222023_25_14_Home
+20222023,Leeds,Liverpool,1.0,6.0,4.2,4.2,1.73,20222023_10_3_Home
+20222023,Arsenal,Southampton,3.0,3.0,1.2,7.0,13.0,20222023_11_7_Home
+20222023,Fulham,Leeds,2.0,1.0,2.3,3.4,3.1,20222023_18_10_Home
+20222023,Brentford,Aston Villa,1.0,1.0,2.5,3.25,2.88,20222023_21_20_Home
+20222023,Crystal Palace,Everton,0.0,0.0,2.05,3.2,3.75,20222023_16_5_Home
+20222023,Leicester,Wolves,2.0,1.0,2.38,3.3,3.0,20222023_6_8_Home
+20222023,Liverpool,Nott'm Forest,3.0,2.0,1.17,7.5,17.0,20222023_3_25_Home
+20222023,Bournemouth,West Ham,0.0,4.0,2.88,3.2,2.55,20222023_24_9_Home
+20222023,Newcastle,Tottenham,6.0,1.0,1.83,3.75,4.2,20222023_15_17_Home
+20222023,Wolves,Crystal Palace,2.0,0.0,2.45,3.2,3.0,20222023_8_16_Home
+20222023,Aston Villa,Fulham,1.0,0.0,1.75,4.0,4.2,20222023_20_18_Home
+20222023,Leeds,Leicester,1.0,1.0,2.3,3.5,3.0,20222023_10_6_Home
+20222023,Nott'm Forest,Brighton,3.0,1.0,6.0,4.2,1.53,20222023_25_19_Home
+20222023,Chelsea,Brentford,0.0,2.0,1.7,4.0,4.75,20222023_1_21_Home
+20222023,West Ham,Liverpool,1.0,2.0,3.9,3.9,1.85,20222023_9_3_Home
+20222023,Man City,Arsenal,4.0,1.0,1.55,4.5,5.25,20222023_4_11_Home
+20222023,Everton,Newcastle,1.0,4.0,4.75,3.6,1.73,20222023_5_15_Home
+20222023,Southampton,Bournemouth,0.0,1.0,2.25,3.4,3.2,20222023_7_24_Home
+20222023,Tottenham,Man United,2.0,2.0,2.8,3.6,2.4,20222023_17_14_Home
+20222023,Crystal Palace,West Ham,4.0,3.0,2.63,3.25,2.75,20222023_16_9_Home
+20222023,Brentford,Nott'm Forest,2.0,1.0,1.65,3.8,5.5,20222023_21_25_Home
+20222023,Brighton,Wolves,6.0,0.0,1.5,4.33,6.5,20222023_19_8_Home
+20222023,Bournemouth,Leeds,4.0,1.0,2.55,3.5,2.7,20222023_24_10_Home
+20222023,Fulham,Man City,1.0,2.0,12.0,6.0,1.25,20222023_18_4_Home
+20222023,Man United,Aston Villa,1.0,0.0,1.73,3.9,4.6,20222023_14_20_Home
+20222023,Newcastle,Southampton,3.0,1.0,1.3,5.25,10.0,20222023_15_7_Home
+20222023,Liverpool,Tottenham,4.0,3.0,1.53,4.5,5.75,20222023_3_17_Home
+20222023,Leicester,Everton,2.0,2.0,2.0,3.5,3.75,20222023_6_5_Home
+20222023,Arsenal,Chelsea,3.0,1.0,1.6,4.0,5.5,20222023_11_1_Home
+20222023,Liverpool,Fulham,1.0,0.0,1.25,5.75,11.0,20222023_3_18_Home
+20222023,Man City,West Ham,3.0,0.0,1.2,7.0,13.0,20222023_4_9_Home
+20222023,Brighton,Man United,1.0,0.0,1.95,3.5,3.75,20222023_19_14_Home
+20222023,Bournemouth,Chelsea,1.0,3.0,3.3,3.5,2.15,20222023_24_1_Home
+20222023,Man City,Leeds,2.0,1.0,1.17,8.5,15.0,20222023_4_10_Home
+20222023,Tottenham,Crystal Palace,1.0,0.0,1.8,3.8,4.2,20222023_17_16_Home
+20222023,Wolves,Aston Villa,1.0,0.0,2.88,3.3,2.5,20222023_8_20_Home
+20222023,Liverpool,Brentford,1.0,0.0,1.44,5.0,6.0,20222023_3_21_Home
+20222023,Newcastle,Arsenal,0.0,2.0,2.45,3.75,2.63,20222023_15_11_Home
+20222023,West Ham,Man United,1.0,0.0,3.4,3.75,2.05,20222023_9_14_Home
+20222023,Fulham,Leicester,5.0,3.0,2.63,3.5,2.6,20222023_18_6_Home
+20222023,Brighton,Everton,1.0,5.0,1.33,5.25,9.0,20222023_19_5_Home
+20222023,Nott'm Forest,Southampton,4.0,3.0,2.1,3.6,3.4,20222023_25_7_Home
+20222023,Leeds,Newcastle,2.0,2.0,4.33,4.2,1.7,20222023_10_15_Home
+20222023,Aston Villa,Tottenham,2.0,1.0,2.25,3.6,2.9,20222023_20_17_Home
+20222023,Chelsea,Nott'm Forest,2.0,2.0,1.5,4.5,6.0,20222023_1_25_Home
+20222023,Crystal Palace,Bournemouth,2.0,0.0,1.83,3.6,4.2,20222023_16_24_Home
+20222023,Man United,Wolves,2.0,0.0,1.36,5.0,7.5,20222023_14_8_Home
+20222023,Southampton,Fulham,0.0,2.0,2.75,3.3,2.5,20222023_7_18_Home
+20222023,Brentford,West Ham,2.0,0.0,2.0,3.5,3.6,20222023_21_9_Home
+20222023,Everton,Man City,0.0,3.0,9.0,4.75,1.36,20222023_5_4_Home
+20222023,Arsenal,Brighton,0.0,3.0,1.73,4.2,4.2,20222023_11_19_Home
+20222023,Leicester,Liverpool,0.0,3.0,5.25,4.33,1.57,20222023_6_3_Home
+20222023,Newcastle,Brighton,4.0,1.0,2.0,3.8,3.5,20222023_15_19_Home
+20222023,Tottenham,Brentford,1.0,3.0,1.83,3.9,4.0,20222023_17_21_Home
+20222023,Bournemouth,Man United,0.0,1.0,6.0,4.75,1.5,20222023_24_14_Home
+20222023,Fulham,Crystal Palace,2.0,2.0,2.45,3.4,2.9,20222023_18_16_Home
+20222023,Liverpool,Aston Villa,1.0,1.0,1.45,5.0,6.25,20222023_3_20_Home
+20222023,Wolves,Everton,1.0,1.0,2.75,3.3,2.6,20222023_8_5_Home
+20222023,Nott'm Forest,Arsenal,1.0,0.0,5.25,4.33,1.57,20222023_25_11_Home
+20222023,West Ham,Leeds,3.0,1.0,2.4,3.5,2.88,20222023_9_10_Home
+20222023,Brighton,Southampton,3.0,1.0,1.22,7.0,11.0,20222023_19_7_Home
+20222023,Man City,Chelsea,1.0,0.0,1.25,6.0,11.0,20222023_4_1_Home
+20222023,Newcastle,Leicester,0.0,0.0,1.36,5.5,7.0,20222023_15_6_Home
+20222023,Brighton,Man City,1.0,1.0,4.0,4.33,1.75,20222023_19_4_Home
+20222023,Man United,Chelsea,4.0,1.0,1.6,4.33,5.0,20222023_14_1_Home
+20222023,Arsenal,Wolves,5.0,0.0,1.36,5.25,8.0,20222023_11_8_Home
+20222023,Aston Villa,Brighton,2.0,1.0,2.0,3.6,3.5,20222023_20_19_Home
+20222023,Brentford,Man City,1.0,0.0,3.8,4.0,1.83,20222023_21_4_Home
+20222023,Chelsea,Newcastle,1.0,1.0,2.9,3.5,2.38,20222023_1_15_Home
+20222023,Crystal Palace,Nott'm Forest,1.0,1.0,1.67,4.0,5.0,20222023_16_25_Home
+20222023,Everton,Bournemouth,1.0,0.0,1.5,4.5,6.5,20222023_5_24_Home
+20222023,Leeds,Tottenham,1.0,4.0,2.75,3.8,2.3,20222023_10_17_Home
+20222023,Leicester,West Ham,2.0,1.0,1.91,3.8,3.6,20222023_6_9_Home
+20222023,Man United,Fulham,2.0,1.0,1.5,4.33,6.0,20222023_14_18_Home
+20222023,Southampton,Liverpool,4.0,4.0,6.5,4.75,1.44,20222023_7_3_Home
+20212022,Brentford,Arsenal,2.0,0.0,4.0,3.4,1.95,20212022_21_11_Home
+20212022,Man United,Leeds,5.0,1.0,1.53,4.5,5.75,20212022_14_10_Home
+20212022,Burnley,Brighton,1.0,2.0,3.1,3.1,2.45,20212022_12_19_Home
+20212022,Chelsea,Crystal Palace,3.0,0.0,1.25,5.75,13.0,20212022_1_16_Home
+20212022,Everton,Southampton,3.0,1.0,1.9,3.5,4.0,20212022_5_7_Home
+20212022,Leicester,Wolves,1.0,0.0,1.66,3.8,5.25,20212022_6_8_Home
+20212022,Watford,Aston Villa,3.0,2.0,3.1,3.2,2.37,20212022_23_20_Home
+20212022,Norwich,Liverpool,0.0,3.0,9.0,5.75,1.3,20212022_22_3_Home
+20212022,Newcastle,West Ham,2.0,4.0,3.2,3.5,2.2,20212022_15_9_Home
+20212022,Tottenham,Man City,1.0,0.0,5.5,4.2,1.6,20212022_17_4_Home
+20212022,Liverpool,Burnley,2.0,0.0,1.18,7.5,13.0,20212022_3_12_Home
+20212022,Aston Villa,Newcastle,2.0,0.0,1.8,3.75,4.33,20212022_20_15_Home
+20212022,Crystal Palace,Brentford,0.0,0.0,2.55,3.2,2.87,20212022_16_21_Home
+20212022,Leeds,Everton,2.0,2.0,2.37,3.4,3.0,20212022_10_5_Home
+20212022,Man City,Norwich,5.0,0.0,1.08,11.0,26.0,20212022_4_22_Home
+20212022,Brighton,Watford,2.0,0.0,1.7,3.5,5.75,20212022_19_23_Home
+20212022,Southampton,Man United,1.0,1.0,5.5,4.2,1.57,20212022_7_14_Home
+20212022,Wolves,Tottenham,0.0,1.0,3.2,3.2,2.35,20212022_8_17_Home
+20212022,Arsenal,Chelsea,0.0,2.0,4.75,3.75,1.72,20212022_11_1_Home
+20212022,West Ham,Leicester,4.0,1.0,2.5,3.5,2.75,20212022_9_6_Home
+20212022,Man City,Arsenal,5.0,0.0,1.25,6.0,12.0,20212022_4_11_Home
+20212022,Aston Villa,Brentford,1.0,1.0,1.95,3.6,3.8,20212022_20_21_Home
+20212022,Brighton,Everton,0.0,2.0,2.3,3.2,3.3,20212022_19_5_Home
+20212022,Newcastle,Southampton,2.0,2.0,2.5,3.4,2.8,20212022_15_7_Home
+20212022,Norwich,Leicester,1.0,2.0,4.5,3.5,1.85,20212022_22_6_Home
+20212022,West Ham,Crystal Palace,2.0,2.0,1.55,4.0,6.5,20212022_9_16_Home
+20212022,Liverpool,Chelsea,1.0,1.0,2.45,3.3,2.9,20212022_3_1_Home
+20212022,Burnley,Leeds,1.0,1.0,3.1,3.5,2.25,20212022_12_10_Home
+20212022,Tottenham,Watford,1.0,0.0,1.36,4.75,9.0,20212022_17_23_Home
+20212022,Wolves,Man United,0.0,1.0,5.0,3.5,1.75,20212022_8_14_Home
+20212022,Crystal Palace,Tottenham,3.0,0.0,4.2,3.5,1.9,20212022_16_17_Home
+20212022,Arsenal,Norwich,1.0,0.0,1.5,4.6,6.0,20212022_11_22_Home
+20212022,Brentford,Brighton,0.0,1.0,2.8,3.2,2.62,20212022_21_19_Home
+20212022,Leicester,Man City,0.0,1.0,6.0,4.0,1.57,20212022_6_4_Home
+20212022,Man United,Newcastle,4.0,1.0,1.18,7.5,15.0,20212022_14_15_Home
+20212022,Southampton,West Ham,0.0,0.0,2.9,3.5,2.4,20212022_7_9_Home
+20212022,Watford,Wolves,0.0,2.0,3.4,3.2,2.25,20212022_23_8_Home
+20212022,Chelsea,Aston Villa,3.0,0.0,1.28,5.5,11.0,20212022_1_20_Home
+20212022,Leeds,Liverpool,0.0,3.0,4.33,4.0,1.75,20212022_10_3_Home
+20212022,Everton,Burnley,3.0,1.0,1.7,3.75,5.0,20212022_5_12_Home
+20212022,Newcastle,Leeds,1.0,1.0,3.0,3.6,2.3,20212022_15_10_Home
+20212022,Wolves,Brentford,0.0,2.0,1.83,3.25,5.0,20212022_8_21_Home
+20212022,Burnley,Arsenal,0.0,1.0,3.8,3.6,1.95,20212022_12_11_Home
+20212022,Liverpool,Crystal Palace,3.0,0.0,1.2,7.0,13.0,20212022_3_16_Home
+20212022,Man City,Southampton,0.0,0.0,1.12,9.5,17.0,20212022_4_7_Home
+20212022,Norwich,Watford,1.0,3.0,2.15,3.3,3.5,20212022_22_23_Home
+20212022,Aston Villa,Everton,3.0,0.0,2.4,3.3,3.0,20212022_20_5_Home
+20212022,Brighton,Leicester,2.0,1.0,2.7,3.2,2.75,20212022_19_6_Home
+20212022,West Ham,Man United,1.0,2.0,4.33,4.0,1.75,20212022_9_14_Home
+20212022,Tottenham,Chelsea,0.0,3.0,5.0,3.8,1.7,20212022_17_1_Home
+20212022,Chelsea,Man City,0.0,1.0,2.62,3.2,2.75,20212022_1_4_Home
+20212022,Man United,Aston Villa,0.0,1.0,1.36,5.25,8.0,20212022_14_20_Home
+20212022,Everton,Norwich,2.0,0.0,1.61,3.8,5.75,20212022_5_22_Home
+20212022,Leeds,West Ham,1.0,2.0,3.0,3.6,2.25,20212022_10_9_Home
+20212022,Leicester,Burnley,2.0,2.0,1.57,4.0,6.0,20212022_6_12_Home
+20212022,Watford,Newcastle,1.0,1.0,2.2,3.4,3.3,20212022_23_15_Home
+20212022,Brentford,Liverpool,3.0,3.0,7.0,4.5,1.45,20212022_21_3_Home
+20212022,Southampton,Wolves,0.0,1.0,2.62,3.2,2.8,20212022_7_8_Home
+20212022,Arsenal,Tottenham,3.0,1.0,2.15,3.3,3.5,20212022_11_17_Home
+20212022,Crystal Palace,Brighton,1.0,1.0,3.1,3.2,2.45,20212022_16_19_Home
+20212022,Man United,Everton,1.0,1.0,1.45,4.33,7.5,20212022_14_5_Home
+20212022,Burnley,Norwich,0.0,0.0,1.85,3.6,4.33,20212022_12_22_Home
+20212022,Chelsea,Southampton,3.0,1.0,1.36,4.75,9.0,20212022_1_7_Home
+20212022,Leeds,Watford,1.0,0.0,1.7,4.0,4.75,20212022_10_23_Home
+20212022,Wolves,Newcastle,2.0,1.0,1.61,4.2,5.25,20212022_8_15_Home
+20212022,Brighton,Arsenal,0.0,0.0,3.0,3.25,2.4,20212022_19_11_Home
+20212022,Crystal Palace,Leicester,2.0,2.0,3.1,3.4,2.3,20212022_16_6_Home
+20212022,Tottenham,Aston Villa,2.0,1.0,2.1,3.6,3.4,20212022_17_20_Home
+20212022,West Ham,Brentford,1.0,2.0,1.75,3.75,4.75,20212022_9_21_Home
+20212022,Liverpool,Man City,2.0,2.0,2.87,3.5,2.4,20212022_3_4_Home
+20212022,Watford,Liverpool,0.0,5.0,8.5,5.5,1.33,20212022_23_3_Home
+20212022,Aston Villa,Wolves,2.0,3.0,2.15,3.25,3.5,20212022_20_8_Home
+20212022,Leicester,Man United,4.0,2.0,3.5,3.6,2.05,20212022_6_14_Home
+20212022,Man City,Burnley,2.0,0.0,1.12,9.0,19.0,20212022_4_12_Home
+20212022,Norwich,Brighton,0.0,0.0,3.6,3.4,2.1,20212022_22_19_Home
+20212022,Southampton,Leeds,1.0,0.0,2.3,3.5,3.0,20212022_7_10_Home
+20212022,Brentford,Chelsea,0.0,1.0,6.5,3.8,1.57,20212022_21_1_Home
+20212022,Everton,West Ham,0.0,1.0,2.5,3.4,2.8,20212022_5_9_Home
+20212022,Newcastle,Tottenham,2.0,3.0,3.5,3.6,2.05,20212022_15_17_Home
+20212022,Arsenal,Crystal Palace,2.0,2.0,1.6,3.8,6.0,20212022_11_16_Home
+20212022,Arsenal,Aston Villa,3.0,1.0,1.83,3.75,4.2,20212022_11_20_Home
+20212022,Chelsea,Norwich,7.0,0.0,1.18,7.0,15.0,20212022_1_22_Home
+20212022,Crystal Palace,Newcastle,1.0,1.0,1.9,3.6,4.0,20212022_16_15_Home
+20212022,Everton,Watford,2.0,5.0,1.65,3.8,5.5,20212022_5_23_Home
+20212022,Leeds,Wolves,1.0,1.0,2.4,3.4,2.87,20212022_10_8_Home
+20212022,Southampton,Burnley,2.0,2.0,1.95,3.5,3.9,20212022_7_12_Home
+20212022,Brighton,Man City,1.0,4.0,8.0,4.75,1.4,20212022_19_4_Home
+20212022,Brentford,Leicester,1.0,2.0,2.62,3.3,2.7,20212022_21_6_Home
+20212022,West Ham,Tottenham,1.0,0.0,2.3,3.5,3.0,20212022_9_17_Home
+20212022,Man United,Liverpool,0.0,5.0,3.1,3.6,2.2,20212022_14_3_Home
+20212022,Leicester,Arsenal,0.0,2.0,2.4,3.5,2.87,20212022_6_11_Home
+20212022,Burnley,Brentford,3.0,1.0,2.6,3.3,2.75,20212022_12_21_Home
+20212022,Liverpool,Brighton,2.0,2.0,1.22,6.5,13.0,20212022_3_19_Home
+20212022,Man City,Crystal Palace,0.0,2.0,1.14,8.0,19.0,20212022_4_16_Home
+20212022,Newcastle,Chelsea,0.0,3.0,8.5,5.0,1.36,20212022_15_1_Home
+20212022,Watford,Southampton,0.0,1.0,3.2,3.3,2.3,20212022_23_7_Home
+20212022,Tottenham,Man United,0.0,3.0,2.87,3.6,2.37,20212022_17_14_Home
+20212022,Norwich,Leeds,1.0,2.0,3.4,3.5,2.1,20212022_22_10_Home
+20212022,Aston Villa,West Ham,1.0,4.0,2.8,3.5,2.45,20212022_20_9_Home
+20212022,Wolves,Everton,2.0,1.0,2.2,3.2,3.5,20212022_8_5_Home
+20212022,Southampton,Aston Villa,1.0,0.0,1.95,3.6,3.75,20212022_7_20_Home
+20212022,Man United,Man City,0.0,2.0,4.75,4.0,1.7,20212022_14_4_Home
+20212022,Brentford,Norwich,1.0,2.0,1.6,4.0,5.75,20212022_21_22_Home
+20212022,Chelsea,Burnley,1.0,1.0,1.25,6.0,12.0,20212022_1_12_Home
+20212022,Crystal Palace,Wolves,2.0,0.0,2.45,3.2,3.0,20212022_16_8_Home
+20212022,Brighton,Newcastle,1.0,1.0,1.57,3.9,6.0,20212022_19_15_Home
+20212022,Arsenal,Watford,1.0,0.0,1.36,4.75,8.5,20212022_11_23_Home
+20212022,Everton,Tottenham,0.0,0.0,3.1,3.25,2.37,20212022_5_17_Home
+20212022,Leeds,Leicester,1.0,1.0,2.8,3.5,2.45,20212022_10_6_Home
+20212022,West Ham,Liverpool,3.0,2.0,4.75,4.0,1.7,20212022_9_3_Home
+20212022,Leicester,Chelsea,0.0,3.0,4.75,3.75,1.75,20212022_6_1_Home
+20212022,Aston Villa,Brighton,2.0,0.0,2.45,3.3,2.9,20212022_20_19_Home
+20212022,Burnley,Crystal Palace,3.0,3.0,2.7,3.2,2.7,20212022_12_16_Home
+20212022,Newcastle,Brentford,3.0,3.0,2.62,3.4,2.7,20212022_15_21_Home
+20212022,Norwich,Southampton,2.0,1.0,3.6,3.5,2.05,20212022_22_7_Home
+20212022,Watford,Man United,4.0,1.0,6.5,4.75,1.45,20212022_23_14_Home
+20212022,Wolves,West Ham,1.0,0.0,3.0,3.25,2.4,20212022_8_9_Home
+20212022,Liverpool,Arsenal,4.0,0.0,1.45,4.75,6.5,20212022_3_11_Home
+20212022,Man City,Everton,3.0,0.0,1.14,8.0,19.0,20212022_4_5_Home
+20212022,Tottenham,Leeds,2.0,1.0,1.7,4.2,4.5,20212022_17_10_Home
+20212022,Arsenal,Newcastle,2.0,0.0,1.44,4.75,7.0,20212022_11_15_Home
+20212022,Crystal Palace,Aston Villa,1.0,2.0,2.2,3.4,3.3,20212022_16_20_Home
+20212022,Liverpool,Southampton,4.0,0.0,1.28,6.0,9.0,20212022_3_7_Home
+20212022,Norwich,Wolves,0.0,0.0,3.5,3.3,2.15,20212022_22_8_Home
+20212022,Brighton,Leeds,0.0,0.0,2.05,3.4,3.75,20212022_19_10_Home
+20212022,Brentford,Everton,1.0,0.0,2.25,3.2,3.4,20212022_21_5_Home
+20212022,Leicester,Watford,4.0,2.0,1.61,4.0,5.5,20212022_6_23_Home
+20212022,Man City,West Ham,2.0,1.0,1.28,5.75,10.0,20212022_4_9_Home
+20212022,Chelsea,Man United,1.0,1.0,1.57,4.0,6.0,20212022_1_14_Home
+20212022,Newcastle,Norwich,1.0,1.0,1.95,3.5,3.9,20212022_15_22_Home
+20212022,Leeds,Crystal Palace,1.0,0.0,2.4,3.3,3.0,20212022_10_16_Home
+20212022,Southampton,Leicester,2.0,2.0,2.37,3.5,2.87,20212022_7_6_Home
+20212022,Watford,Chelsea,1.0,2.0,10.0,5.25,1.3,20212022_23_1_Home
+20212022,West Ham,Brighton,1.0,1.0,1.95,3.6,3.8,20212022_9_19_Home
+20212022,Wolves,Burnley,0.0,0.0,1.85,3.5,4.33,20212022_8_12_Home
+20212022,Aston Villa,Man City,1.0,2.0,9.0,5.25,1.33,20212022_20_4_Home
+20212022,Everton,Liverpool,1.0,4.0,7.5,5.25,1.36,20212022_5_3_Home
+20212022,Tottenham,Brentford,2.0,0.0,1.6,4.2,5.25,20212022_17_21_Home
+20212022,Man United,Arsenal,3.0,2.0,1.95,3.75,3.75,20212022_14_11_Home
+20212022,West Ham,Chelsea,3.0,2.0,4.75,3.6,1.75,20212022_9_1_Home
+20212022,Newcastle,Burnley,1.0,0.0,2.3,3.3,3.2,20212022_15_12_Home
+20212022,Southampton,Brighton,1.0,1.0,2.45,3.2,3.0,20212022_7_19_Home
+20212022,Wolves,Liverpool,0.0,1.0,8.0,4.75,1.4,20212022_8_3_Home
+20212022,Watford,Man City,1.0,3.0,12.0,7.0,1.2,20212022_23_4_Home
+20212022,Leeds,Brentford,2.0,2.0,1.95,3.6,3.8,20212022_10_21_Home
+20212022,Man United,Crystal Palace,1.0,0.0,1.5,4.33,6.5,20212022_14_16_Home
+20212022,Tottenham,Norwich,3.0,0.0,1.36,5.0,8.5,20212022_17_22_Home
+20212022,Aston Villa,Leicester,2.0,1.0,2.37,3.4,3.0,20212022_20_6_Home
+20212022,Everton,Arsenal,2.0,1.0,3.4,3.5,2.1,20212022_5_11_Home
+20212022,Brentford,Watford,2.0,1.0,2.25,3.3,3.3,20212022_21_23_Home
+20212022,Man City,Wolves,1.0,0.0,1.14,8.0,19.0,20212022_4_8_Home
+20212022,Arsenal,Southampton,3.0,0.0,1.61,4.0,5.5,20212022_11_7_Home
+20212022,Chelsea,Leeds,3.0,2.0,1.25,5.75,12.0,20212022_1_10_Home
+20212022,Liverpool,Aston Villa,1.0,0.0,1.2,7.0,13.0,20212022_3_20_Home
+20212022,Norwich,Man United,0.0,1.0,7.0,4.5,1.45,20212022_22_14_Home
+20212022,Burnley,West Ham,0.0,0.0,3.6,3.6,2.0,20212022_12_9_Home
+20212022,Leicester,Newcastle,4.0,0.0,1.66,4.1,4.75,20212022_6_15_Home
+20212022,Crystal Palace,Everton,3.0,1.0,2.3,3.2,3.3,20212022_16_5_Home
+20212022,Norwich,Aston Villa,0.0,2.0,3.3,3.3,2.25,20212022_22_20_Home
+20212022,Man City,Leeds,7.0,0.0,1.14,8.5,15.0,20212022_4_10_Home
+20212022,Brighton,Wolves,0.0,1.0,2.25,3.1,3.5,20212022_19_8_Home
+20212022,Crystal Palace,Southampton,2.0,2.0,2.15,3.3,3.5,20212022_16_7_Home
+20212022,Arsenal,West Ham,2.0,0.0,2.1,3.6,3.3,20212022_11_9_Home
+20212022,Chelsea,Everton,1.0,1.0,1.22,6.5,13.0,20212022_1_5_Home
+20212022,Liverpool,Newcastle,3.0,1.0,1.12,9.0,19.0,20212022_3_15_Home
+20212022,Leeds,Arsenal,1.0,4.0,3.9,3.8,1.83,20212022_10_11_Home
+20212022,Newcastle,Man City,0.0,4.0,13.0,7.5,1.18,20212022_15_4_Home
+20212022,Wolves,Chelsea,0.0,0.0,7.0,4.2,1.5,20212022_8_1_Home
+20212022,Tottenham,Liverpool,2.0,2.0,5.25,4.75,1.53,20212022_17_3_Home
+20212022,Man City,Leicester,6.0,3.0,1.18,7.5,13.0,20212022_4_6_Home
+20212022,Norwich,Arsenal,0.0,5.0,8.0,4.75,1.4,20212022_22_11_Home
+20212022,Tottenham,Crystal Palace,3.0,0.0,1.72,3.8,4.75,20212022_17_16_Home
+20212022,West Ham,Southampton,2.0,3.0,1.8,3.9,4.2,20212022_9_7_Home
+20212022,Aston Villa,Chelsea,1.0,3.0,5.25,3.8,1.65,20212022_20_1_Home
+20212022,Brighton,Brentford,2.0,0.0,1.9,3.4,4.2,20212022_19_21_Home
+20212022,Newcastle,Man United,1.0,1.0,6.5,4.75,1.44,20212022_15_14_Home
+20212022,Crystal Palace,Norwich,3.0,0.0,1.65,3.75,5.5,20212022_16_22_Home
+20212022,Southampton,Tottenham,1.0,1.0,3.75,3.5,2.0,20212022_7_17_Home
+20212022,Watford,West Ham,1.0,4.0,3.4,3.6,2.1,20212022_23_9_Home
+20212022,Leicester,Liverpool,1.0,0.0,8.0,5.5,1.33,20212022_6_3_Home
+20212022,Chelsea,Brighton,1.0,1.0,1.4,4.5,7.5,20212022_1_19_Home
+20212022,Brentford,Man City,0.0,1.0,19.0,8.0,1.14,20212022_21_4_Home
+20212022,Man United,Burnley,3.0,1.0,1.36,5.0,9.0,20212022_14_12_Home
+20212022,Arsenal,Man City,1.0,2.0,5.75,4.75,1.5,20212022_11_4_Home
+20212022,Watford,Tottenham,0.0,1.0,5.0,4.2,1.61,20212022_23_17_Home
+20212022,Crystal Palace,West Ham,2.0,3.0,3.1,3.4,2.3,20212022_16_9_Home
+20212022,Brentford,Aston Villa,2.0,1.0,3.0,3.3,2.4,20212022_21_20_Home
+20212022,Everton,Brighton,2.0,3.0,2.75,3.2,2.62,20212022_5_19_Home
+20212022,Leeds,Burnley,3.0,1.0,2.05,3.5,3.5,20212022_10_12_Home
+20212022,Chelsea,Liverpool,2.0,2.0,3.1,3.5,2.25,20212022_1_3_Home
+20212022,Man United,Wolves,0.0,1.0,1.53,4.33,6.0,20212022_14_8_Home
+20212022,Southampton,Brentford,4.0,1.0,2.05,3.4,3.6,20212022_7_21_Home
+20212022,West Ham,Norwich,2.0,0.0,1.28,5.5,10.0,20212022_9_22_Home
+20212022,Brighton,Crystal Palace,1.0,1.0,2.05,3.3,3.8,20212022_19_16_Home
+20212022,Man City,Chelsea,1.0,0.0,1.65,4.0,5.0,20212022_4_1_Home
+20212022,Newcastle,Watford,1.0,1.0,2.0,3.6,3.6,20212022_15_23_Home
+20212022,Norwich,Everton,2.0,1.0,3.75,3.5,2.0,20212022_22_5_Home
+20212022,Wolves,Southampton,3.0,1.0,2.25,3.2,3.4,20212022_8_7_Home
+20212022,Aston Villa,Man United,2.0,2.0,2.87,3.5,2.4,20212022_20_14_Home
+20212022,Liverpool,Brentford,3.0,0.0,1.3,5.5,10.0,20212022_3_21_Home
+20212022,West Ham,Leeds,2.0,3.0,1.61,4.2,5.0,20212022_9_10_Home
+20212022,Brighton,Chelsea,1.0,1.0,4.75,3.75,1.72,20212022_19_1_Home
+20212022,Leicester,Tottenham,2.0,3.0,3.0,3.5,2.3,20212022_6_17_Home
+20212022,Brentford,Man United,1.0,3.0,4.5,3.7,1.8,20212022_21_14_Home
+20212022,Watford,Norwich,0.0,3.0,2.0,3.5,3.75,20212022_23_22_Home
+20212022,Everton,Aston Villa,0.0,1.0,2.75,3.25,2.62,20212022_5_20_Home
+20212022,Brentford,Wolves,1.0,2.0,3.2,2.8,2.6,20212022_21_8_Home
+20212022,Leeds,Newcastle,0.0,1.0,2.0,3.5,3.75,20212022_10_15_Home
+20212022,Man United,West Ham,1.0,0.0,1.85,3.8,4.0,20212022_14_9_Home
+20212022,Southampton,Man City,1.0,1.0,10.0,6.5,1.25,20212022_7_4_Home
+20212022,Arsenal,Burnley,0.0,0.0,1.36,4.75,9.0,20212022_11_12_Home
+20212022,Crystal Palace,Liverpool,1.0,3.0,6.0,4.2,1.53,20212022_16_3_Home
+20212022,Leicester,Brighton,1.0,1.0,2.5,3.25,2.9,20212022_6_19_Home
+20212022,Chelsea,Tottenham,2.0,0.0,1.61,4.2,5.0,20212022_1_17_Home
+20212022,Burnley,Watford,0.0,0.0,2.2,3.25,3.5,20212022_12_23_Home
+20212022,Newcastle,Everton,3.0,1.0,2.5,3.25,2.87,20212022_15_5_Home
+20212022,West Ham,Watford,1.0,0.0,1.55,4.2,5.75,20212022_9_23_Home
+20212022,Burnley,Man United,1.0,1.0,5.5,4.0,1.61,20212022_12_14_Home
+20212022,Man City,Brentford,2.0,0.0,1.1,9.5,23.0,20212022_4_21_Home
+20212022,Norwich,Crystal Palace,1.0,1.0,3.5,3.25,2.15,20212022_22_16_Home
+20212022,Tottenham,Southampton,2.0,3.0,1.6,4.0,5.5,20212022_17_7_Home
+20212022,Aston Villa,Leeds,3.0,3.0,1.8,3.8,4.2,20212022_20_10_Home
+20212022,Liverpool,Leicester,2.0,0.0,1.25,6.5,10.0,20212022_3_6_Home
+20212022,Wolves,Arsenal,0.0,1.0,3.5,3.2,2.2,20212022_8_11_Home
+20212022,Man United,Southampton,1.0,1.0,1.6,4.0,5.5,20212022_14_7_Home
+20212022,Brentford,Crystal Palace,0.0,0.0,2.55,3.1,3.0,20212022_21_16_Home
+20212022,Everton,Leeds,3.0,0.0,2.25,3.5,3.0,20212022_5_10_Home
+20212022,Watford,Brighton,0.0,2.0,3.5,3.3,2.05,20212022_23_19_Home
+20212022,Norwich,Man City,0.0,4.0,15.0,8.0,1.16,20212022_22_4_Home
+20212022,Burnley,Liverpool,0.0,1.0,10.0,5.25,1.28,20212022_12_3_Home
+20212022,Newcastle,Aston Villa,1.0,0.0,2.7,3.3,2.62,20212022_15_20_Home
+20212022,Tottenham,Wolves,0.0,2.0,1.7,3.6,5.5,20212022_17_8_Home
+20212022,Leicester,West Ham,2.0,2.0,2.9,3.5,2.3,20212022_6_9_Home
+20212022,Man United,Brighton,2.0,0.0,1.72,3.75,4.75,20212022_14_19_Home
+20212022,West Ham,Newcastle,1.0,1.0,1.7,4.0,4.75,20212022_9_15_Home
+20212022,Arsenal,Brentford,2.0,1.0,1.44,4.2,8.0,20212022_11_21_Home
+20212022,Aston Villa,Watford,0.0,1.0,1.65,3.6,5.75,20212022_20_23_Home
+20212022,Brighton,Burnley,0.0,3.0,1.66,3.5,6.0,20212022_19_12_Home
+20212022,Crystal Palace,Chelsea,0.0,1.0,5.5,3.8,1.65,20212022_16_1_Home
+20212022,Liverpool,Norwich,3.0,1.0,1.1,9.0,23.0,20212022_3_22_Home
+20212022,Southampton,Everton,2.0,0.0,2.1,3.5,3.5,20212022_7_5_Home
+20212022,Man City,Tottenham,2.0,3.0,1.28,6.0,10.0,20212022_4_17_Home
+20212022,Leeds,Man United,2.0,4.0,3.9,3.8,1.85,20212022_10_14_Home
+20212022,Wolves,Leicester,2.0,1.0,2.25,3.3,3.25,20212022_8_6_Home
+20212022,Burnley,Tottenham,1.0,0.0,4.6,3.8,1.75,20212022_12_17_Home
+20212022,Watford,Crystal Palace,1.0,4.0,3.1,3.3,2.3,20212022_23_16_Home
+20212022,Liverpool,Leeds,6.0,0.0,1.16,8.0,15.0,20212022_3_10_Home
+20212022,Arsenal,Wolves,2.0,1.0,1.65,3.8,5.5,20212022_11_8_Home
+20212022,Southampton,Norwich,2.0,0.0,1.53,4.33,6.0,20212022_7_22_Home
+20212022,Leeds,Tottenham,0.0,4.0,4.2,3.6,1.85,20212022_10_17_Home
+20212022,Brentford,Newcastle,0.0,2.0,2.5,3.2,3.0,20212022_21_15_Home
+20212022,Crystal Palace,Burnley,1.0,1.0,1.9,3.6,4.0,20212022_16_12_Home
+20212022,Man United,Watford,0.0,0.0,1.3,5.5,9.5,20212022_14_23_Home
+20212022,Brighton,Aston Villa,0.0,2.0,2.2,3.3,3.5,20212022_19_20_Home
+20212022,Everton,Man City,0.0,1.0,10.0,5.75,1.28,20212022_5_4_Home
+20212022,West Ham,Wolves,1.0,0.0,2.05,3.3,3.8,20212022_9_8_Home
+20212022,Burnley,Leicester,0.0,2.0,2.9,3.4,2.4,20212022_12_6_Home
+20212022,Leicester,Leeds,1.0,0.0,1.75,4.0,4.2,20212022_6_10_Home
+20212022,Aston Villa,Southampton,4.0,0.0,2.3,3.5,3.0,20212022_20_7_Home
+20212022,Burnley,Chelsea,0.0,4.0,6.5,4.33,1.5,20212022_12_1_Home
+20212022,Newcastle,Brighton,2.0,1.0,2.75,3.2,2.62,20212022_15_19_Home
+20212022,Norwich,Brentford,1.0,3.0,2.9,3.1,2.5,20212022_22_21_Home
+20212022,Wolves,Crystal Palace,0.0,2.0,2.3,3.1,3.4,20212022_8_16_Home
+20212022,Liverpool,West Ham,1.0,0.0,1.28,5.75,9.5,20212022_3_9_Home
+20212022,Watford,Arsenal,2.0,3.0,6.0,4.0,1.57,20212022_23_11_Home
+20212022,Man City,Man United,4.0,1.0,1.4,4.75,7.5,20212022_4_14_Home
+20212022,Tottenham,Everton,5.0,0.0,1.57,3.8,5.75,20212022_17_5_Home
+20212022,Norwich,Chelsea,1.0,3.0,11.0,4.75,1.3,20212022_22_1_Home
+20212022,Southampton,Newcastle,1.0,2.0,2.0,3.75,3.5,20212022_7_15_Home
+20212022,Wolves,Watford,4.0,0.0,1.75,3.6,4.5,20212022_8_23_Home
+20212022,Leeds,Aston Villa,0.0,3.0,2.7,3.5,2.5,20212022_10_20_Home
+20212022,Brighton,Liverpool,0.0,2.0,6.0,4.33,1.5,20212022_19_3_Home
+20212022,Brentford,Burnley,2.0,0.0,2.15,3.2,3.6,20212022_21_12_Home
+20212022,Man United,Tottenham,3.0,2.0,2.2,3.4,3.25,20212022_14_17_Home
+20212022,Chelsea,Newcastle,1.0,0.0,1.3,5.25,11.0,20212022_1_15_Home
+20212022,Everton,Wolves,0.0,1.0,2.3,3.2,3.3,20212022_5_8_Home
+20212022,Leeds,Norwich,2.0,1.0,1.55,4.2,5.75,20212022_10_22_Home
+20212022,Southampton,Watford,1.0,2.0,1.6,4.2,5.25,20212022_7_23_Home
+20212022,West Ham,Aston Villa,2.0,1.0,2.25,3.3,3.3,20212022_9_20_Home
+20212022,Arsenal,Leicester,2.0,0.0,1.5,4.5,6.0,20212022_11_6_Home
+20212022,Crystal Palace,Man City,0.0,0.0,10.0,5.0,1.33,20212022_16_4_Home
+20212022,Brighton,Tottenham,0.0,2.0,3.3,3.3,2.25,20212022_19_17_Home
+20212022,Arsenal,Liverpool,0.0,2.0,3.5,4.0,1.9,20212022_11_3_Home
+20212022,Everton,Newcastle,1.0,0.0,2.4,3.25,3.1,20212022_5_15_Home
+20212022,Wolves,Leeds,2.0,3.0,2.1,3.5,3.4,20212022_8_10_Home
+20212022,Aston Villa,Arsenal,0.0,1.0,3.0,3.3,2.4,20212022_20_11_Home
+20212022,Leicester,Brentford,2.0,1.0,2.15,3.4,3.4,20212022_6_21_Home
+20212022,Tottenham,West Ham,3.0,1.0,1.72,3.8,4.75,20212022_17_9_Home
+20212022,Liverpool,Watford,2.0,0.0,1.12,9.5,17.0,20212022_3_23_Home
+20212022,Brighton,Norwich,0.0,0.0,1.5,4.0,7.0,20212022_19_22_Home
+20212022,Burnley,Man City,0.0,2.0,15.0,6.5,1.2,20212022_12_4_Home
+20212022,Chelsea,Brentford,1.0,4.0,1.33,5.0,10.0,20212022_1_21_Home
+20212022,Leeds,Southampton,1.0,1.0,2.37,3.75,2.75,20212022_10_7_Home
+20212022,Wolves,Aston Villa,2.0,1.0,3.0,3.1,2.55,20212022_8_20_Home
+20212022,Man United,Leicester,1.0,1.0,1.5,4.5,6.0,20212022_14_6_Home
+20212022,West Ham,Everton,2.0,1.0,1.75,3.8,4.5,20212022_9_5_Home
+20212022,Tottenham,Newcastle,5.0,1.0,1.5,4.33,6.5,20212022_17_15_Home
+20212022,Crystal Palace,Arsenal,3.0,0.0,4.0,3.4,1.95,20212022_16_11_Home
+20212022,Burnley,Everton,3.0,2.0,2.62,3.1,2.87,20212022_12_5_Home
+20212022,Newcastle,Wolves,1.0,0.0,2.25,3.1,3.4,20212022_15_8_Home
+20212022,Everton,Man United,1.0,0.0,4.6,3.75,1.75,20212022_5_14_Home
+20212022,Arsenal,Brighton,1.0,2.0,1.61,3.8,5.75,20212022_11_19_Home
+20212022,Southampton,Chelsea,0.0,6.0,3.8,3.6,1.95,20212022_7_1_Home
+20212022,Watford,Leeds,0.0,3.0,2.7,3.4,2.55,20212022_23_10_Home
+20212022,Aston Villa,Tottenham,0.0,4.0,3.2,3.4,2.25,20212022_20_17_Home
+20212022,Brentford,West Ham,2.0,0.0,2.62,3.3,2.62,20212022_21_9_Home
+20212022,Leicester,Crystal Palace,2.0,1.0,2.37,3.3,2.9,20212022_6_16_Home
+20212022,Norwich,Burnley,2.0,0.0,2.87,3.2,2.55,20212022_22_12_Home
+20212022,Man City,Liverpool,2.0,2.0,2.0,3.75,3.5,20212022_4_3_Home
+20212022,Tottenham,Brighton,0.0,1.0,1.53,4.0,6.5,20212022_17_19_Home
+20212022,Man United,Norwich,3.0,2.0,1.25,6.5,10.0,20212022_14_22_Home
+20212022,Southampton,Arsenal,1.0,0.0,3.8,3.6,1.95,20212022_7_11_Home
+20212022,Watford,Brentford,1.0,2.0,2.7,3.3,2.55,20212022_23_21_Home
+20212022,Newcastle,Leicester,2.0,1.0,2.2,3.4,3.3,20212022_15_6_Home
+20212022,West Ham,Burnley,1.0,1.0,1.7,3.8,5.0,20212022_9_12_Home
+20212022,Liverpool,Man United,4.0,0.0,1.4,5.0,7.0,20212022_3_14_Home
+20212022,Chelsea,Arsenal,2.0,4.0,1.83,3.6,4.33,20212022_1_11_Home
+20212022,Everton,Leicester,1.0,1.0,2.25,3.4,3.25,20212022_5_6_Home
+20212022,Newcastle,Crystal Palace,1.0,0.0,2.25,3.4,3.25,20212022_15_16_Home
+20212022,Man City,Brighton,3.0,0.0,1.16,7.0,17.0,20212022_4_19_Home
+20212022,Burnley,Southampton,2.0,0.0,2.75,3.25,2.62,20212022_12_7_Home
+20212022,Arsenal,Man United,3.0,1.0,2.05,3.5,3.5,20212022_11_14_Home
+20212022,Leicester,Aston Villa,0.0,0.0,2.8,3.4,2.5,20212022_6_20_Home
+20212022,Man City,Watford,5.0,1.0,1.1,10.0,26.0,20212022_4_23_Home
+20212022,Norwich,Newcastle,0.0,3.0,3.5,3.3,2.15,20212022_22_15_Home
+20212022,Brentford,Tottenham,0.0,0.0,4.33,3.5,1.85,20212022_21_17_Home
+20212022,Brighton,Southampton,2.0,2.0,2.1,3.4,3.6,20212022_19_7_Home
+20212022,Burnley,Wolves,1.0,0.0,2.7,3.0,2.87,20212022_12_8_Home
+20212022,Chelsea,West Ham,1.0,0.0,1.5,4.33,6.5,20212022_1_9_Home
+20212022,Liverpool,Everton,2.0,0.0,1.18,7.0,15.0,20212022_3_5_Home
+20212022,Crystal Palace,Leeds,0.0,0.0,2.05,3.5,3.5,20212022_16_10_Home
+20212022,Man United,Chelsea,1.0,1.0,3.2,3.4,2.25,20212022_14_1_Home
+20212022,Newcastle,Liverpool,0.0,1.0,8.5,5.0,1.36,20212022_15_3_Home
+20212022,Aston Villa,Norwich,2.0,0.0,1.4,4.5,9.0,20212022_20_22_Home
+20212022,Southampton,Crystal Palace,1.0,2.0,2.4,3.3,3.1,20212022_7_16_Home
+20212022,Watford,Burnley,1.0,2.0,2.6,3.3,2.75,20212022_23_12_Home
+20212022,Wolves,Brighton,0.0,3.0,2.7,3.2,2.75,20212022_8_19_Home
+20212022,Leeds,Man City,0.0,4.0,8.5,6.0,1.3,20212022_10_4_Home
+20212022,Everton,Chelsea,1.0,0.0,5.0,3.6,1.75,20212022_5_1_Home
+20212022,Tottenham,Leicester,3.0,1.0,1.44,4.75,7.0,20212022_17_6_Home
+20212022,West Ham,Arsenal,1.0,2.0,4.33,3.8,1.8,20212022_9_11_Home
+20212022,Man United,Brentford,3.0,0.0,1.72,4.0,4.5,20212022_14_21_Home
+20212022,Brentford,Southampton,3.0,0.0,2.15,3.5,3.3,20212022_21_7_Home
+20212022,Burnley,Aston Villa,1.0,3.0,3.0,3.3,2.4,20212022_12_20_Home
+20212022,Chelsea,Wolves,2.0,2.0,1.33,5.0,9.5,20212022_1_8_Home
+20212022,Crystal Palace,Watford,1.0,0.0,1.65,4.0,5.0,20212022_16_23_Home
+20212022,Brighton,Man United,4.0,0.0,2.8,3.5,2.45,20212022_19_14_Home
+20212022,Liverpool,Tottenham,1.0,1.0,1.4,5.0,7.0,20212022_3_17_Home
+20212022,Arsenal,Leeds,2.0,1.0,1.45,4.5,7.0,20212022_11_10_Home
+20212022,Leicester,Everton,1.0,2.0,2.6,3.3,2.75,20212022_6_5_Home
+20212022,Norwich,West Ham,0.0,4.0,4.5,3.8,1.75,20212022_22_9_Home
+20212022,Man City,Newcastle,5.0,0.0,1.16,7.0,17.0,20212022_4_15_Home
+20212022,Aston Villa,Liverpool,1.0,2.0,7.5,4.75,1.4,20212022_20_3_Home
+20212022,Leeds,Chelsea,0.0,3.0,4.75,4.2,1.65,20212022_10_1_Home
+20212022,Leicester,Norwich,3.0,0.0,1.44,4.75,7.0,20212022_6_22_Home
+20212022,Watford,Everton,0.0,0.0,4.2,3.6,1.83,20212022_23_5_Home
+20212022,Wolves,Man City,1.0,5.0,11.0,6.0,1.25,20212022_8_4_Home
+20212022,Tottenham,Arsenal,3.0,0.0,2.05,3.75,3.5,20212022_17_11_Home
+20212022,Tottenham,Burnley,1.0,0.0,1.33,5.25,9.0,20212022_17_12_Home
+20212022,Aston Villa,Crystal Palace,1.0,1.0,2.0,3.5,3.75,20212022_20_16_Home
+20212022,Leeds,Brighton,1.0,1.0,2.62,3.5,2.62,20212022_10_19_Home
+20212022,Watford,Leicester,1.0,5.0,3.8,3.5,1.95,20212022_23_6_Home
+20212022,West Ham,Man City,2.0,2.0,7.5,5.0,1.4,20212022_9_4_Home
+20212022,Wolves,Norwich,1.0,1.0,1.45,4.75,6.5,20212022_8_22_Home
+20212022,Everton,Brentford,2.0,3.0,2.05,3.6,3.5,20212022_5_21_Home
+20212022,Newcastle,Arsenal,2.0,0.0,4.33,3.6,1.83,20212022_15_11_Home
+20212022,Southampton,Liverpool,1.0,2.0,7.5,5.5,1.33,20212022_7_3_Home
+20212022,Everton,Crystal Palace,3.0,2.0,1.9,3.4,4.33,20212022_5_16_Home
+20212022,Aston Villa,Burnley,1.0,1.0,2.05,3.5,3.6,20212022_20_12_Home
+20212022,Chelsea,Leicester,1.0,1.0,1.4,4.75,8.0,20212022_1_6_Home
+20212022,Arsenal,Everton,5.0,1.0,1.36,4.75,9.0,20212022_11_5_Home
+20212022,Brentford,Leeds,1.0,2.0,2.45,3.8,2.62,20212022_21_10_Home
+20212022,Brighton,West Ham,3.0,1.0,2.37,3.5,2.9,20212022_19_9_Home
+20212022,Burnley,Newcastle,1.0,2.0,2.25,3.4,3.2,20212022_12_15_Home
+20212022,Chelsea,Watford,2.0,1.0,1.18,7.5,15.0,20212022_1_23_Home
+20212022,Crystal Palace,Man United,1.0,0.0,3.0,3.6,2.25,20212022_16_14_Home
+20212022,Leicester,Southampton,4.0,1.0,1.85,4.0,3.8,20212022_6_7_Home
+20212022,Liverpool,Wolves,3.0,1.0,1.14,8.5,15.0,20212022_3_8_Home
+20212022,Man City,Aston Villa,3.0,2.0,1.16,8.0,17.0,20212022_4_20_Home
+20212022,Norwich,Tottenham,0.0,5.0,9.5,6.5,1.25,20212022_22_17_Home
+20202021,Fulham,Arsenal,0.0,3.0,6.0,4.33,1.53,20202021_18_11_Home
+20202021,Crystal Palace,Southampton,1.0,0.0,3.1,3.25,2.37,20202021_16_7_Home
+20202021,Liverpool,Leeds,4.0,3.0,1.28,6.0,9.5,20202021_3_10_Home
+20202021,West Ham,Newcastle,0.0,2.0,2.15,3.4,3.4,20202021_9_15_Home
+20202021,West Brom,Leicester,0.0,3.0,3.8,3.6,1.95,20202021_2_6_Home
+20202021,Tottenham,Everton,0.0,1.0,1.83,3.6,4.33,20202021_17_5_Home
+20202021,Brighton,Chelsea,1.0,3.0,5.0,4.33,1.61,20202021_19_1_Home
+20202021,Sheffield United,Wolves,0.0,2.0,3.25,3.1,2.37,20202021_13_8_Home
+20202021,Everton,West Brom,5.0,2.0,1.5,4.2,6.5,20202021_5_2_Home
+20202021,Leeds,Fulham,4.0,3.0,1.61,3.9,5.75,20202021_10_18_Home
+20202021,Man United,Crystal Palace,1.0,3.0,1.3,5.5,9.5,20202021_14_16_Home
+20202021,Arsenal,West Ham,2.0,1.0,1.53,4.5,5.5,20202021_11_9_Home
+20202021,Southampton,Tottenham,2.0,5.0,3.0,3.3,2.37,20202021_7_17_Home
+20202021,Newcastle,Brighton,0.0,3.0,2.6,3.1,2.87,20202021_15_19_Home
+20202021,Chelsea,Liverpool,0.0,2.0,3.1,3.6,2.2,20202021_1_3_Home
+20202021,Leicester,Burnley,4.0,2.0,1.61,4.0,5.5,20202021_6_12_Home
+20202021,Aston Villa,Sheffield United,1.0,0.0,2.7,3.1,2.75,20202021_20_13_Home
+20202021,Wolves,Man City,1.0,3.0,6.5,4.33,1.5,20202021_8_4_Home
+20202021,Brighton,Man United,2.0,3.0,4.75,3.75,1.72,20202021_19_14_Home
+20202021,Crystal Palace,Everton,1.0,2.0,3.75,3.25,2.1,20202021_16_5_Home
+20202021,West Brom,Chelsea,3.0,3.0,9.0,4.75,1.36,20202021_2_1_Home
+20202021,Burnley,Southampton,0.0,1.0,3.2,3.3,2.3,20202021_12_7_Home
+20202021,Sheffield United,Leeds,0.0,1.0,2.7,3.3,2.62,20202021_13_10_Home
+20202021,Tottenham,Newcastle,1.0,1.0,1.45,4.5,7.0,20202021_17_15_Home
+20202021,Man City,Leicester,2.0,5.0,1.28,6.0,9.5,20202021_4_6_Home
+20202021,West Ham,Wolves,4.0,0.0,3.6,3.5,2.05,20202021_9_8_Home
+20202021,Fulham,Aston Villa,0.0,3.0,2.9,3.25,2.5,20202021_18_20_Home
+20202021,Liverpool,Arsenal,3.0,1.0,1.45,4.75,6.5,20202021_3_11_Home
+20202021,Chelsea,Crystal Palace,4.0,0.0,1.4,4.75,8.0,20202021_1_16_Home
+20202021,Everton,Brighton,4.0,2.0,1.72,3.75,4.8,20202021_5_19_Home
+20202021,Leeds,Man City,1.0,1.0,7.5,5.25,1.36,20202021_10_4_Home
+20202021,Newcastle,Burnley,3.0,1.0,2.4,3.2,3.1,20202021_15_12_Home
+20202021,Leicester,West Ham,0.0,3.0,1.61,4.2,5.25,20202021_6_9_Home
+20202021,Southampton,West Brom,2.0,0.0,1.72,3.8,4.75,20202021_7_2_Home
+20202021,Arsenal,Sheffield United,2.0,1.0,1.57,4.0,6.0,20202021_11_13_Home
+20202021,Wolves,Fulham,1.0,0.0,1.5,4.0,7.5,20202021_8_18_Home
+20202021,Man United,Tottenham,1.0,6.0,1.85,3.8,4.0,20202021_14_17_Home
+20202021,Aston Villa,Liverpool,7.0,2.0,10.0,5.5,1.3,20202021_20_3_Home
+20202021,Everton,Liverpool,2.0,2.0,3.75,4.2,1.83,20202021_5_3_Home
+20202021,Chelsea,Southampton,3.0,3.0,1.45,4.75,6.5,20202021_1_7_Home
+20202021,Man City,Arsenal,1.0,0.0,1.44,5.0,6.5,20202021_4_11_Home
+20202021,Newcastle,Man United,1.0,4.0,4.75,4.0,1.66,20202021_15_14_Home
+20202021,Sheffield United,Fulham,1.0,1.0,2.1,3.3,3.7,20202021_13_18_Home
+20202021,Crystal Palace,Brighton,1.0,1.0,2.62,3.3,2.7,20202021_16_19_Home
+20202021,Tottenham,West Ham,3.0,3.0,1.57,4.33,5.5,20202021_17_9_Home
+20202021,Leicester,Aston Villa,0.0,1.0,1.83,3.8,4.1,20202021_6_20_Home
+20202021,West Brom,Burnley,0.0,0.0,2.45,3.3,2.9,20202021_2_12_Home
+20202021,Leeds,Wolves,0.0,1.0,2.5,3.3,2.87,20202021_10_8_Home
+20202021,Aston Villa,Leeds,0.0,3.0,2.05,3.75,3.3,20202021_20_10_Home
+20202021,West Ham,Man City,1.0,1.0,8.0,5.25,1.36,20202021_9_4_Home
+20202021,Fulham,Crystal Palace,1.0,2.0,2.75,3.1,2.7,20202021_18_16_Home
+20202021,Man United,Chelsea,0.0,0.0,2.37,3.6,2.8,20202021_14_1_Home
+20202021,Liverpool,Sheffield United,2.0,1.0,1.22,6.5,12.0,20202021_3_13_Home
+20202021,Southampton,Everton,2.0,0.0,2.75,3.4,2.55,20202021_7_5_Home
+20202021,Wolves,Newcastle,1.0,1.0,1.75,3.5,5.25,20202021_8_15_Home
+20202021,Arsenal,Leicester,0.0,1.0,1.9,3.75,3.8,20202021_11_6_Home
+20202021,Brighton,West Brom,1.0,1.0,1.7,4.0,4.75,20202021_19_2_Home
+20202021,Burnley,Tottenham,0.0,1.0,5.75,4.0,1.6,20202021_12_17_Home
+20202021,Wolves,Crystal Palace,2.0,0.0,2.0,3.2,4.33,20202021_8_16_Home
+20202021,Sheffield United,Man City,0.0,1.0,9.5,6.0,1.28,20202021_13_4_Home
+20202021,Burnley,Chelsea,0.0,3.0,6.0,4.5,1.5,20202021_12_1_Home
+20202021,Liverpool,West Ham,2.0,1.0,1.36,5.25,7.5,20202021_3_9_Home
+20202021,Aston Villa,Southampton,3.0,4.0,2.45,3.5,2.8,20202021_20_7_Home
+20202021,Newcastle,Everton,2.0,1.0,3.7,3.4,2.05,20202021_15_5_Home
+20202021,Man United,Arsenal,0.0,1.0,2.0,3.6,3.6,20202021_14_11_Home
+20202021,Tottenham,Brighton,2.0,1.0,1.61,4.0,5.5,20202021_17_19_Home
+20202021,Fulham,West Brom,2.0,0.0,2.4,3.3,3.0,20202021_18_2_Home
+20202021,Leeds,Leicester,1.0,4.0,2.5,3.6,2.62,20202021_10_6_Home
+20202021,Brighton,Burnley,0.0,0.0,1.85,3.5,4.33,20202021_19_12_Home
+20202021,Southampton,Newcastle,2.0,0.0,2.0,3.6,3.7,20202021_7_15_Home
+20202021,Everton,Man United,1.0,3.0,2.9,3.5,2.37,20202021_5_14_Home
+20202021,Crystal Palace,Leeds,4.0,1.0,2.87,3.4,2.45,20202021_16_10_Home
+20202021,Chelsea,Sheffield United,4.0,1.0,1.36,5.0,8.5,20202021_1_13_Home
+20202021,West Ham,Fulham,1.0,0.0,1.83,3.75,4.2,20202021_9_18_Home
+20202021,West Brom,Tottenham,0.0,1.0,7.0,4.33,1.45,20202021_2_17_Home
+20202021,Leicester,Wolves,1.0,0.0,2.3,3.2,3.25,20202021_6_8_Home
+20202021,Man City,Liverpool,1.0,1.0,1.95,4.2,3.4,20202021_4_3_Home
+20202021,Arsenal,Aston Villa,0.0,3.0,1.65,4.1,5.0,20202021_11_20_Home
+20202021,Newcastle,Chelsea,0.0,2.0,6.5,4.75,1.45,20202021_15_1_Home
+20202021,Aston Villa,Brighton,1.0,2.0,2.15,3.6,3.2,20202021_20_19_Home
+20202021,Tottenham,Man City,2.0,0.0,4.0,4.0,1.8,20202021_17_4_Home
+20202021,Man United,West Brom,1.0,0.0,1.3,5.5,9.5,20202021_14_2_Home
+20202021,Fulham,Everton,2.0,3.0,3.9,3.9,1.85,20202021_18_5_Home
+20202021,Sheffield United,West Ham,0.0,1.0,3.0,3.25,2.4,20202021_13_9_Home
+20202021,Leeds,Arsenal,0.0,0.0,3.0,3.75,2.2,20202021_10_11_Home
+20202021,Liverpool,Leicester,3.0,0.0,1.85,4.0,3.8,20202021_3_6_Home
+20202021,Burnley,Crystal Palace,1.0,0.0,2.75,3.1,2.75,20202021_12_16_Home
+20202021,Wolves,Southampton,1.0,1.0,2.3,3.25,3.25,20202021_8_7_Home
+20202021,Crystal Palace,Newcastle,0.0,2.0,2.05,3.25,3.75,20202021_16_15_Home
+20202021,Brighton,Liverpool,1.0,1.0,5.5,4.2,1.57,20202021_19_3_Home
+20202021,Man City,Burnley,5.0,0.0,1.16,7.5,16.0,20202021_4_12_Home
+20202021,Everton,Leeds,0.0,1.0,1.95,3.8,3.6,20202021_5_10_Home
+20202021,West Brom,Sheffield United,1.0,0.0,2.6,3.2,2.8,20202021_2_13_Home
+20202021,Southampton,Man United,2.0,3.0,4.0,3.5,1.95,20202021_7_14_Home
+20202021,Chelsea,Tottenham,0.0,0.0,2.05,3.5,3.6,20202021_1_17_Home
+20202021,Arsenal,Wolves,1.0,2.0,2.05,3.4,3.75,20202021_11_8_Home
+20202021,Leicester,Fulham,1.0,2.0,1.5,4.33,6.5,20202021_6_18_Home
+20202021,West Ham,Aston Villa,2.0,1.0,2.25,3.6,3.0,20202021_9_20_Home
+20202021,Burnley,Everton,1.0,1.0,4.0,3.5,1.9,20202021_12_5_Home
+20202021,Man City,Fulham,2.0,0.0,1.1,11.0,19.0,20202021_4_18_Home
+20202021,West Ham,Man United,1.0,3.0,3.6,3.6,2.0,20202021_9_14_Home
+20202021,Chelsea,Leeds,3.0,1.0,1.5,4.5,6.0,20202021_1_10_Home
+20202021,West Brom,Crystal Palace,1.0,5.0,2.87,3.2,2.55,20202021_2_16_Home
+20202021,Sheffield United,Leicester,1.0,2.0,3.8,3.5,1.95,20202021_13_6_Home
+20202021,Tottenham,Arsenal,2.0,0.0,1.95,3.6,3.8,20202021_17_11_Home
+20202021,Liverpool,Wolves,4.0,0.0,1.5,4.33,6.5,20202021_3_8_Home
+20202021,Brighton,Southampton,1.0,2.0,2.45,3.4,2.9,20202021_19_7_Home
+20202021,Leeds,West Ham,1.0,2.0,2.15,3.7,3.1,20202021_10_9_Home
+20202021,Wolves,Aston Villa,0.0,1.0,2.25,3.25,3.25,20202021_8_20_Home
+20202021,Newcastle,West Brom,2.0,1.0,2.45,3.2,3.0,20202021_15_2_Home
+20202021,Man United,Man City,0.0,0.0,4.33,4.2,1.72,20202021_14_4_Home
+20202021,Everton,Chelsea,1.0,0.0,4.33,4.2,1.7,20202021_5_1_Home
+20202021,Southampton,Sheffield United,3.0,0.0,1.7,3.75,5.0,20202021_7_13_Home
+20202021,Crystal Palace,Tottenham,1.0,1.0,4.5,3.9,1.72,20202021_16_17_Home
+20202021,Fulham,Liverpool,1.0,1.0,9.0,5.5,1.3,20202021_18_3_Home
+20202021,Arsenal,Burnley,0.0,1.0,1.53,4.2,6.25,20202021_11_12_Home
+20202021,Leicester,Brighton,3.0,0.0,2.0,3.5,3.8,20202021_6_19_Home
+20202021,Wolves,Chelsea,2.0,1.0,5.25,3.8,1.66,20202021_8_1_Home
+20202021,Man City,West Brom,1.0,1.0,1.09,11.0,21.0,20202021_4_2_Home
+20202021,Arsenal,Southampton,1.0,1.0,2.25,3.5,3.1,20202021_11_7_Home
+20202021,Leeds,Newcastle,5.0,2.0,1.75,4.0,4.33,20202021_10_15_Home
+20202021,Leicester,Everton,0.0,2.0,2.15,3.6,3.25,20202021_6_5_Home
+20202021,Fulham,Brighton,0.0,0.0,2.87,3.3,2.5,20202021_18_19_Home
+20202021,Liverpool,Tottenham,2.0,1.0,1.75,3.8,4.5,20202021_3_17_Home
+20202021,West Ham,Crystal Palace,1.0,1.0,2.05,3.4,3.6,20202021_9_16_Home
+20202021,Aston Villa,Burnley,0.0,0.0,1.75,3.8,4.5,20202021_20_12_Home
+20202021,Sheffield United,Man United,2.0,3.0,7.0,4.6,1.44,20202021_13_14_Home
+20202021,Crystal Palace,Liverpool,0.0,7.0,6.5,4.33,1.5,20202021_16_3_Home
+20202021,Southampton,Man City,0.0,1.0,7.0,4.5,1.44,20202021_7_4_Home
+20202021,Everton,Arsenal,2.0,1.0,2.45,3.5,2.8,20202021_5_11_Home
+20202021,Newcastle,Fulham,1.0,1.0,2.5,3.25,2.9,20202021_15_18_Home
+20202021,Brighton,Sheffield United,1.0,1.0,1.65,3.75,5.5,20202021_19_13_Home
+20202021,Tottenham,Leicester,0.0,2.0,2.05,3.5,3.6,20202021_17_6_Home
+20202021,Man United,Leeds,6.0,2.0,1.66,4.33,4.5,20202021_14_10_Home
+20202021,West Brom,Aston Villa,0.0,3.0,3.6,3.8,1.95,20202021_2_20_Home
+20202021,Burnley,Wolves,2.0,1.0,3.5,3.25,2.2,20202021_12_8_Home
+20202021,Chelsea,West Ham,3.0,0.0,1.44,5.0,6.25,20202021_1_9_Home
+20202021,Leicester,Man United,2.0,2.0,2.9,3.6,2.3,20202021_6_14_Home
+20202021,Aston Villa,Crystal Palace,3.0,0.0,1.9,3.75,3.8,20202021_20_16_Home
+20202021,Fulham,Southampton,0.0,0.0,3.2,3.3,2.3,20202021_18_7_Home
+20202021,Arsenal,Chelsea,3.0,1.0,4.0,3.6,1.9,20202021_11_1_Home
+20202021,Man City,Newcastle,2.0,0.0,1.11,10.0,19.0,20202021_4_15_Home
+20202021,Sheffield United,Everton,0.0,1.0,4.2,3.6,1.85,20202021_13_5_Home
+20202021,Leeds,Burnley,1.0,0.0,1.72,4.0,4.33,20202021_10_12_Home
+20202021,West Ham,Brighton,2.0,2.0,2.3,3.4,3.1,20202021_9_19_Home
+20202021,Liverpool,West Brom,1.0,1.0,1.11,10.0,19.0,20202021_3_2_Home
+20202021,Wolves,Tottenham,1.0,1.0,3.6,3.25,2.15,20202021_8_17_Home
+20202021,Crystal Palace,Leicester,1.0,1.0,3.75,3.5,2.0,20202021_16_6_Home
+20202021,Chelsea,Aston Villa,1.0,1.0,1.61,4.2,5.0,20202021_1_20_Home
+20202021,Brighton,Arsenal,0.0,1.0,3.25,3.5,2.2,20202021_19_11_Home
+20202021,Burnley,Sheffield United,1.0,0.0,2.37,3.1,3.25,20202021_12_13_Home
+20202021,Southampton,West Ham,0.0,0.0,2.1,3.6,3.4,20202021_7_9_Home
+20202021,West Brom,Leeds,0.0,5.0,3.6,3.6,2.0,20202021_2_10_Home
+20202021,Man United,Wolves,1.0,0.0,1.53,4.2,6.25,20202021_14_8_Home
+20202021,Newcastle,Liverpool,0.0,0.0,12.0,6.0,1.25,20202021_15_3_Home
+20202021,Everton,West Ham,0.0,1.0,2.1,3.5,3.5,20202021_5_9_Home
+20202021,Man United,Aston Villa,2.0,1.0,1.72,4.2,4.2,20202021_14_20_Home
+20202021,Tottenham,Leeds,3.0,0.0,1.75,4.1,4.2,20202021_17_10_Home
+20202021,Crystal Palace,Sheffield United,2.0,0.0,1.95,3.5,3.9,20202021_16_13_Home
+20202021,Brighton,Wolves,3.0,3.0,2.62,3.25,2.75,20202021_19_8_Home
+20202021,West Brom,Arsenal,0.0,4.0,5.75,4.0,1.57,20202021_2_11_Home
+20202021,Newcastle,Leicester,1.0,2.0,5.25,4.2,1.61,20202021_15_6_Home
+20202021,Chelsea,Man City,1.0,3.0,3.0,3.7,2.2,20202021_1_4_Home
+20202021,Southampton,Liverpool,1.0,0.0,5.0,4.33,1.61,20202021_7_3_Home
+20202021,Sheffield United,Newcastle,1.0,0.0,2.45,3.1,3.1,20202021_13_15_Home
+20202021,Burnley,Man United,0.0,1.0,7.0,4.5,1.45,20202021_12_14_Home
+20202021,Wolves,Everton,1.0,2.0,2.45,3.1,3.1,20202021_8_5_Home
+20202021,Man City,Brighton,1.0,0.0,1.14,8.5,16.0,20202021_4_19_Home
+20202021,Tottenham,Fulham,1.0,1.0,1.36,5.0,8.5,20202021_17_18_Home
+20202021,Arsenal,Crystal Palace,0.0,0.0,1.53,4.0,6.5,20202021_11_16_Home
+20202021,Wolves,West Brom,2.0,3.0,1.6,3.5,7.0,20202021_8_2_Home
+20202021,Leeds,Brighton,0.0,1.0,2.1,3.5,3.4,20202021_10_19_Home
+20202021,West Ham,Burnley,1.0,0.0,1.8,3.5,4.75,20202021_9_12_Home
+20202021,Fulham,Chelsea,0.0,1.0,6.5,4.33,1.5,20202021_18_1_Home
+20202021,Leicester,Southampton,2.0,0.0,1.8,3.75,4.5,20202021_6_7_Home
+20202021,Sheffield United,Tottenham,1.0,3.0,6.25,3.75,1.6,20202021_13_17_Home
+20202021,Liverpool,Man United,0.0,0.0,1.95,3.8,3.6,20202021_3_14_Home
+20202021,Man City,Crystal Palace,4.0,0.0,1.14,8.5,17.0,20202021_4_16_Home
+20202021,Arsenal,Newcastle,3.0,0.0,1.4,4.5,8.0,20202021_11_15_Home
+20202021,West Ham,West Brom,2.0,1.0,1.57,4.2,5.5,20202021_9_2_Home
+20202021,Leicester,Chelsea,2.0,0.0,2.87,3.4,2.45,20202021_6_1_Home
+20202021,Man City,Aston Villa,2.0,0.0,1.22,6.5,12.0,20202021_4_20_Home
+20202021,Fulham,Man United,1.0,2.0,6.0,4.33,1.53,20202021_18_14_Home
+20202021,Liverpool,Burnley,0.0,1.0,1.18,7.5,15.0,20202021_3_12_Home
+20202021,Aston Villa,Newcastle,2.0,0.0,1.45,4.75,6.5,20202021_20_15_Home
+20202021,Crystal Palace,West Ham,2.0,3.0,3.1,3.25,2.37,20202021_16_9_Home
+20202021,Newcastle,Leeds,1.0,2.0,3.9,3.8,1.85,20202021_15_10_Home
+20202021,Southampton,Arsenal,1.0,3.0,3.5,3.6,2.05,20202021_7_11_Home
+20202021,West Brom,Man City,0.0,5.0,15.0,7.5,1.18,20202021_2_4_Home
+20202021,Burnley,Aston Villa,3.0,2.0,3.8,3.5,1.95,20202021_12_20_Home
+20202021,Chelsea,Wolves,0.0,0.0,1.6,4.2,5.25,20202021_1_8_Home
+20202021,Brighton,Fulham,0.0,0.0,2.05,3.4,3.75,20202021_19_18_Home
+20202021,Everton,Leicester,1.0,1.0,2.8,3.3,2.55,20202021_5_6_Home
+20202021,Man United,Sheffield United,1.0,2.0,1.25,6.0,11.0,20202021_14_13_Home
+20202021,Tottenham,Liverpool,1.0,3.0,3.2,3.6,2.2,20202021_17_3_Home
+20202021,Everton,Newcastle,0.0,2.0,1.55,4.0,6.5,20202021_5_15_Home
+20202021,Crystal Palace,Wolves,1.0,0.0,2.87,3.2,2.55,20202021_16_8_Home
+20202021,Man City,Sheffield United,1.0,0.0,1.12,9.0,18.0,20202021_4_13_Home
+20202021,West Brom,Fulham,2.0,2.0,3.3,3.2,2.3,20202021_2_18_Home
+20202021,Arsenal,Man United,0.0,0.0,2.8,3.5,2.45,20202021_11_14_Home
+20202021,Southampton,Aston Villa,0.0,1.0,2.8,3.6,2.37,20202021_7_20_Home
+20202021,Chelsea,Burnley,2.0,0.0,1.33,5.0,9.5,20202021_1_12_Home
+20202021,Leicester,Leeds,1.0,3.0,1.8,4.0,4.2,20202021_6_10_Home
+20202021,West Ham,Liverpool,1.0,3.0,4.33,4.0,1.75,20202021_9_3_Home
+20202021,Brighton,Tottenham,1.0,0.0,3.2,3.4,2.25,20202021_19_17_Home
+20202021,Sheffield United,West Brom,2.0,1.0,2.0,3.3,4.0,20202021_13_2_Home
+20202021,Wolves,Arsenal,2.0,1.0,3.6,3.3,2.1,20202021_8_11_Home
+20202021,Man United,Southampton,9.0,0.0,1.4,4.75,7.0,20202021_14_7_Home
+20202021,Newcastle,Crystal Palace,1.0,2.0,2.8,3.2,2.6,20202021_15_16_Home
+20202021,Burnley,Man City,0.0,2.0,13.0,7.0,1.2,20202021_12_4_Home
+20202021,Fulham,Leicester,0.0,2.0,4.0,3.5,1.9,20202021_18_6_Home
+20202021,Leeds,Everton,1.0,2.0,2.5,3.5,2.7,20202021_10_5_Home
+20202021,Aston Villa,West Ham,1.0,3.0,2.2,3.4,3.25,20202021_20_9_Home
+20202021,Liverpool,Brighton,0.0,1.0,1.33,5.25,9.0,20202021_3_19_Home
+20202021,Tottenham,Chelsea,0.0,1.0,3.5,3.4,2.1,20202021_17_1_Home
+20202021,Aston Villa,Arsenal,1.0,0.0,2.62,3.5,2.6,20202021_20_11_Home
+20202021,Burnley,Brighton,1.0,1.0,3.6,3.1,2.2,20202021_12_19_Home
+20202021,Newcastle,Southampton,3.0,2.0,3.0,3.3,2.4,20202021_15_7_Home
+20202021,Fulham,West Ham,0.0,0.0,3.6,3.5,2.05,20202021_18_9_Home
+20202021,Man United,Everton,3.0,3.0,1.53,4.2,6.0,20202021_14_5_Home
+20202021,Tottenham,West Brom,2.0,0.0,1.45,4.5,7.0,20202021_17_2_Home
+20202021,Wolves,Leicester,0.0,0.0,3.5,3.4,2.1,20202021_8_6_Home
+20202021,Liverpool,Man City,1.0,4.0,3.4,3.6,2.05,20202021_3_4_Home
+20202021,Sheffield United,Chelsea,1.0,2.0,7.0,4.5,1.45,20202021_13_1_Home
+20202021,Leeds,Crystal Palace,2.0,0.0,1.8,3.8,4.2,20202021_10_16_Home
+20202021,Leicester,Liverpool,3.0,1.0,3.5,3.4,2.1,20202021_6_3_Home
+20202021,Crystal Palace,Burnley,0.0,3.0,2.37,3.1,3.2,20202021_16_12_Home
+20202021,Man City,Tottenham,3.0,0.0,1.28,5.75,9.5,20202021_4_17_Home
+20202021,Brighton,Aston Villa,0.0,0.0,2.7,3.5,2.5,20202021_19_20_Home
+20202021,Southampton,Wolves,1.0,2.0,2.37,3.2,3.1,20202021_7_8_Home
+20202021,West Brom,Man United,1.0,1.0,10.0,5.5,1.3,20202021_2_14_Home
+20202021,Arsenal,Leeds,4.0,2.0,1.83,3.8,4.0,20202021_11_10_Home
+20202021,Everton,Fulham,0.0,2.0,1.85,3.6,4.2,20202021_5_18_Home
+20202021,West Ham,Sheffield United,3.0,0.0,1.66,3.75,5.25,20202021_9_13_Home
+20202021,Chelsea,Newcastle,2.0,0.0,1.22,6.5,12.0,20202021_1_15_Home
+20202021,Burnley,Fulham,1.0,1.0,2.75,3.2,2.7,20202021_12_18_Home
+20202021,Everton,Man City,1.0,3.0,8.5,5.5,1.33,20202021_5_4_Home
+20202021,Wolves,Leeds,1.0,0.0,2.37,3.3,3.0,20202021_8_10_Home
+20202021,Southampton,Chelsea,1.0,1.0,5.0,3.8,1.7,20202021_7_1_Home
+20202021,Burnley,West Brom,0.0,0.0,2.0,3.3,4.0,20202021_12_2_Home
+20202021,Liverpool,Everton,0.0,2.0,1.44,4.5,7.0,20202021_3_5_Home
+20202021,Fulham,Sheffield United,1.0,0.0,2.15,3.2,3.6,20202021_18_13_Home
+20202021,West Ham,Tottenham,2.0,1.0,2.62,3.4,2.7,20202021_9_17_Home
+20202021,Aston Villa,Leicester,1.0,2.0,2.87,3.5,2.4,20202021_20_6_Home
+20202021,Arsenal,Man City,0.0,1.0,6.5,4.33,1.5,20202021_11_4_Home
+20202021,Man United,Newcastle,3.0,1.0,1.28,5.5,10.0,20202021_14_15_Home
+20202021,Brighton,Crystal Palace,1.0,2.0,1.7,3.5,5.5,20202021_19_16_Home
+20202021,Leeds,Southampton,3.0,0.0,2.25,3.5,3.1,20202021_10_7_Home
+20202021,Man City,West Ham,2.0,1.0,1.22,6.5,12.0,20202021_4_9_Home
+20202021,West Brom,Brighton,1.0,0.0,4.2,3.3,1.95,20202021_2_19_Home
+20202021,Leeds,Aston Villa,0.0,1.0,2.15,3.6,3.2,20202021_10_20_Home
+20202021,Newcastle,Wolves,1.0,1.0,3.5,3.2,2.2,20202021_15_8_Home
+20202021,Crystal Palace,Fulham,0.0,0.0,3.5,3.2,2.2,20202021_16_18_Home
+20202021,Leicester,Arsenal,1.0,3.0,2.5,3.4,2.8,20202021_6_11_Home
+20202021,Tottenham,Burnley,4.0,0.0,1.53,4.0,6.5,20202021_17_12_Home
+20202021,Chelsea,Man United,0.0,0.0,2.15,3.4,3.4,20202021_1_14_Home
+20202021,Sheffield United,Liverpool,0.0,2.0,8.0,5.0,1.36,20202021_13_3_Home
+20202021,Everton,Southampton,1.0,0.0,2.15,3.5,3.3,20202021_5_7_Home
+20202021,Man City,Wolves,4.0,1.0,1.18,7.0,15.0,20202021_4_8_Home
+20202021,Burnley,Leicester,1.0,1.0,4.0,3.25,2.0,20202021_12_6_Home
+20202021,Sheffield United,Aston Villa,1.0,0.0,3.75,3.4,2.05,20202021_13_20_Home
+20202021,Crystal Palace,Man United,0.0,0.0,8.0,4.75,1.4,20202021_16_14_Home
+20202021,Fulham,Tottenham,0.0,1.0,4.0,3.6,1.9,20202021_18_17_Home
+20202021,West Brom,Everton,0.0,1.0,4.33,3.6,1.83,20202021_2_5_Home
+20202021,Liverpool,Chelsea,0.0,1.0,2.25,3.6,3.0,20202021_3_1_Home
+20202021,Burnley,Arsenal,1.0,1.0,5.5,4.0,1.61,20202021_12_11_Home
+20202021,Sheffield United,Southampton,0.0,2.0,3.6,3.5,2.0,20202021_13_7_Home
+20202021,Aston Villa,Wolves,0.0,0.0,2.37,3.25,3.1,20202021_20_8_Home
+20202021,Brighton,Leicester,1.0,2.0,2.55,3.25,2.8,20202021_19_6_Home
+20202021,West Brom,Newcastle,0.0,0.0,2.37,3.2,3.1,20202021_2_15_Home
+20202021,Liverpool,Fulham,0.0,1.0,1.36,5.0,8.5,20202021_3_18_Home
+20202021,Man City,Man United,0.0,2.0,1.45,4.5,7.0,20202021_4_14_Home
+20202021,Tottenham,Crystal Palace,4.0,1.0,1.45,4.5,7.0,20202021_17_16_Home
+20202021,Chelsea,Everton,2.0,0.0,1.53,4.0,6.5,20202021_1_5_Home
+20202021,West Ham,Leeds,2.0,0.0,2.05,3.6,3.5,20202021_9_10_Home
+20202021,Man City,Southampton,5.0,2.0,1.18,7.5,15.0,20202021_4_7_Home
+20202021,Newcastle,Aston Villa,1.0,1.0,3.8,3.3,2.05,20202021_15_20_Home
+20202021,Leeds,Chelsea,0.0,0.0,4.75,4.0,1.7,20202021_10_1_Home
+20202021,Crystal Palace,West Brom,1.0,0.0,2.15,3.2,3.6,20202021_16_2_Home
+20202021,Everton,Burnley,1.0,2.0,1.83,3.5,4.5,20202021_5_12_Home
+20202021,Fulham,Man City,0.0,3.0,10.0,5.0,1.33,20202021_18_4_Home
+20202021,Southampton,Brighton,1.0,2.0,2.9,3.1,2.5,20202021_7_19_Home
+20202021,Leicester,Sheffield United,5.0,0.0,1.5,4.2,6.5,20202021_6_13_Home
+20202021,Arsenal,Tottenham,2.0,1.0,2.55,3.4,2.75,20202021_11_17_Home
+20202021,Man United,West Ham,1.0,0.0,1.83,3.6,4.33,20202021_14_9_Home
+20202021,Wolves,Liverpool,0.0,1.0,4.75,3.75,1.72,20202021_8_3_Home
+20202021,Fulham,Leeds,1.0,2.0,2.37,3.4,3.0,20202021_18_10_Home
+20202021,Brighton,Newcastle,3.0,0.0,1.66,3.5,6.0,20202021_19_15_Home
+20202021,West Ham,Arsenal,3.0,3.0,2.8,3.5,2.45,20202021_9_11_Home
+20202021,Aston Villa,Tottenham,0.0,2.0,2.9,3.3,2.45,20202021_20_17_Home
+20202021,Chelsea,West Brom,2.0,5.0,1.22,6.0,15.0,20202021_1_2_Home
+20202021,Leeds,Sheffield United,2.0,1.0,1.5,4.33,6.5,20202021_10_13_Home
+20202021,Leicester,Man City,0.0,2.0,6.0,4.2,1.53,20202021_6_4_Home
+20202021,Arsenal,Liverpool,0.0,3.0,3.1,3.7,2.15,20202021_11_3_Home
+20202021,Southampton,Burnley,3.0,2.0,2.05,3.3,3.8,20202021_7_12_Home
+20202021,Newcastle,Tottenham,2.0,2.0,5.5,4.0,1.6,20202021_15_17_Home
+20202021,Aston Villa,Fulham,3.0,1.0,2.25,3.3,3.3,20202021_20_18_Home
+20202021,Man United,Brighton,2.0,1.0,1.61,4.0,5.5,20202021_14_19_Home
+20202021,Everton,Crystal Palace,1.0,1.0,1.75,3.5,5.0,20202021_5_16_Home
+20202021,Wolves,West Ham,2.0,3.0,2.87,3.2,2.55,20202021_8_9_Home
+20202021,Fulham,Wolves,0.0,1.0,2.5,3.0,3.1,20202021_18_8_Home
+20202021,Man City,Leeds,1.0,2.0,1.28,5.75,10.0,20202021_4_10_Home
+20202021,Liverpool,Aston Villa,2.0,1.0,1.5,4.33,6.5,20202021_3_20_Home
+20202021,Crystal Palace,Chelsea,1.0,4.0,7.0,3.8,1.53,20202021_16_1_Home
+20202021,Burnley,Newcastle,1.0,2.0,2.3,3.1,3.4,20202021_12_15_Home
+20202021,West Ham,Leicester,3.0,2.0,3.0,3.3,2.37,20202021_9_6_Home
+20202021,Tottenham,Man United,1.0,3.0,2.87,3.4,2.45,20202021_17_14_Home
+20202021,Sheffield United,Arsenal,0.0,3.0,6.5,3.75,1.57,20202021_13_11_Home
+20202021,West Brom,Southampton,3.0,0.0,3.6,3.3,2.1,20202021_2_7_Home
+20202021,Brighton,Everton,0.0,0.0,2.25,3.3,3.3,20202021_19_5_Home
+20202021,Everton,Tottenham,2.0,2.0,3.4,3.5,2.1,20202021_5_17_Home
+20202021,Newcastle,West Ham,3.0,2.0,3.5,3.5,2.05,20202021_15_9_Home
+20202021,Wolves,Sheffield United,1.0,0.0,1.66,3.5,5.75,20202021_8_13_Home
+20202021,Arsenal,Fulham,1.0,1.0,1.7,3.8,4.8,20202021_11_18_Home
+20202021,Man United,Burnley,3.0,1.0,1.33,5.25,9.0,20202021_14_12_Home
+20202021,Leeds,Liverpool,1.0,1.0,4.5,4.33,1.66,20202021_10_3_Home
+20202021,Chelsea,Brighton,0.0,0.0,1.57,4.0,6.0,20202021_1_19_Home
+20202021,Tottenham,Southampton,2.0,1.0,1.75,3.8,4.5,20202021_17_7_Home
+20202021,Aston Villa,Man City,1.0,2.0,9.0,4.75,1.36,20202021_20_4_Home
+20202021,Leicester,West Brom,3.0,0.0,1.53,3.8,6.0,20202021_6_2_Home
+20202021,Arsenal,Everton,0.0,1.0,2.0,3.5,3.75,20202021_11_5_Home
+20202021,Liverpool,Newcastle,1.0,1.0,1.22,6.5,12.0,20202021_3_15_Home
+20202021,West Ham,Chelsea,0.0,1.0,4.75,3.6,1.75,20202021_9_1_Home
+20202021,Sheffield United,Brighton,1.0,0.0,5.25,3.4,1.75,20202021_13_19_Home
+20202021,Wolves,Burnley,0.0,4.0,2.0,3.4,3.9,20202021_8_12_Home
+20202021,Leeds,Man United,0.0,0.0,4.0,4.2,1.75,20202021_10_14_Home
+20202021,Aston Villa,West Brom,2.0,2.0,1.85,3.6,4.2,20202021_20_2_Home
+20202021,Leicester,Crystal Palace,2.0,1.0,1.4,4.33,8.5,20202021_6_16_Home
+20202021,Southampton,Leicester,1.0,1.0,3.8,3.8,1.9,20202021_7_6_Home
+20202021,Crystal Palace,Man City,0.0,2.0,10.0,5.0,1.33,20202021_16_4_Home
+20202021,Brighton,Leeds,2.0,0.0,2.05,3.5,3.5,20202021_19_10_Home
+20202021,Chelsea,Fulham,2.0,0.0,1.44,4.4,7.5,20202021_1_18_Home
+20202021,Everton,Aston Villa,1.0,2.0,1.95,3.6,3.8,20202021_5_20_Home
+20202021,Newcastle,Arsenal,0.0,2.0,3.6,3.6,2.0,20202021_15_11_Home
+20202021,Tottenham,Sheffield United,4.0,0.0,1.25,6.0,12.0,20202021_17_13_Home
+20202021,West Brom,Wolves,1.0,1.0,2.9,3.2,2.5,20202021_2_8_Home
+20202021,Burnley,West Ham,1.0,2.0,3.1,3.6,2.2,20202021_12_9_Home
+20202021,Leicester,Newcastle,2.0,4.0,1.4,4.75,8.0,20202021_6_15_Home
+20202021,Leeds,Tottenham,3.0,1.0,3.4,3.8,2.0,20202021_10_17_Home
+20202021,Sheffield United,Crystal Palace,0.0,2.0,3.0,3.2,2.45,20202021_13_16_Home
+20202021,Man City,Chelsea,1.0,2.0,1.9,3.4,4.2,20202021_4_1_Home
+20202021,Liverpool,Southampton,2.0,0.0,1.25,6.0,11.0,20202021_3_7_Home
+20202021,Wolves,Brighton,2.0,1.0,3.3,3.3,2.2,20202021_8_19_Home
+20202021,Aston Villa,Man United,1.0,3.0,4.2,3.8,1.8,20202021_20_14_Home
+20202021,West Ham,Everton,0.0,1.0,2.2,3.5,3.2,20202021_9_5_Home
+20202021,Arsenal,West Brom,3.0,1.0,1.44,4.5,7.0,20202021_11_2_Home
+20202021,Fulham,Burnley,0.0,2.0,2.2,3.4,3.3,20202021_18_12_Home
+20202021,Man United,Leicester,1.0,2.0,2.5,3.4,2.8,20202021_14_6_Home
+20202021,Southampton,Crystal Palace,3.0,1.0,2.05,3.6,3.5,20202021_7_16_Home
+20202021,Chelsea,Arsenal,0.0,1.0,1.65,4.0,5.0,20202021_1_11_Home
+20202021,Aston Villa,Everton,0.0,0.0,2.7,3.4,2.6,20202021_20_5_Home
+20202021,Man United,Liverpool,2.0,4.0,3.0,3.75,2.2,20202021_14_3_Home
+20202021,Newcastle,Man City,3.0,4.0,11.0,6.0,1.25,20202021_15_4_Home
+20202021,Burnley,Leeds,0.0,4.0,3.2,3.75,2.1,20202021_12_10_Home
+20202021,Southampton,Fulham,3.0,1.0,2.0,3.6,3.6,20202021_7_18_Home
+20202021,Brighton,West Ham,1.0,1.0,2.9,3.6,2.3,20202021_19_9_Home
+20202021,Crystal Palace,Aston Villa,3.0,2.0,3.0,3.6,2.25,20202021_16_20_Home
+20202021,Tottenham,Wolves,2.0,0.0,1.5,4.33,6.5,20202021_17_8_Home
+20202021,West Brom,Liverpool,1.0,2.0,12.0,6.5,1.22,20202021_2_3_Home
+20202021,Everton,Sheffield United,0.0,1.0,1.36,4.75,8.5,20202021_5_13_Home
+20202021,Man United,Fulham,1.0,1.0,1.28,6.0,9.0,20202021_14_18_Home
+20202021,Southampton,Leeds,0.0,2.0,2.55,3.9,2.5,20202021_7_10_Home
+20202021,Brighton,Man City,3.0,2.0,7.0,4.5,1.45,20202021_19_4_Home
+20202021,Chelsea,Leicester,2.0,1.0,1.7,3.75,5.0,20202021_1_6_Home
+20202021,Everton,Wolves,1.0,0.0,1.85,3.6,4.2,20202021_5_8_Home
+20202021,Newcastle,Sheffield United,1.0,0.0,1.72,3.8,4.75,20202021_15_13_Home
+20202021,Tottenham,Aston Villa,1.0,2.0,1.5,4.5,6.0,20202021_17_20_Home
+20202021,Crystal Palace,Arsenal,1.0,3.0,6.0,4.5,1.5,20202021_16_11_Home
+20202021,Burnley,Liverpool,0.0,3.0,11.0,7.0,1.22,20202021_12_3_Home
+20202021,West Brom,West Ham,1.0,3.0,5.0,4.33,1.6,20202021_2_9_Home
+20202021,Arsenal,Brighton,2.0,0.0,1.57,4.33,5.25,20202021_11_19_Home
+20202021,Aston Villa,Chelsea,2.0,1.0,6.5,4.6,1.45,20202021_20_1_Home
+20202021,Fulham,Newcastle,0.0,2.0,2.05,3.8,3.3,20202021_18_15_Home
+20202021,Leeds,West Brom,3.0,1.0,1.4,5.25,6.5,20202021_10_2_Home
+20202021,Leicester,Tottenham,2.0,4.0,2.0,4.0,3.3,20202021_6_17_Home
+20202021,Liverpool,Crystal Palace,2.0,0.0,1.14,8.5,15.0,20202021_3_16_Home
+20202021,Man City,Everton,5.0,0.0,1.44,5.0,6.5,20202021_4_5_Home
+20202021,Sheffield United,Burnley,1.0,0.0,2.8,3.6,2.4,20202021_13_12_Home
+20202021,West Ham,Southampton,3.0,0.0,1.65,4.0,5.0,20202021_9_7_Home
+20202021,Wolves,Man United,1.0,2.0,2.5,3.5,2.7,20202021_8_14_Home
+20222023,Arsenal,Crystal Palace,2.0,0.0,1.85,3.6,4.2,20222023_11_16_Away
+20222023,Liverpool,Fulham,2.0,2.0,1.25,6.0,11.0,20222023_3_18_Away
+20222023,Aston Villa,Bournemouth,0.0,2.0,2.0,3.5,3.75,20222023_20_24_Away
+20222023,Wolves,Leeds,1.0,2.0,3.2,3.4,2.25,20222023_8_10_Away
+20222023,Nott'm Forest,Newcastle,0.0,2.0,5.25,3.8,1.66,20222023_25_15_Away
+20222023,Southampton,Tottenham,1.0,4.0,8.5,5.5,1.33,20222023_7_17_Away
+20222023,Chelsea,Everton,1.0,0.0,1.61,4.0,5.5,20222023_1_5_Away
+20222023,Brentford,Leicester,2.0,2.0,3.5,3.75,2.0,20222023_21_6_Away
+20222023,Brighton,Man United,2.0,1.0,5.25,4.2,1.6,20222023_19_14_Away
+20222023,Man City,West Ham,2.0,0.0,1.36,5.0,8.0,20222023_4_9_Away
+20222023,Everton,Aston Villa,1.0,2.0,4.75,3.5,1.8,20222023_5_20_Away
+20222023,Leicester,Arsenal,2.0,4.0,5.75,4.33,1.53,20222023_6_11_Away
+20222023,Newcastle,Brighton,0.0,0.0,3.0,3.2,2.45,20222023_15_19_Away
+20222023,Bournemouth,Man City,0.0,4.0,29.0,13.0,1.06,20222023_24_4_Away
+20222023,Leeds,Southampton,2.0,2.0,3.1,3.5,2.25,20222023_10_7_Away
+20222023,Fulham,Wolves,0.0,0.0,3.2,3.3,2.3,20222023_18_8_Away
+20222023,Man United,Brentford,0.0,4.0,2.0,3.5,3.75,20222023_14_21_Away
+20222023,West Ham,Nott'm Forest,0.0,1.0,1.85,3.6,4.2,20222023_9_25_Away
+20222023,Tottenham,Chelsea,2.0,2.0,3.2,3.4,2.25,20222023_17_1_Away
+20222023,Crystal Palace,Liverpool,1.0,1.0,16.0,6.75,1.18,20222023_16_3_Away
+20222023,Wolves,Tottenham,0.0,1.0,7.5,4.75,1.4,20222023_8_17_Away
+20222023,Aston Villa,Crystal Palace,1.0,3.0,2.9,3.25,2.5,20222023_20_16_Away
+20222023,Nott'm Forest,Everton,1.0,1.0,4.0,3.6,1.9,20222023_25_5_Away
+20222023,Brentford,Fulham,2.0,3.0,2.9,3.4,2.45,20222023_21_18_Away
+20222023,Southampton,Leicester,2.0,1.0,4.0,4.0,1.83,20222023_7_6_Away
+20222023,Arsenal,Bournemouth,3.0,0.0,1.4,4.75,8.0,20222023_11_24_Away
+20222023,Chelsea,Leeds,0.0,3.0,1.53,4.5,5.75,20222023_1_10_Away
+20222023,Brighton,West Ham,2.0,0.0,3.1,3.4,2.3,20222023_19_9_Away
+20222023,Man City,Newcastle,3.0,3.0,1.36,5.0,7.5,20222023_4_15_Away
+20222023,Liverpool,Man United,1.0,2.0,1.6,4.33,5.25,20222023_3_14_Away
+20222023,Man United,Southampton,1.0,0.0,1.8,4.0,4.2,20222023_14_7_Away
+20222023,Everton,Brentford,1.0,1.0,3.75,3.5,2.0,20222023_5_21_Away
+20222023,Leeds,Brighton,0.0,1.0,3.8,3.8,1.9,20222023_10_19_Away
+20222023,Leicester,Chelsea,1.0,2.0,7.0,5.0,1.4,20222023_6_1_Away
+20222023,Bournemouth,Liverpool,0.0,9.0,26.0,10.0,1.1,20222023_24_3_Away
+20222023,Crystal Palace,Man City,2.0,4.0,13.0,7.5,1.18,20222023_16_4_Away
+20222023,Fulham,Arsenal,1.0,2.0,9.0,5.75,1.3,20222023_18_11_Away
+20222023,West Ham,Aston Villa,1.0,0.0,3.1,3.4,2.3,20222023_9_20_Away
+20222023,Newcastle,Wolves,1.0,1.0,2.7,3.3,2.7,20222023_15_8_Away
+20222023,Tottenham,Nott'm Forest,2.0,0.0,1.44,4.6,7.0,20222023_17_25_Away
+20222023,Brentford,Crystal Palace,1.0,1.0,3.6,3.4,2.05,20222023_21_16_Away
+20222023,Brighton,Fulham,1.0,2.0,2.3,3.3,3.1,20222023_19_18_Away
+20222023,Chelsea,Southampton,1.0,2.0,1.61,4.0,5.25,20222023_1_7_Away
+20222023,Everton,Leeds,1.0,1.0,3.3,3.5,2.15,20222023_5_10_Away
+20222023,Aston Villa,Arsenal,1.0,2.0,6.0,4.5,1.45,20222023_20_11_Away
+20222023,Wolves,Bournemouth,0.0,0.0,2.15,3.3,3.5,20222023_8_24_Away
+20222023,Nott'm Forest,Man City,0.0,6.0,29.0,13.0,1.06,20222023_25_4_Away
+20222023,Tottenham,West Ham,1.0,1.0,1.95,3.8,3.6,20222023_17_9_Away
+20222023,Newcastle,Liverpool,1.0,2.0,9.0,5.25,1.33,20222023_15_3_Away
+20222023,Man United,Leicester,1.0,0.0,2.05,3.75,3.4,20222023_14_6_Away
+20222023,Liverpool,Everton,0.0,0.0,1.4,4.75,7.0,20222023_3_5_Away
+20222023,Leeds,Brentford,2.0,5.0,3.4,3.5,2.1,20222023_10_21_Away
+20222023,West Ham,Chelsea,1.0,2.0,5.5,4.5,1.55,20222023_9_1_Away
+20222023,Crystal Palace,Newcastle,0.0,0.0,3.75,3.5,2.0,20222023_16_15_Away
+20222023,Bournemouth,Nott'm Forest,3.0,2.0,3.8,3.5,1.95,20222023_24_25_Away
+20222023,Fulham,Tottenham,1.0,2.0,6.5,4.5,1.5,20222023_18_17_Away
+20222023,Southampton,Wolves,0.0,1.0,3.25,3.4,2.2,20222023_7_8_Away
+20222023,Man City,Aston Villa,1.0,1.0,1.33,5.5,8.0,20222023_4_20_Away
+20222023,Leicester,Brighton,2.0,5.0,4.5,3.5,1.83,20222023_6_19_Away
+20222023,Arsenal,Man United,1.0,3.0,2.7,3.5,2.5,20222023_11_14_Away
+20222023,Southampton,Aston Villa,0.0,1.0,3.5,3.5,2.1,20222023_7_20_Away
+20222023,Fulham,Nott'm Forest,3.0,2.0,2.62,3.3,2.75,20222023_18_25_Away
+20222023,Man City,Wolves,3.0,0.0,1.33,5.0,9.5,20222023_4_8_Away
+20222023,Bournemouth,Newcastle,1.0,1.0,7.5,4.4,1.44,20222023_24_15_Away
+20222023,Leicester,Tottenham,2.0,6.0,7.0,4.5,1.45,20222023_6_17_Away
+20222023,Arsenal,Brentford,3.0,0.0,1.8,3.8,4.2,20222023_11_21_Away
+20222023,West Ham,Everton,0.0,1.0,2.5,3.25,2.9,20222023_9_5_Away
+20222023,Tottenham,Arsenal,1.0,3.0,3.3,3.75,2.05,20222023_17_11_Away
+20222023,Brentford,Bournemouth,0.0,0.0,2.2,3.4,3.3,20222023_21_24_Away
+20222023,Chelsea,Crystal Palace,2.0,1.0,1.85,3.6,4.2,20222023_1_16_Away
+20222023,Newcastle,Fulham,4.0,1.0,2.37,3.4,3.0,20222023_15_18_Away
+20222023,Brighton,Liverpool,3.0,3.0,8.5,5.25,1.33,20222023_19_3_Away
+20222023,Everton,Southampton,2.0,1.0,3.4,3.4,2.15,20222023_5_7_Away
+20222023,Wolves,West Ham,0.0,2.0,4.2,3.5,1.95,20222023_8_9_Away
+20222023,Man United,Man City,3.0,6.0,7.5,5.75,1.33,20222023_14_4_Away
+20222023,Aston Villa,Leeds,0.0,0.0,3.0,3.4,2.35,20222023_20_10_Away
+20222023,Nott'm Forest,Leicester,0.0,4.0,4.33,4.0,1.75,20222023_25_6_Away
+20222023,Leicester,Bournemouth,1.0,2.0,2.05,3.4,3.6,20222023_6_24_Away
+20222023,Wolves,Chelsea,0.0,3.0,8.0,4.5,1.4,20222023_8_1_Away
+20222023,Southampton,Man City,0.0,4.0,17.0,10.0,1.11,20222023_7_4_Away
+20222023,Brentford,Newcastle,1.0,5.0,4.2,3.8,1.83,20222023_21_15_Away
+20222023,Tottenham,Brighton,1.0,0.0,2.5,3.4,2.8,20222023_17_19_Away
+20222023,Leeds,Crystal Palace,1.0,2.0,3.6,3.5,2.05,20222023_10_16_Away
+20222023,Fulham,West Ham,1.0,3.0,4.75,3.8,1.72,20222023_18_9_Away
+20222023,Liverpool,Arsenal,2.0,3.0,2.62,3.6,2.5,20222023_3_11_Away
+20222023,Man United,Everton,2.0,1.0,2.05,3.5,3.6,20222023_14_5_Away
+20222023,Aston Villa,Nott'm Forest,1.0,1.0,2.2,3.4,3.3,20222023_20_25_Away
+20222023,Brighton,Brentford,0.0,2.0,2.3,3.4,3.1,20222023_19_21_Away
+20222023,Crystal Palace,Leicester,0.0,0.0,3.1,3.4,2.3,20222023_16_6_Away
+20222023,Bournemouth,Fulham,2.0,2.0,4.0,3.75,1.85,20222023_24_18_Away
+20222023,Nott'm Forest,Wolves,0.0,1.0,5.0,3.75,1.7,20222023_25_8_Away
+20222023,Everton,Tottenham,0.0,2.0,6.5,4.5,1.5,20222023_5_17_Away
+20222023,Chelsea,Aston Villa,2.0,0.0,1.8,3.75,4.33,20222023_1_20_Away
+20222023,Arsenal,Leeds,1.0,0.0,1.55,4.2,6.0,20222023_11_10_Away
+20222023,Newcastle,Man United,0.0,0.0,3.5,3.8,1.95,20222023_15_14_Away
+20222023,West Ham,Southampton,1.0,1.0,2.4,3.4,2.9,20222023_9_7_Away
+20222023,Man City,Liverpool,0.0,1.0,1.9,4.0,3.6,20222023_4_3_Away
+20222023,Nott'm Forest,Brighton,0.0,0.0,7.0,4.75,1.4,20222023_25_19_Away
+20222023,Wolves,Crystal Palace,1.0,2.0,3.4,3.1,2.25,20222023_8_16_Away
+20222023,Southampton,Bournemouth,1.0,0.0,2.62,3.3,2.62,20222023_7_24_Away
+20222023,Chelsea,Brentford,0.0,0.0,1.72,3.8,4.75,20222023_1_21_Away
+20222023,West Ham,Liverpool,0.0,1.0,7.0,5.0,1.4,20222023_9_3_Away
+20222023,Everton,Newcastle,0.0,1.0,5.75,3.8,1.6,20222023_5_15_Away
+20222023,Tottenham,Man United,0.0,2.0,2.75,3.5,2.45,20222023_17_14_Away
+20222023,Aston Villa,Fulham,0.0,3.0,2.5,3.3,2.9,20222023_20_18_Away
+20222023,Leeds,Leicester,0.0,2.0,3.0,3.6,2.25,20222023_10_6_Away
+20222023,Liverpool,Nott'm Forest,0.0,1.0,1.25,6.0,11.0,20222023_3_25_Away
+20222023,Crystal Palace,Everton,0.0,3.0,2.87,3.2,2.6,20222023_16_5_Away
+20222023,Brighton,Man City,1.0,3.0,13.0,7.0,1.2,20222023_19_4_Away
+20222023,Man United,Chelsea,1.0,1.0,3.5,3.5,2.05,20222023_14_1_Away
+20222023,Brentford,Aston Villa,0.0,4.0,3.5,3.5,2.1,20222023_21_20_Away
+20222023,Fulham,Leeds,3.0,2.0,3.6,3.5,2.05,20222023_18_10_Away
+20222023,Arsenal,Southampton,1.0,1.0,1.57,4.0,6.0,20222023_11_7_Away
+20222023,Leicester,Wolves,4.0,0.0,3.25,3.25,2.25,20222023_6_8_Away
+20222023,Newcastle,Tottenham,2.0,1.0,3.5,3.5,2.05,20222023_15_17_Away
+20222023,Bournemouth,West Ham,0.0,2.0,6.0,4.0,1.55,20222023_24_9_Away
+20222023,Man City,Leicester,1.0,0.0,1.25,6.5,10.0,20222023_4_6_Away
+20222023,Tottenham,Bournemouth,3.0,2.0,1.7,3.8,5.0,20222023_17_24_Away
+20222023,Wolves,Brentford,1.0,1.0,3.3,3.4,2.2,20222023_8_21_Away
+20222023,Chelsea,Brighton,1.0,4.0,2.4,3.3,3.0,20222023_1_19_Away
+20222023,Southampton,Crystal Palace,0.0,1.0,4.0,3.6,1.9,20222023_7_16_Away
+20222023,Aston Villa,Newcastle,0.0,4.0,4.5,3.75,1.8,20222023_20_15_Away
+20222023,Everton,Fulham,0.0,0.0,3.0,3.4,2.37,20222023_5_18_Away
+20222023,Leeds,Liverpool,2.0,1.0,9.0,6.0,1.3,20222023_10_3_Away
+20222023,Nott'm Forest,Arsenal,0.0,5.0,12.0,7.0,1.2,20222023_25_11_Away
+20222023,West Ham,Man United,0.0,1.0,4.8,4.0,1.66,20222023_9_14_Away
+20222023,Bournemouth,Leeds,3.0,4.0,4.75,3.8,1.72,20222023_24_10_Away
+20222023,Fulham,Man City,1.0,2.0,19.0,9.5,1.11,20222023_18_4_Away
+20222023,Brentford,Nott'm Forest,2.0,2.0,2.6,3.3,2.75,20222023_21_25_Away
+20222023,Brighton,Wolves,3.0,2.0,2.25,3.3,3.3,20222023_19_8_Away
+20222023,Leicester,Everton,2.0,0.0,3.0,3.3,2.4,20222023_6_5_Away
+20222023,Arsenal,Chelsea,1.0,0.0,2.7,3.4,2.55,20222023_11_1_Away
+20222023,Man United,Aston Villa,1.0,3.0,2.1,3.8,3.3,20222023_14_20_Away
+20222023,Newcastle,Southampton,4.0,1.0,1.9,3.6,4.0,20222023_15_7_Away
+20222023,Crystal Palace,West Ham,2.0,1.0,4.2,3.4,1.9,20222023_16_9_Away
+20222023,Liverpool,Tottenham,2.0,1.0,2.1,3.6,3.3,20222023_3_17_Away
+20222023,Brentford,Man City,2.0,1.0,17.0,8.0,1.14,20222023_21_4_Away
+20222023,Everton,Bournemouth,0.0,3.0,2.6,3.25,2.8,20222023_5_24_Away
+20222023,Southampton,Liverpool,1.0,3.0,11.0,6.5,1.25,20222023_7_3_Away
+20222023,Crystal Palace,Nott'm Forest,0.0,1.0,2.45,3.1,3.1,20222023_16_25_Away
+20222023,Leeds,Tottenham,3.0,4.0,4.75,4.2,1.65,20222023_10_17_Away
+20222023,Leicester,West Ham,2.0,0.0,3.75,3.4,2.05,20222023_6_9_Away
+20222023,Chelsea,Newcastle,0.0,1.0,3.0,3.4,2.35,20222023_1_15_Away
+20222023,Arsenal,Wolves,2.0,0.0,1.55,4.2,6.0,20222023_11_8_Away
+20222023,Aston Villa,Brighton,2.0,1.0,4.2,3.75,1.83,20222023_20_19_Away
+20222023,Man United,Fulham,2.0,1.0,1.9,3.8,3.8,20222023_14_18_Away
+20222023,Tottenham,Brentford,2.0,2.0,1.91,3.6,4.0,20222023_17_21_Away
+20222023,Fulham,Crystal Palace,3.0,0.0,3.5,3.6,2.05,20222023_18_16_Away
+20222023,Wolves,Everton,2.0,1.0,3.2,3.25,2.3,20222023_8_5_Away
+20222023,Newcastle,Leicester,3.0,0.0,2.2,3.5,3.25,20222023_15_6_Away
+20222023,Brighton,Southampton,3.0,1.0,2.15,3.5,3.3,20222023_19_7_Away
+20222023,Liverpool,Aston Villa,3.0,1.0,1.7,4.0,4.75,20222023_3_20_Away
+20222023,West Ham,Arsenal,1.0,3.0,6.5,4.33,1.5,20222023_9_11_Away
+20222023,Bournemouth,Chelsea,0.0,2.0,10.0,5.5,1.3,20222023_24_1_Away
+20222023,Nott'm Forest,Man United,0.0,3.0,11.0,5.5,1.29,20222023_25_14_Away
+20222023,Man City,Leeds,3.0,1.0,1.29,6.0,9.5,20222023_4_10_Away
+20222023,Brentford,West Ham,2.0,0.0,3.6,3.6,2.0,20222023_21_9_Away
+20222023,Leicester,Liverpool,1.0,2.0,9.5,6.0,1.29,20222023_6_3_Away
+20222023,Man United,Wolves,1.0,0.0,1.91,3.6,4.0,20222023_14_8_Away
+20222023,Crystal Palace,Bournemouth,2.0,0.0,2.5,3.3,2.8,20222023_16_24_Away
+20222023,Southampton,Fulham,1.0,2.0,3.75,3.6,1.95,20222023_7_18_Away
+20222023,Everton,Man City,1.0,1.0,19.0,9.0,1.13,20222023_5_4_Away
+20222023,Leeds,Newcastle,0.0,0.0,7.0,4.5,1.45,20222023_10_15_Away
+20222023,Arsenal,Brighton,4.0,2.0,2.1,3.5,3.4,20222023_11_19_Away
+20222023,Aston Villa,Tottenham,2.0,0.0,5.0,4.0,1.67,20222023_20_17_Away
+20222023,Chelsea,Nott'm Forest,1.0,1.0,1.7,3.8,5.0,20222023_1_25_Away
+20222023,Liverpool,Brentford,1.0,3.0,1.55,4.33,5.5,20222023_3_21_Away
+20222023,Newcastle,Arsenal,0.0,0.0,4.33,3.8,1.8,20222023_15_11_Away
+20222023,Brighton,Everton,4.0,1.0,2.1,3.5,3.5,20222023_19_5_Away
+20222023,Fulham,Leicester,1.0,0.0,3.1,3.6,2.2,20222023_18_6_Away
+20222023,Bournemouth,Man United,0.0,3.0,11.0,5.5,1.29,20222023_24_14_Away
+20222023,Nott'm Forest,Southampton,1.0,0.0,3.8,3.5,2.0,20222023_25_7_Away
+20222023,West Ham,Leeds,2.0,2.0,2.6,3.5,2.6,20222023_9_10_Away
+20222023,Wolves,Aston Villa,1.0,1.0,4.0,3.6,1.95,20222023_8_20_Away
+20222023,Tottenham,Crystal Palace,4.0,0.0,2.15,3.5,3.4,20222023_17_16_Away
+20222023,Man City,Chelsea,1.0,0.0,1.67,4.0,5.0,20222023_4_1_Away
+20222023,Chelsea,Fulham,1.0,2.0,2.15,3.5,3.3,20222023_1_18_Away
+20222023,Leeds,Aston Villa,1.0,2.0,4.0,3.6,1.91,20222023_10_20_Away
+20222023,Man City,Man United,1.0,2.0,1.85,3.6,4.2,20222023_4_14_Away
+20222023,Liverpool,Brighton,0.0,3.0,2.1,3.6,3.4,20222023_3_19_Away
+20222023,Southampton,Everton,2.0,1.0,3.3,3.25,2.25,20222023_7_5_Away
+20222023,Leicester,Nott'm Forest,0.0,2.0,2.63,3.3,2.7,20222023_6_25_Away
+20222023,West Ham,Wolves,0.0,1.0,2.7,3.3,2.63,20222023_9_8_Away
+20222023,Bournemouth,Brentford,0.0,2.0,5.25,4.0,1.65,20222023_24_21_Away
+20222023,Crystal Palace,Chelsea,0.0,1.0,5.25,4.0,1.62,20222023_16_1_Away
+20222023,Fulham,Newcastle,0.0,1.0,6.5,4.33,1.5,20222023_18_15_Away
+20222023,Arsenal,Tottenham,2.0,0.0,2.2,3.6,3.1,20222023_11_17_Away
+20222023,Man United,Crystal Palace,1.0,1.0,1.8,3.6,4.5,20222023_14_16_Away
+20222023,Tottenham,Man City,2.0,4.0,8.5,5.0,1.36,20222023_17_4_Away
+20222023,Chelsea,Liverpool,0.0,0.0,4.0,3.75,1.85,20222023_1_3_Away
+20222023,Nott'm Forest,Bournemouth,1.0,1.0,2.75,3.1,2.75,20222023_25_24_Away
+20222023,Brighton,Leicester,2.0,2.0,2.05,3.5,3.6,20222023_19_6_Away
+20222023,Aston Villa,Southampton,1.0,0.0,2.55,3.25,2.88,20222023_20_7_Away
+20222023,Everton,West Ham,0.0,2.0,4.75,3.75,1.8,20222023_5_9_Away
+20222023,Newcastle,Crystal Palace,0.0,0.0,1.85,3.5,4.4,20222023_15_16_Away
+20222023,Brentford,Leeds,0.0,0.0,2.88,3.6,2.38,20222023_21_10_Away
+20222023,Wolves,Man City,0.0,3.0,11.0,8.0,1.2,20222023_8_4_Away
+20222023,Man United,Arsenal,2.0,3.0,4.2,3.8,1.8,20222023_14_11_Away
+20222023,Tottenham,Fulham,1.0,0.0,2.1,3.6,3.3,20222023_17_18_Away
+20222023,Fulham,Chelsea,0.0,0.0,5.25,4.0,1.62,20222023_18_1_Away
+20222023,Arsenal,Everton,0.0,1.0,1.4,4.5,8.5,20222023_11_5_Away
+20222023,Leicester,Aston Villa,4.0,2.0,3.8,3.6,1.95,20222023_6_20_Away
+20222023,Southampton,Brentford,0.0,3.0,4.2,3.6,1.85,20222023_7_21_Away
+20222023,Bournemouth,Brighton,0.0,1.0,8.5,5.25,1.33,20222023_24_19_Away
+20222023,Crystal Palace,Man United,1.0,2.0,8.0,4.75,1.4,20222023_16_14_Away
+20222023,Liverpool,Wolves,0.0,3.0,1.85,3.8,4.0,20222023_3_8_Away
+20222023,West Ham,Newcastle,1.0,1.0,6.0,3.8,1.6,20222023_9_15_Away
+20222023,Leeds,Nott'm Forest,0.0,1.0,2.7,3.3,2.63,20222023_10_25_Away
+20222023,Man City,Tottenham,0.0,1.0,1.73,4.2,4.33,20222023_4_17_Away
+20222023,Leeds,Man United,2.0,2.0,6.0,5.0,1.45,20222023_10_14_Away
+20222023,Chelsea,West Ham,1.0,1.0,2.25,3.3,3.3,20222023_1_9_Away
+20222023,Brentford,Arsenal,1.0,1.0,7.0,4.75,1.44,20222023_21_11_Away
+20222023,Brighton,Crystal Palace,1.0,1.0,2.0,3.5,3.8,20222023_19_16_Away
+20222023,Nott'm Forest,Fulham,0.0,2.0,4.33,3.5,1.91,20222023_25_18_Away
+20222023,Tottenham,Leicester,1.0,4.0,2.1,3.6,3.4,20222023_17_6_Away
+20222023,Wolves,Southampton,2.0,1.0,2.55,3.2,2.9,20222023_8_7_Away
+20222023,Newcastle,Bournemouth,1.0,1.0,1.53,4.0,6.5,20222023_15_24_Away
+20222023,Man United,Leeds,2.0,0.0,1.91,3.8,3.75,20222023_14_10_Away
+20222023,Aston Villa,Man City,1.0,3.0,11.0,6.5,1.25,20222023_20_4_Away
+20222023,Everton,Liverpool,0.0,2.0,6.5,4.33,1.5,20222023_5_3_Away
+20222023,Man City,Arsenal,3.0,1.0,2.35,3.5,2.9,20222023_4_11_Away
+20222023,Arsenal,Aston Villa,4.0,2.0,1.5,3.6,4.5,20222023_11_20_Away
+20222023,Crystal Palace,Brentford,1.0,1.0,4.5,3.5,1.83,20222023_16_21_Away
+20222023,Fulham,Brighton,1.0,0.0,5.5,3.8,1.65,20222023_18_19_Away
+20222023,Southampton,Chelsea,1.0,0.0,8.5,4.75,1.4,20222023_7_1_Away
+20222023,Leeds,Everton,0.0,1.0,3.0,3.3,2.4,20222023_10_5_Away
+20222023,Man City,Nott'm Forest,1.0,1.0,1.3,5.5,8.5,20222023_4_25_Away
+20222023,Bournemouth,Wolves,1.0,0.0,6.0,3.6,1.67,20222023_24_8_Away
+20222023,Liverpool,Newcastle,2.0,0.0,2.7,3.5,2.5,20222023_3_15_Away
+20222023,Leicester,Man United,0.0,3.0,5.25,4.33,1.62,20222023_6_14_Away
+20222023,West Ham,Tottenham,0.0,2.0,4.75,3.6,1.75,20222023_9_17_Away
+20222023,Wolves,Fulham,1.0,1.0,3.0,3.2,2.5,20222023_8_18_Away
+20222023,Aston Villa,Everton,2.0,0.0,3.0,3.2,2.5,20222023_20_5_Away
+20222023,Southampton,Leeds,0.0,1.0,4.0,3.5,1.95,20222023_7_10_Away
+20222023,Arsenal,Leicester,1.0,0.0,1.7,4.0,4.75,20222023_11_6_Away
+20222023,Nott'm Forest,West Ham,0.0,4.0,5.0,3.6,1.75,20222023_25_9_Away
+20222023,Man City,Bournemouth,4.0,1.0,1.29,5.75,10.0,20222023_4_24_Away
+20222023,Liverpool,Crystal Palace,0.0,0.0,1.73,3.8,4.75,20222023_3_16_Away
+20222023,Chelsea,Tottenham,0.0,2.0,2.9,3.25,2.55,20222023_1_17_Away
+20222023,Everton,Arsenal,0.0,4.0,10.0,4.75,1.36,20222023_5_11_Away
+20222023,Wolves,Liverpool,0.0,2.0,6.0,4.75,1.5,20222023_8_3_Away
+20222023,Newcastle,Man City,0.0,2.0,7.0,4.5,1.45,20222023_15_4_Away
+20222023,Bournemouth,Arsenal,2.0,3.0,12.0,7.0,1.22,20222023_24_11_Away
+20222023,Crystal Palace,Aston Villa,0.0,1.0,3.8,3.3,2.05,20222023_16_20_Away
+20222023,West Ham,Brighton,0.0,4.0,4.5,3.6,1.8,20222023_9_19_Away
+20222023,Leeds,Chelsea,0.0,1.0,5.5,4.0,1.62,20222023_10_1_Away
+20222023,Tottenham,Wolves,0.0,1.0,2.2,3.4,3.3,20222023_17_8_Away
+20222023,Leicester,Southampton,0.0,1.0,2.6,3.3,2.75,20222023_6_7_Away
+20222023,Everton,Nott'm Forest,2.0,2.0,2.88,3.0,2.7,20222023_5_25_Away
+20222023,Man United,Liverpool,0.0,7.0,2.88,3.6,2.38,20222023_14_3_Away
+20222023,Fulham,Brentford,2.0,3.0,3.75,3.6,1.95,20222023_18_21_Away
+20222023,Liverpool,Bournemouth,0.0,1.0,1.4,5.0,7.5,20222023_3_24_Away
+20222023,Brentford,Everton,0.0,1.0,2.7,3.25,2.7,20222023_21_5_Away
+20222023,Brighton,Leeds,2.0,2.0,1.95,3.6,3.75,20222023_19_10_Away
+20222023,Chelsea,Leicester,3.0,1.0,1.95,3.5,3.75,20222023_1_6_Away
+20222023,Nott'm Forest,Tottenham,1.0,3.0,7.0,4.75,1.44,20222023_25_17_Away
+20222023,Man City,Crystal Palace,1.0,0.0,1.36,4.75,9.0,20222023_4_16_Away
+20222023,Arsenal,Fulham,3.0,0.0,1.57,4.0,6.0,20222023_11_18_Away
+20222023,Southampton,Man United,0.0,0.0,9.0,5.0,1.36,20222023_7_14_Away
+20222023,Aston Villa,West Ham,1.0,1.0,3.4,3.3,2.2,20222023_20_9_Away
+20222023,Wolves,Newcastle,1.0,2.0,5.5,3.75,1.65,20222023_8_15_Away
+20222023,Crystal Palace,Brighton,0.0,1.0,8.0,4.2,1.44,20222023_16_19_Away
+20222023,Brentford,Southampton,2.0,0.0,2.5,3.25,2.88,20222023_21_7_Away
+20222023,Newcastle,Nott'm Forest,2.0,1.0,1.62,3.8,5.5,20222023_15_25_Away
+20222023,Bournemouth,Aston Villa,0.0,3.0,5.0,3.8,1.7,20222023_24_20_Away
+20222023,Leicester,Brentford,1.0,1.0,3.75,3.6,1.91,20222023_6_21_Away
+20222023,Tottenham,Southampton,3.0,3.0,1.75,3.6,4.75,20222023_17_7_Away
+20222023,Leeds,Wolves,4.0,2.0,3.3,3.2,2.25,20222023_10_8_Away
+20222023,Everton,Chelsea,2.0,2.0,7.5,4.2,1.5,20222023_5_1_Away
+20222023,Crystal Palace,Arsenal,1.0,4.0,15.0,5.5,1.25,20222023_16_11_Away
+20222023,Liverpool,Man City,1.0,4.0,5.0,4.2,1.62,20222023_3_4_Away
+20222023,Leeds,Arsenal,1.0,4.0,9.0,6.0,1.29,20222023_10_11_Away
+20222023,Fulham,Bournemouth,1.0,2.0,2.8,3.3,2.55,20222023_18_24_Away
+20222023,Brentford,Brighton,3.0,3.0,5.0,4.0,1.67,20222023_21_19_Away
+20222023,Leicester,Crystal Palace,1.0,2.0,2.9,3.25,2.5,20222023_6_16_Away
+20222023,Wolves,Nott'm Forest,1.0,1.0,2.55,3.1,3.0,20222023_8_25_Away
+20222023,Aston Villa,Chelsea,2.0,0.0,5.25,3.8,1.67,20222023_20_1_Away
+20222023,Southampton,West Ham,0.0,1.0,5.0,3.6,1.73,20222023_7_9_Away
+20222023,Man United,Newcastle,0.0,2.0,2.9,3.4,2.4,20222023_14_15_Away
+20222023,Tottenham,Everton,1.0,1.0,2.2,3.3,3.4,20222023_17_5_Away
+20222023,Brighton,Bournemouth,2.0,0.0,1.53,4.2,6.0,20222023_19_24_Away
+20222023,Nott'm Forest,Leeds,1.0,2.0,5.0,3.75,1.7,20222023_25_10_Away
+20222023,Aston Villa,Leicester,2.0,1.0,2.75,3.3,2.55,20222023_20_6_Away
+20222023,Liverpool,Chelsea,0.0,0.0,3.25,3.4,2.2,20222023_3_1_Away
+20222023,Brentford,Man United,0.0,1.0,5.0,4.0,1.65,20222023_21_14_Away
+20222023,Newcastle,West Ham,5.0,1.0,2.15,3.25,3.6,20222023_15_9_Away
+20222023,Everton,Man United,0.0,2.0,6.5,4.33,1.5,20222023_5_14_Away
+20222023,Nott'm Forest,Aston Villa,0.0,2.0,5.25,4.2,1.6,20222023_25_20_Away
+20222023,Newcastle,Brentford,2.0,1.0,2.05,3.4,3.6,20222023_15_21_Away
+20222023,West Ham,Fulham,1.0,0.0,2.63,3.25,2.8,20222023_9_18_Away
+20222023,Bournemouth,Leicester,1.0,0.0,4.2,3.75,1.83,20222023_24_6_Away
+20222023,Brighton,Tottenham,1.0,2.0,2.7,3.5,2.55,20222023_19_17_Away
+20222023,Chelsea,Wolves,0.0,1.0,1.91,3.5,4.2,20222023_1_8_Away
+20222023,Man City,Southampton,4.0,1.0,1.25,6.0,11.0,20222023_4_7_Away
+20222023,Crystal Palace,Leeds,5.0,1.0,3.6,3.4,2.1,20222023_16_10_Away
+20222023,Arsenal,Liverpool,2.0,2.0,2.38,3.6,2.88,20222023_11_3_Away
+20222023,Newcastle,Aston Villa,0.0,3.0,2.05,3.4,3.6,20222023_15_20_Away
+20222023,Brighton,Chelsea,2.0,1.0,2.63,3.4,2.63,20222023_19_1_Away
+20222023,Fulham,Everton,3.0,1.0,3.7,3.4,2.05,20222023_18_5_Away
+20222023,Crystal Palace,Southampton,2.0,0.0,2.7,3.1,2.8,20222023_16_7_Away
+20222023,Bournemouth,Tottenham,3.0,2.0,7.0,4.5,1.45,20222023_24_17_Away
+20222023,Brentford,Wolves,0.0,2.0,3.0,3.1,2.45,20222023_21_8_Away
+20222023,Leicester,Man City,1.0,3.0,15.0,8.5,1.14,20222023_6_4_Away
+20222023,Arsenal,West Ham,2.0,2.0,1.55,4.2,6.0,20222023_11_9_Away
+20222023,Man United,Nott'm Forest,2.0,0.0,1.62,4.0,5.5,20222023_14_25_Away
+20222023,Liverpool,Leeds,6.0,1.0,1.73,4.2,4.2,20222023_3_10_Away
+20222023,Southampton,Arsenal,3.0,3.0,13.0,7.0,1.2,20222023_7_11_Away
+20222023,Leeds,Fulham,1.0,2.0,3.1,3.4,2.3,20222023_10_18_Away
+20222023,Aston Villa,Brentford,1.0,1.0,2.88,3.25,2.5,20222023_20_21_Away
+20222023,Everton,Crystal Palace,0.0,0.0,3.75,3.2,2.05,20222023_5_16_Away
+20222023,Wolves,Leicester,1.0,2.0,3.0,3.3,2.38,20222023_8_6_Away
+20222023,Nott'm Forest,Liverpool,2.0,3.0,17.0,7.5,1.17,20222023_25_3_Away
+20222023,West Ham,Bournemouth,4.0,0.0,2.55,3.2,2.88,20222023_9_24_Away
+20222023,Tottenham,Newcastle,1.0,6.0,4.2,3.75,1.83,20222023_17_15_Away
+20222023,Crystal Palace,Wolves,0.0,2.0,3.0,3.2,2.45,20222023_16_8_Away
+20222023,Fulham,Aston Villa,0.0,1.0,4.2,4.0,1.75,20222023_18_20_Away
+20222023,Leicester,Leeds,1.0,1.0,3.0,3.5,2.3,20222023_6_10_Away
+20222023,Brighton,Nott'm Forest,1.0,3.0,1.53,4.2,6.0,20222023_19_25_Away
+20222023,Brentford,Chelsea,2.0,0.0,4.75,4.0,1.7,20222023_21_1_Away
+20222023,Liverpool,West Ham,2.0,1.0,1.85,3.9,3.9,20222023_3_9_Away
+20222023,Arsenal,Man City,1.0,4.0,5.25,4.5,1.55,20222023_11_4_Away
+20222023,Newcastle,Everton,4.0,1.0,1.73,3.6,4.75,20222023_15_5_Away
+20222023,Bournemouth,Southampton,1.0,0.0,3.2,3.4,2.25,20222023_24_7_Away
+20222023,Man United,Tottenham,2.0,2.0,2.4,3.6,2.8,20222023_14_17_Away
+20222023,West Ham,Crystal Palace,3.0,4.0,2.75,3.25,2.63,20222023_9_16_Away
+20222023,Nott'm Forest,Brentford,1.0,2.0,5.5,3.8,1.65,20222023_25_21_Away
+20222023,Wolves,Brighton,0.0,6.0,6.5,4.33,1.5,20222023_8_19_Away
+20222023,Leeds,Bournemouth,1.0,4.0,2.7,3.5,2.55,20222023_10_24_Away
+20222023,Man City,Fulham,2.0,1.0,1.25,6.0,12.0,20222023_4_18_Away
+20222023,Aston Villa,Man United,0.0,1.0,4.6,3.9,1.73,20222023_20_14_Away
+20222023,Southampton,Newcastle,1.0,3.0,10.0,5.25,1.3,20222023_7_15_Away
+20222023,Tottenham,Liverpool,3.0,4.0,5.75,4.5,1.53,20222023_17_3_Away
+20222023,Everton,Leicester,2.0,2.0,3.75,3.5,2.0,20222023_5_6_Away
+20222023,Chelsea,Arsenal,1.0,3.0,5.5,4.0,1.6,20222023_1_11_Away
+20222023,Fulham,Liverpool,0.0,1.0,11.0,5.75,1.25,20222023_18_3_Away
+20222023,West Ham,Man City,0.0,3.0,13.0,7.0,1.2,20222023_9_4_Away
+20222023,Man United,Brighton,0.0,1.0,3.75,3.5,1.95,20222023_14_19_Away
+20222023,Chelsea,Bournemouth,3.0,1.0,2.15,3.5,3.3,20222023_1_24_Away
+20222023,Leeds,Man City,1.0,2.0,15.0,8.5,1.17,20222023_10_4_Away
+20222023,Crystal Palace,Tottenham,0.0,1.0,4.2,3.8,1.8,20222023_16_17_Away
+20222023,Aston Villa,Wolves,0.0,1.0,2.5,3.3,2.88,20222023_20_8_Away
+20222023,Brentford,Liverpool,0.0,1.0,6.0,5.0,1.44,20222023_21_3_Away
+20222023,Arsenal,Newcastle,2.0,0.0,2.63,3.75,2.45,20222023_11_15_Away
+20222023,Man United,West Ham,0.0,1.0,2.05,3.75,3.4,20222023_14_9_Away
+20222023,Leicester,Fulham,3.0,5.0,2.6,3.5,2.63,20222023_6_18_Away
+20222023,Everton,Brighton,5.0,1.0,9.0,5.25,1.33,20222023_5_19_Away
+20222023,Southampton,Nott'm Forest,3.0,4.0,3.4,3.6,2.1,20222023_7_25_Away
+20222023,Newcastle,Leeds,2.0,2.0,1.7,4.2,4.33,20222023_15_10_Away
+20222023,Tottenham,Aston Villa,1.0,2.0,2.9,3.6,2.25,20222023_17_20_Away
+20222023,Nott'm Forest,Chelsea,2.0,2.0,6.0,4.5,1.5,20222023_25_1_Away
+20222023,Bournemouth,Crystal Palace,0.0,2.0,4.2,3.6,1.83,20222023_24_16_Away
+20222023,Wolves,Man United,0.0,2.0,7.5,5.0,1.36,20222023_8_14_Away
+20222023,Fulham,Southampton,2.0,0.0,2.5,3.3,2.75,20222023_18_7_Away
+20222023,West Ham,Brentford,0.0,2.0,3.6,3.5,2.0,20222023_9_21_Away
+20222023,Man City,Everton,3.0,0.0,1.36,4.75,9.0,20222023_4_5_Away
+20222023,Brighton,Arsenal,3.0,0.0,4.2,4.2,1.73,20222023_19_11_Away
+20222023,Liverpool,Leicester,3.0,0.0,1.57,4.33,5.25,20222023_3_6_Away
+20222023,Brighton,Newcastle,1.0,4.0,3.5,3.8,2.0,20222023_19_15_Away
+20222023,Brentford,Tottenham,3.0,1.0,4.0,3.9,1.83,20222023_21_17_Away
+20222023,Man United,Bournemouth,1.0,0.0,1.5,4.75,6.0,20222023_14_24_Away
+20222023,Crystal Palace,Fulham,2.0,2.0,2.9,3.4,2.45,20222023_16_18_Away
+20222023,Aston Villa,Liverpool,1.0,1.0,6.25,5.0,1.45,20222023_20_3_Away
+20222023,Everton,Wolves,1.0,1.0,2.6,3.3,2.75,20222023_5_8_Away
+20222023,Arsenal,Nott'm Forest,0.0,1.0,1.57,4.33,5.25,20222023_11_25_Away
+20222023,Leeds,West Ham,1.0,3.0,2.88,3.5,2.4,20222023_10_9_Away
+20222023,Southampton,Brighton,1.0,3.0,11.0,7.0,1.22,20222023_7_19_Away
+20222023,Chelsea,Man City,0.0,1.0,11.0,6.0,1.25,20222023_1_4_Away
+20222023,Leicester,Newcastle,0.0,0.0,7.0,5.5,1.36,20222023_6_15_Away
+20222023,Man City,Brighton,1.0,1.0,1.75,4.33,4.0,20222023_4_19_Away
+20222023,Chelsea,Man United,1.0,4.0,5.0,4.33,1.6,20222023_1_14_Away
+20222023,Wolves,Arsenal,0.0,5.0,8.0,5.25,1.36,20222023_8_11_Away
+20222023,Brighton,Aston Villa,1.0,2.0,3.5,3.6,2.0,20222023_19_20_Away
+20222023,Man City,Brentford,0.0,1.0,1.83,4.0,3.8,20222023_4_21_Away
+20222023,Newcastle,Chelsea,1.0,1.0,2.38,3.5,2.9,20222023_15_1_Away
+20222023,Nott'm Forest,Crystal Palace,1.0,1.0,5.0,4.0,1.67,20222023_25_16_Away
+20222023,Bournemouth,Everton,0.0,1.0,6.5,4.5,1.5,20222023_24_5_Away
+20222023,Tottenham,Leeds,4.0,1.0,2.3,3.8,2.75,20222023_17_10_Away
+20222023,West Ham,Leicester,1.0,2.0,3.6,3.8,1.91,20222023_9_6_Away
+20222023,Fulham,Man United,1.0,2.0,6.0,4.33,1.5,20222023_18_14_Away
+20222023,Liverpool,Southampton,4.0,4.0,1.44,4.75,6.5,20222023_3_7_Away
+20212022,Arsenal,Brentford,0.0,2.0,1.95,3.4,4.0,20212022_11_21_Away
+20212022,Leeds,Man United,1.0,5.0,5.75,4.5,1.53,20212022_10_14_Away
+20212022,Brighton,Burnley,2.0,1.0,2.45,3.1,3.1,20212022_19_12_Away
+20212022,Crystal Palace,Chelsea,0.0,3.0,13.0,5.75,1.25,20212022_16_1_Away
+20212022,Southampton,Everton,1.0,3.0,4.0,3.5,1.9,20212022_7_5_Away
+20212022,Wolves,Leicester,0.0,1.0,5.25,3.8,1.66,20212022_8_6_Away
+20212022,Aston Villa,Watford,2.0,3.0,2.37,3.2,3.1,20212022_20_23_Away
+20212022,Liverpool,Norwich,3.0,0.0,1.3,5.75,9.0,20212022_3_22_Away
+20212022,West Ham,Newcastle,4.0,2.0,2.2,3.5,3.2,20212022_9_15_Away
+20212022,Man City,Tottenham,0.0,1.0,1.6,4.2,5.5,20212022_4_17_Away
+20212022,Burnley,Liverpool,0.0,2.0,13.0,7.5,1.18,20212022_12_3_Away
+20212022,Newcastle,Aston Villa,0.0,2.0,4.33,3.75,1.8,20212022_15_20_Away
+20212022,Brentford,Crystal Palace,0.0,0.0,2.87,3.2,2.55,20212022_21_16_Away
+20212022,Everton,Leeds,2.0,2.0,3.0,3.4,2.37,20212022_5_10_Away
+20212022,Norwich,Man City,0.0,5.0,26.0,11.0,1.08,20212022_22_4_Away
+20212022,Watford,Brighton,0.0,2.0,5.75,3.5,1.7,20212022_23_19_Away
+20212022,Man United,Southampton,1.0,1.0,1.57,4.2,5.5,20212022_14_7_Away
+20212022,Tottenham,Wolves,1.0,0.0,2.35,3.2,3.2,20212022_17_8_Away
+20212022,Chelsea,Arsenal,2.0,0.0,1.72,3.75,4.75,20212022_1_11_Away
+20212022,Leicester,West Ham,1.0,4.0,2.75,3.5,2.5,20212022_6_9_Away
+20212022,Arsenal,Man City,0.0,5.0,12.0,6.0,1.25,20212022_11_4_Away
+20212022,Brentford,Aston Villa,1.0,1.0,3.8,3.6,1.95,20212022_21_20_Away
+20212022,Everton,Brighton,2.0,0.0,3.3,3.2,2.3,20212022_5_19_Away
+20212022,Southampton,Newcastle,2.0,2.0,2.8,3.4,2.5,20212022_7_15_Away
+20212022,Leicester,Norwich,2.0,1.0,1.85,3.5,4.5,20212022_6_22_Away
+20212022,Crystal Palace,West Ham,2.0,2.0,6.5,4.0,1.55,20212022_16_9_Away
+20212022,Chelsea,Liverpool,1.0,1.0,2.9,3.3,2.45,20212022_1_3_Away
+20212022,Leeds,Burnley,1.0,1.0,2.25,3.5,3.1,20212022_10_12_Away
+20212022,Watford,Tottenham,0.0,1.0,9.0,4.75,1.36,20212022_23_17_Away
+20212022,Man United,Wolves,1.0,0.0,1.75,3.5,5.0,20212022_14_8_Away
+20212022,Tottenham,Crystal Palace,0.0,3.0,1.9,3.5,4.2,20212022_17_16_Away
+20212022,Norwich,Arsenal,0.0,1.0,6.0,4.6,1.5,20212022_22_11_Away
+20212022,Brighton,Brentford,1.0,0.0,2.62,3.2,2.8,20212022_19_21_Away
+20212022,Man City,Leicester,1.0,0.0,1.57,4.0,6.0,20212022_4_6_Away
+20212022,Newcastle,Man United,1.0,4.0,15.0,7.5,1.18,20212022_15_14_Away
+20212022,West Ham,Southampton,0.0,0.0,2.4,3.5,2.9,20212022_9_7_Away
+20212022,Wolves,Watford,2.0,0.0,2.25,3.2,3.4,20212022_8_23_Away
+20212022,Aston Villa,Chelsea,0.0,3.0,11.0,5.5,1.28,20212022_20_1_Away
+20212022,Liverpool,Leeds,3.0,0.0,1.75,4.0,4.33,20212022_3_10_Away
+20212022,Burnley,Everton,1.0,3.0,5.0,3.75,1.7,20212022_12_5_Away
+20212022,Leeds,Newcastle,1.0,1.0,2.3,3.6,3.0,20212022_10_15_Away
+20212022,Brentford,Wolves,2.0,0.0,5.0,3.25,1.83,20212022_21_8_Away
+20212022,Arsenal,Burnley,1.0,0.0,1.95,3.6,3.8,20212022_11_12_Away
+20212022,Crystal Palace,Liverpool,0.0,3.0,13.0,7.0,1.2,20212022_16_3_Away
+20212022,Southampton,Man City,0.0,0.0,17.0,9.5,1.12,20212022_7_4_Away
+20212022,Watford,Norwich,3.0,1.0,3.5,3.3,2.15,20212022_23_22_Away
+20212022,Everton,Aston Villa,0.0,3.0,3.0,3.3,2.4,20212022_5_20_Away
+20212022,Leicester,Brighton,1.0,2.0,2.75,3.2,2.7,20212022_6_19_Away
+20212022,Man United,West Ham,2.0,1.0,1.75,4.0,4.33,20212022_14_9_Away
+20212022,Chelsea,Tottenham,3.0,0.0,1.7,3.8,5.0,20212022_1_17_Away
+20212022,Man City,Chelsea,1.0,0.0,2.75,3.2,2.62,20212022_4_1_Away
+20212022,Aston Villa,Man United,1.0,0.0,8.0,5.25,1.36,20212022_20_14_Away
+20212022,Norwich,Everton,0.0,2.0,5.75,3.8,1.61,20212022_22_5_Away
+20212022,West Ham,Leeds,2.0,1.0,2.25,3.6,3.0,20212022_9_10_Away
+20212022,Burnley,Leicester,2.0,2.0,6.0,4.0,1.57,20212022_12_6_Away
+20212022,Newcastle,Watford,1.0,1.0,3.3,3.4,2.2,20212022_15_23_Away
+20212022,Liverpool,Brentford,3.0,3.0,1.45,4.5,7.0,20212022_3_21_Away
+20212022,Wolves,Southampton,1.0,0.0,2.8,3.2,2.62,20212022_8_7_Away
+20212022,Tottenham,Arsenal,1.0,3.0,3.5,3.3,2.15,20212022_17_11_Away
+20212022,Brighton,Crystal Palace,1.0,1.0,2.45,3.2,3.1,20212022_19_16_Away
+20212022,Everton,Man United,1.0,1.0,7.5,4.33,1.45,20212022_5_14_Away
+20212022,Norwich,Burnley,0.0,0.0,4.33,3.6,1.85,20212022_22_12_Away
+20212022,Southampton,Chelsea,1.0,3.0,9.0,4.75,1.36,20212022_7_1_Away
+20212022,Watford,Leeds,0.0,1.0,4.75,4.0,1.7,20212022_23_10_Away
+20212022,Newcastle,Wolves,1.0,2.0,5.25,4.2,1.61,20212022_15_8_Away
+20212022,Arsenal,Brighton,0.0,0.0,2.4,3.25,3.0,20212022_11_19_Away
+20212022,Leicester,Crystal Palace,2.0,2.0,2.3,3.4,3.1,20212022_6_16_Away
+20212022,Aston Villa,Tottenham,1.0,2.0,3.4,3.6,2.1,20212022_20_17_Away
+20212022,Brentford,West Ham,2.0,1.0,4.75,3.75,1.75,20212022_21_9_Away
+20212022,Man City,Liverpool,2.0,2.0,2.4,3.5,2.87,20212022_4_3_Away
+20212022,Liverpool,Watford,5.0,0.0,1.33,5.5,8.5,20212022_3_23_Away
+20212022,Wolves,Aston Villa,3.0,2.0,3.5,3.25,2.15,20212022_8_20_Away
+20212022,Man United,Leicester,2.0,4.0,2.05,3.6,3.5,20212022_14_6_Away
+20212022,Burnley,Man City,0.0,2.0,19.0,9.0,1.12,20212022_12_4_Away
+20212022,Brighton,Norwich,0.0,0.0,2.1,3.4,3.6,20212022_19_22_Away
+20212022,Leeds,Southampton,0.0,1.0,3.0,3.5,2.3,20212022_10_7_Away
+20212022,Chelsea,Brentford,1.0,0.0,1.57,3.8,6.5,20212022_1_21_Away
+20212022,West Ham,Everton,1.0,0.0,2.8,3.4,2.5,20212022_9_5_Away
+20212022,Tottenham,Newcastle,3.0,2.0,2.05,3.6,3.5,20212022_17_15_Away
+20212022,Crystal Palace,Arsenal,2.0,2.0,6.0,3.8,1.6,20212022_16_11_Away
+20212022,Aston Villa,Arsenal,1.0,3.0,4.2,3.75,1.83,20212022_20_11_Away
+20212022,Norwich,Chelsea,0.0,7.0,15.0,7.0,1.18,20212022_22_1_Away
+20212022,Newcastle,Crystal Palace,1.0,1.0,4.0,3.6,1.9,20212022_15_16_Away
+20212022,Watford,Everton,5.0,2.0,5.5,3.8,1.65,20212022_23_5_Away
+20212022,Wolves,Leeds,1.0,1.0,2.87,3.4,2.4,20212022_8_10_Away
+20212022,Burnley,Southampton,2.0,2.0,3.9,3.5,1.95,20212022_12_7_Away
+20212022,Man City,Brighton,4.0,1.0,1.4,4.75,8.0,20212022_4_19_Away
+20212022,Leicester,Brentford,2.0,1.0,2.7,3.3,2.62,20212022_6_21_Away
+20212022,Tottenham,West Ham,0.0,1.0,3.0,3.5,2.3,20212022_17_9_Away
+20212022,Liverpool,Man United,5.0,0.0,2.2,3.6,3.1,20212022_3_14_Away
+20212022,Arsenal,Leicester,2.0,0.0,2.87,3.5,2.4,20212022_11_6_Away
+20212022,Brentford,Burnley,1.0,3.0,2.75,3.3,2.6,20212022_21_12_Away
+20212022,Brighton,Liverpool,2.0,2.0,13.0,6.5,1.22,20212022_19_3_Away
+20212022,Crystal Palace,Man City,2.0,0.0,19.0,8.0,1.14,20212022_16_4_Away
+20212022,Chelsea,Newcastle,3.0,0.0,1.36,5.0,8.5,20212022_1_15_Away
+20212022,Southampton,Watford,1.0,0.0,2.3,3.3,3.2,20212022_7_23_Away
+20212022,Man United,Tottenham,3.0,0.0,2.37,3.6,2.87,20212022_14_17_Away
+20212022,Leeds,Norwich,2.0,1.0,2.1,3.5,3.4,20212022_10_22_Away
+20212022,West Ham,Aston Villa,4.0,1.0,2.45,3.5,2.8,20212022_9_20_Away
+20212022,Everton,Wolves,1.0,2.0,3.5,3.2,2.2,20212022_5_8_Away
+20212022,Aston Villa,Southampton,0.0,1.0,3.75,3.6,1.95,20212022_20_7_Away
+20212022,Man City,Man United,2.0,0.0,1.7,4.0,4.75,20212022_4_14_Away
+20212022,Norwich,Brentford,2.0,1.0,5.75,4.0,1.6,20212022_22_21_Away
+20212022,Burnley,Chelsea,1.0,1.0,12.0,6.0,1.25,20212022_12_1_Away
+20212022,Wolves,Crystal Palace,0.0,2.0,3.0,3.2,2.45,20212022_8_16_Away
+20212022,Newcastle,Brighton,1.0,1.0,6.0,3.9,1.57,20212022_15_19_Away
+20212022,Watford,Arsenal,0.0,1.0,8.5,4.75,1.36,20212022_23_11_Away
+20212022,Tottenham,Everton,0.0,0.0,2.37,3.25,3.1,20212022_17_5_Away
+20212022,Leicester,Leeds,1.0,1.0,2.45,3.5,2.8,20212022_6_10_Away
+20212022,Liverpool,West Ham,2.0,3.0,1.7,4.0,4.75,20212022_3_9_Away
+20212022,Chelsea,Leicester,3.0,0.0,1.75,3.75,4.75,20212022_1_6_Away
+20212022,Brighton,Aston Villa,0.0,2.0,2.9,3.3,2.45,20212022_19_20_Away
+20212022,Crystal Palace,Burnley,3.0,3.0,2.7,3.2,2.7,20212022_16_12_Away
+20212022,Brentford,Newcastle,3.0,3.0,2.7,3.4,2.62,20212022_21_15_Away
+20212022,Southampton,Norwich,1.0,2.0,2.05,3.5,3.6,20212022_7_22_Away
+20212022,Man United,Watford,1.0,4.0,1.45,4.75,6.5,20212022_14_23_Away
+20212022,West Ham,Wolves,0.0,1.0,2.4,3.25,3.0,20212022_9_8_Away
+20212022,Arsenal,Liverpool,0.0,4.0,6.5,4.75,1.45,20212022_11_3_Away
+20212022,Everton,Man City,0.0,3.0,19.0,8.0,1.14,20212022_5_4_Away
+20212022,Leeds,Tottenham,1.0,2.0,4.5,4.2,1.7,20212022_10_17_Away
+20212022,Newcastle,Arsenal,0.0,2.0,7.0,4.75,1.44,20212022_15_11_Away
+20212022,Aston Villa,Crystal Palace,2.0,1.0,3.3,3.4,2.2,20212022_20_16_Away
+20212022,Southampton,Liverpool,0.0,4.0,9.0,6.0,1.28,20212022_7_3_Away
+20212022,Wolves,Norwich,0.0,0.0,2.15,3.3,3.5,20212022_8_22_Away
+20212022,Leeds,Brighton,0.0,0.0,3.75,3.4,2.05,20212022_10_19_Away
+20212022,Everton,Brentford,0.0,1.0,3.4,3.2,2.25,20212022_5_21_Away
+20212022,Watford,Leicester,2.0,4.0,5.5,4.0,1.61,20212022_23_6_Away
+20212022,West Ham,Man City,1.0,2.0,10.0,5.75,1.28,20212022_9_4_Away
+20212022,Man United,Chelsea,1.0,1.0,6.0,4.0,1.57,20212022_14_1_Away
+20212022,Norwich,Newcastle,1.0,1.0,3.9,3.5,1.95,20212022_22_15_Away
+20212022,Crystal Palace,Leeds,0.0,1.0,3.0,3.3,2.4,20212022_16_10_Away
+20212022,Leicester,Southampton,2.0,2.0,2.87,3.5,2.37,20212022_6_7_Away
+20212022,Chelsea,Watford,2.0,1.0,1.3,5.25,10.0,20212022_1_23_Away
+20212022,Brighton,West Ham,1.0,1.0,3.8,3.6,1.95,20212022_19_9_Away
+20212022,Burnley,Wolves,0.0,0.0,4.33,3.5,1.85,20212022_12_8_Away
+20212022,Man City,Aston Villa,2.0,1.0,1.33,5.25,9.0,20212022_4_20_Away
+20212022,Liverpool,Everton,4.0,1.0,1.36,5.25,7.5,20212022_3_5_Away
+20212022,Brentford,Tottenham,0.0,2.0,5.25,4.2,1.6,20212022_21_17_Away
+20212022,Arsenal,Man United,2.0,3.0,3.75,3.75,1.95,20212022_11_14_Away
+20212022,Chelsea,West Ham,2.0,3.0,1.75,3.6,4.75,20212022_1_9_Away
+20212022,Burnley,Newcastle,0.0,1.0,3.2,3.3,2.3,20212022_12_15_Away
+20212022,Brighton,Southampton,1.0,1.0,3.0,3.2,2.45,20212022_19_7_Away
+20212022,Liverpool,Wolves,1.0,0.0,1.4,4.75,8.0,20212022_3_8_Away
+20212022,Man City,Watford,3.0,1.0,1.2,7.0,12.0,20212022_4_23_Away
+20212022,Brentford,Leeds,2.0,2.0,3.8,3.6,1.95,20212022_21_10_Away
+20212022,Crystal Palace,Man United,0.0,1.0,6.5,4.33,1.5,20212022_16_14_Away
+20212022,Norwich,Tottenham,0.0,3.0,8.5,5.0,1.36,20212022_22_17_Away
+20212022,Leicester,Aston Villa,1.0,2.0,3.0,3.4,2.37,20212022_6_20_Away
+20212022,Arsenal,Everton,1.0,2.0,2.1,3.5,3.4,20212022_11_5_Away
+20212022,Watford,Brentford,1.0,2.0,3.3,3.3,2.25,20212022_23_21_Away
+20212022,Wolves,Man City,0.0,1.0,19.0,8.0,1.14,20212022_8_4_Away
+20212022,Southampton,Arsenal,0.0,3.0,5.5,4.0,1.61,20212022_7_11_Away
+20212022,Leeds,Chelsea,2.0,3.0,12.0,5.75,1.25,20212022_10_1_Away
+20212022,Aston Villa,Liverpool,0.0,1.0,13.0,7.0,1.2,20212022_20_3_Away
+20212022,Man United,Norwich,1.0,0.0,1.45,4.5,7.0,20212022_14_22_Away
+20212022,West Ham,Burnley,0.0,0.0,2.0,3.6,3.6,20212022_9_12_Away
+20212022,Newcastle,Leicester,0.0,4.0,4.75,4.1,1.66,20212022_15_6_Away
+20212022,Everton,Crystal Palace,1.0,3.0,3.3,3.2,2.3,20212022_5_16_Away
+20212022,Aston Villa,Norwich,2.0,0.0,2.25,3.3,3.3,20212022_20_22_Away
+20212022,Leeds,Man City,0.0,7.0,15.0,8.5,1.14,20212022_10_4_Away
+20212022,Wolves,Brighton,1.0,0.0,3.5,3.1,2.25,20212022_8_19_Away
+20212022,Southampton,Crystal Palace,2.0,2.0,3.5,3.3,2.15,20212022_7_16_Away
+20212022,West Ham,Arsenal,0.0,2.0,3.3,3.6,2.1,20212022_9_11_Away
+20212022,Everton,Chelsea,1.0,1.0,13.0,6.5,1.22,20212022_5_1_Away
+20212022,Newcastle,Liverpool,1.0,3.0,19.0,9.0,1.12,20212022_15_3_Away
+20212022,Arsenal,Leeds,4.0,1.0,1.83,3.8,3.9,20212022_11_10_Away
+20212022,Man City,Newcastle,4.0,0.0,1.18,7.5,13.0,20212022_4_15_Away
+20212022,Chelsea,Wolves,0.0,0.0,1.5,4.2,7.0,20212022_1_8_Away
+20212022,Liverpool,Tottenham,2.0,2.0,1.53,4.75,5.25,20212022_3_17_Away
+20212022,Leicester,Man City,3.0,6.0,13.0,7.5,1.18,20212022_6_4_Away
+20212022,Arsenal,Norwich,5.0,0.0,1.4,4.75,8.0,20212022_11_22_Away
+20212022,Crystal Palace,Tottenham,0.0,3.0,4.75,3.8,1.72,20212022_16_17_Away
+20212022,Southampton,West Ham,3.0,2.0,4.2,3.9,1.8,20212022_7_9_Away
+20212022,Chelsea,Aston Villa,3.0,1.0,1.65,3.8,5.25,20212022_1_20_Away
+20212022,Brentford,Brighton,0.0,2.0,4.2,3.4,1.9,20212022_21_19_Away
+20212022,Man United,Newcastle,1.0,1.0,1.44,4.75,6.5,20212022_14_15_Away
+20212022,Norwich,Crystal Palace,0.0,3.0,5.5,3.75,1.65,20212022_22_16_Away
+20212022,Tottenham,Southampton,1.0,1.0,2.0,3.5,3.75,20212022_17_7_Away
+20212022,West Ham,Watford,4.0,1.0,2.1,3.6,3.4,20212022_9_23_Away
+20212022,Liverpool,Leicester,0.0,1.0,1.33,5.5,8.0,20212022_3_6_Away
+20212022,Brighton,Chelsea,1.0,1.0,7.5,4.5,1.4,20212022_19_1_Away
+20212022,Man City,Brentford,1.0,0.0,1.14,8.0,19.0,20212022_4_21_Away
+20212022,Burnley,Man United,1.0,3.0,9.0,5.0,1.36,20212022_12_14_Away
+20212022,Man City,Arsenal,2.0,1.0,1.5,4.75,5.75,20212022_4_11_Away
+20212022,Tottenham,Watford,1.0,0.0,1.61,4.2,5.0,20212022_17_23_Away
+20212022,West Ham,Crystal Palace,3.0,2.0,2.3,3.4,3.1,20212022_9_16_Away
+20212022,Aston Villa,Brentford,1.0,2.0,2.4,3.3,3.0,20212022_20_21_Away
+20212022,Brighton,Everton,3.0,2.0,2.62,3.2,2.75,20212022_19_5_Away
+20212022,Burnley,Leeds,1.0,3.0,3.5,3.5,2.05,20212022_12_10_Away
+20212022,Liverpool,Chelsea,2.0,2.0,2.25,3.5,3.1,20212022_3_1_Away
+20212022,Wolves,Man United,1.0,0.0,6.0,4.33,1.53,20212022_8_14_Away
+20212022,Brentford,Southampton,1.0,4.0,3.6,3.4,2.05,20212022_21_7_Away
+20212022,Norwich,West Ham,0.0,2.0,10.0,5.5,1.28,20212022_22_9_Away
+20212022,Crystal Palace,Brighton,1.0,1.0,3.8,3.3,2.05,20212022_16_19_Away
+20212022,Chelsea,Man City,0.0,1.0,5.0,4.0,1.65,20212022_1_4_Away
+20212022,Watford,Newcastle,1.0,1.0,3.6,3.6,2.0,20212022_23_15_Away
+20212022,Everton,Norwich,1.0,2.0,2.0,3.5,3.75,20212022_5_22_Away
+20212022,Southampton,Wolves,1.0,3.0,3.4,3.2,2.25,20212022_7_8_Away
+20212022,Man United,Aston Villa,2.0,2.0,2.4,3.5,2.87,20212022_14_20_Away
+20212022,Brentford,Liverpool,0.0,3.0,10.0,5.5,1.3,20212022_21_3_Away
+20212022,Leeds,West Ham,3.0,2.0,5.0,4.2,1.61,20212022_10_9_Away
+20212022,Chelsea,Brighton,1.0,1.0,1.72,3.75,4.75,20212022_1_19_Away
+20212022,Tottenham,Leicester,3.0,2.0,2.3,3.5,3.0,20212022_17_6_Away
+20212022,Man United,Brentford,3.0,1.0,1.8,3.7,4.5,20212022_14_21_Away
+20212022,Norwich,Watford,3.0,0.0,3.75,3.5,2.0,20212022_22_23_Away
+20212022,Aston Villa,Everton,1.0,0.0,2.62,3.25,2.75,20212022_20_5_Away
+20212022,Wolves,Brentford,2.0,1.0,2.6,2.8,3.2,20212022_8_21_Away
+20212022,Newcastle,Leeds,1.0,0.0,3.75,3.5,2.0,20212022_15_10_Away
+20212022,West Ham,Man United,0.0,1.0,4.0,3.8,1.85,20212022_9_14_Away
+20212022,Man City,Southampton,1.0,1.0,1.25,6.5,10.0,20212022_4_7_Away
+20212022,Burnley,Arsenal,0.0,0.0,9.0,4.75,1.36,20212022_12_11_Away
+20212022,Liverpool,Crystal Palace,3.0,1.0,1.53,4.2,6.0,20212022_3_16_Away
+20212022,Brighton,Leicester,1.0,1.0,2.9,3.25,2.5,20212022_19_6_Away
+20212022,Tottenham,Chelsea,0.0,2.0,5.0,4.2,1.61,20212022_17_1_Away
+20212022,Watford,Burnley,0.0,0.0,3.5,3.25,2.2,20212022_23_12_Away
+20212022,Everton,Newcastle,1.0,3.0,2.87,3.25,2.5,20212022_5_15_Away
+20212022,Watford,West Ham,0.0,1.0,5.75,4.2,1.55,20212022_23_9_Away
+20212022,Man United,Burnley,1.0,1.0,1.61,4.0,5.5,20212022_14_12_Away
+20212022,Brentford,Man City,0.0,2.0,23.0,9.5,1.1,20212022_21_4_Away
+20212022,Crystal Palace,Norwich,1.0,1.0,2.15,3.25,3.5,20212022_16_22_Away
+20212022,Southampton,Tottenham,3.0,2.0,5.5,4.0,1.6,20212022_7_17_Away
+20212022,Leeds,Aston Villa,3.0,3.0,4.2,3.8,1.8,20212022_10_20_Away
+20212022,Leicester,Liverpool,0.0,2.0,10.0,6.5,1.25,20212022_6_3_Away
+20212022,Arsenal,Wolves,1.0,0.0,2.2,3.2,3.5,20212022_11_8_Away
+20212022,Southampton,Man United,1.0,1.0,5.5,4.0,1.6,20212022_7_14_Away
+20212022,Crystal Palace,Brentford,0.0,0.0,3.0,3.1,2.55,20212022_16_21_Away
+20212022,Leeds,Everton,0.0,3.0,3.0,3.5,2.25,20212022_10_5_Away
+20212022,Brighton,Watford,2.0,0.0,2.05,3.3,3.5,20212022_19_23_Away
+20212022,Man City,Norwich,4.0,0.0,1.16,8.0,15.0,20212022_4_22_Away
+20212022,Liverpool,Burnley,1.0,0.0,1.28,5.25,10.0,20212022_3_12_Away
+20212022,Aston Villa,Newcastle,0.0,1.0,2.62,3.3,2.7,20212022_20_15_Away
+20212022,Wolves,Tottenham,2.0,0.0,5.5,3.6,1.7,20212022_8_17_Away
+20212022,West Ham,Leicester,2.0,2.0,2.3,3.5,2.9,20212022_9_6_Away
+20212022,Brighton,Man United,0.0,2.0,4.75,3.75,1.72,20212022_19_14_Away
+20212022,Newcastle,West Ham,1.0,1.0,4.75,4.0,1.7,20212022_15_9_Away
+20212022,Brentford,Arsenal,1.0,2.0,8.0,4.2,1.44,20212022_21_11_Away
+20212022,Watford,Aston Villa,1.0,0.0,5.75,3.6,1.65,20212022_23_20_Away
+20212022,Burnley,Brighton,3.0,0.0,6.0,3.5,1.66,20212022_12_19_Away
+20212022,Chelsea,Crystal Palace,1.0,0.0,1.65,3.8,5.5,20212022_1_16_Away
+20212022,Norwich,Liverpool,1.0,3.0,23.0,9.0,1.1,20212022_22_3_Away
+20212022,Everton,Southampton,0.0,2.0,3.5,3.5,2.1,20212022_5_7_Away
+20212022,Tottenham,Man City,3.0,2.0,10.0,6.0,1.28,20212022_17_4_Away
+20212022,Man United,Leeds,4.0,2.0,1.85,3.8,3.9,20212022_14_10_Away
+20212022,Leicester,Wolves,1.0,2.0,3.25,3.3,2.25,20212022_6_8_Away
+20212022,Tottenham,Burnley,0.0,1.0,1.75,3.8,4.6,20212022_17_12_Away
+20212022,Crystal Palace,Watford,4.0,1.0,2.3,3.3,3.1,20212022_16_23_Away
+20212022,Leeds,Liverpool,0.0,6.0,15.0,8.0,1.16,20212022_10_3_Away
+20212022,Wolves,Arsenal,1.0,2.0,5.5,3.8,1.65,20212022_8_11_Away
+20212022,Norwich,Southampton,0.0,2.0,6.0,4.33,1.53,20212022_22_7_Away
+20212022,Tottenham,Leeds,4.0,0.0,1.85,3.6,4.2,20212022_17_10_Away
+20212022,Newcastle,Brentford,2.0,0.0,3.0,3.2,2.5,20212022_15_21_Away
+20212022,Burnley,Crystal Palace,1.0,1.0,4.0,3.6,1.9,20212022_12_16_Away
+20212022,Watford,Man United,0.0,0.0,9.5,5.5,1.3,20212022_23_14_Away
+20212022,Aston Villa,Brighton,2.0,0.0,3.5,3.3,2.2,20212022_20_19_Away
+20212022,Man City,Everton,1.0,0.0,1.28,5.75,10.0,20212022_4_5_Away
+20212022,Wolves,West Ham,0.0,1.0,3.8,3.3,2.05,20212022_8_9_Away
+20212022,Leicester,Burnley,2.0,0.0,2.4,3.4,2.9,20212022_6_12_Away
+20212022,Leeds,Leicester,0.0,1.0,4.2,4.0,1.75,20212022_10_6_Away
+20212022,Southampton,Aston Villa,0.0,4.0,3.0,3.5,2.3,20212022_7_20_Away
+20212022,Chelsea,Burnley,4.0,0.0,1.5,4.33,6.5,20212022_1_12_Away
+20212022,Brighton,Newcastle,1.0,2.0,2.62,3.2,2.75,20212022_19_15_Away
+20212022,Brentford,Norwich,3.0,1.0,2.5,3.1,2.9,20212022_21_22_Away
+20212022,Crystal Palace,Wolves,2.0,0.0,3.4,3.1,2.3,20212022_16_8_Away
+20212022,West Ham,Liverpool,0.0,1.0,9.5,5.75,1.28,20212022_9_3_Away
+20212022,Arsenal,Watford,3.0,2.0,1.57,4.0,6.0,20212022_11_23_Away
+20212022,Man United,Man City,1.0,4.0,7.5,4.75,1.4,20212022_14_4_Away
+20212022,Everton,Tottenham,0.0,5.0,5.75,3.8,1.57,20212022_5_17_Away
+20212022,Chelsea,Norwich,3.0,1.0,1.3,4.75,11.0,20212022_1_22_Away
+20212022,Newcastle,Southampton,2.0,1.0,3.5,3.75,2.0,20212022_15_7_Away
+20212022,Watford,Wolves,0.0,4.0,4.5,3.6,1.75,20212022_23_8_Away
+20212022,Aston Villa,Leeds,3.0,0.0,2.5,3.5,2.7,20212022_20_10_Away
+20212022,Liverpool,Brighton,2.0,0.0,1.5,4.33,6.0,20212022_3_19_Away
+20212022,Burnley,Brentford,0.0,2.0,3.6,3.2,2.15,20212022_12_21_Away
+20212022,Tottenham,Man United,2.0,3.0,3.25,3.4,2.2,20212022_17_14_Away
+20212022,Newcastle,Chelsea,0.0,1.0,11.0,5.25,1.3,20212022_15_1_Away
+20212022,Wolves,Everton,1.0,0.0,3.3,3.2,2.3,20212022_8_5_Away
+20212022,Norwich,Leeds,1.0,2.0,5.75,4.2,1.55,20212022_22_10_Away
+20212022,Watford,Southampton,2.0,1.0,5.25,4.2,1.6,20212022_23_7_Away
+20212022,Aston Villa,West Ham,1.0,2.0,3.3,3.3,2.25,20212022_20_9_Away
+20212022,Leicester,Arsenal,0.0,2.0,6.0,4.5,1.5,20212022_6_11_Away
+20212022,Man City,Crystal Palace,0.0,0.0,1.33,5.0,10.0,20212022_4_16_Away
+20212022,Tottenham,Brighton,2.0,0.0,2.25,3.3,3.3,20212022_17_19_Away
+20212022,Liverpool,Arsenal,2.0,0.0,1.9,4.0,3.5,20212022_3_11_Away
+20212022,Newcastle,Everton,0.0,1.0,3.1,3.25,2.4,20212022_15_5_Away
+20212022,Leeds,Wolves,3.0,2.0,3.4,3.5,2.1,20212022_10_8_Away
+20212022,Arsenal,Aston Villa,1.0,0.0,2.4,3.3,3.0,20212022_11_20_Away
+20212022,Brentford,Leicester,1.0,2.0,3.4,3.4,2.15,20212022_21_6_Away
+20212022,West Ham,Tottenham,1.0,3.0,4.75,3.8,1.72,20212022_9_17_Away
+20212022,Watford,Liverpool,0.0,2.0,17.0,9.5,1.12,20212022_23_3_Away
+20212022,Norwich,Brighton,0.0,0.0,7.0,4.0,1.5,20212022_22_19_Away
+20212022,Man City,Burnley,2.0,0.0,1.2,6.5,15.0,20212022_4_12_Away
+20212022,Brentford,Chelsea,4.0,1.0,10.0,5.0,1.33,20212022_21_1_Away
+20212022,Southampton,Leeds,1.0,1.0,2.75,3.75,2.37,20212022_7_10_Away
+20212022,Aston Villa,Wolves,1.0,2.0,2.55,3.1,3.0,20212022_20_8_Away
+20212022,Leicester,Man United,1.0,1.0,6.0,4.5,1.5,20212022_6_14_Away
+20212022,Everton,West Ham,1.0,2.0,4.5,3.8,1.75,20212022_5_9_Away
+20212022,Newcastle,Tottenham,1.0,5.0,6.5,4.33,1.5,20212022_15_17_Away
+20212022,Arsenal,Crystal Palace,0.0,3.0,1.95,3.4,4.0,20212022_11_16_Away
+20212022,Everton,Burnley,2.0,3.0,2.87,3.1,2.62,20212022_5_12_Away
+20212022,Wolves,Newcastle,0.0,1.0,3.4,3.1,2.25,20212022_8_15_Away
+20212022,Man United,Everton,0.0,1.0,1.75,3.75,4.6,20212022_14_5_Away
+20212022,Brighton,Arsenal,2.0,1.0,5.75,3.8,1.61,20212022_19_11_Away
+20212022,Chelsea,Southampton,6.0,0.0,1.95,3.6,3.8,20212022_1_7_Away
+20212022,Leeds,Watford,3.0,0.0,2.55,3.4,2.7,20212022_10_23_Away
+20212022,Tottenham,Aston Villa,4.0,0.0,2.25,3.4,3.2,20212022_17_20_Away
+20212022,West Ham,Brentford,0.0,2.0,2.62,3.3,2.62,20212022_9_21_Away
+20212022,Crystal Palace,Leicester,1.0,2.0,2.9,3.3,2.37,20212022_16_6_Away
+20212022,Burnley,Norwich,0.0,2.0,2.55,3.2,2.87,20212022_12_22_Away
+20212022,Liverpool,Man City,2.0,2.0,3.5,3.75,2.0,20212022_3_4_Away
+20212022,Brighton,Tottenham,1.0,0.0,6.5,4.0,1.53,20212022_19_17_Away
+20212022,Norwich,Man United,2.0,3.0,10.0,6.5,1.25,20212022_22_14_Away
+20212022,Arsenal,Southampton,0.0,1.0,1.95,3.6,3.8,20212022_11_7_Away
+20212022,Brentford,Watford,2.0,1.0,2.55,3.3,2.7,20212022_21_23_Away
+20212022,Leicester,Newcastle,1.0,2.0,3.3,3.4,2.2,20212022_6_15_Away
+20212022,Burnley,West Ham,1.0,1.0,5.0,3.8,1.7,20212022_12_9_Away
+20212022,Man United,Liverpool,0.0,4.0,7.0,5.0,1.4,20212022_14_3_Away
+20212022,Arsenal,Chelsea,4.0,2.0,4.33,3.6,1.83,20212022_11_1_Away
+20212022,Leicester,Everton,1.0,1.0,3.25,3.4,2.25,20212022_6_5_Away
+20212022,Crystal Palace,Newcastle,0.0,1.0,3.25,3.4,2.25,20212022_16_15_Away
+20212022,Brighton,Man City,0.0,3.0,17.0,7.0,1.16,20212022_19_4_Away
+20212022,Southampton,Burnley,0.0,2.0,2.62,3.25,2.75,20212022_7_12_Away
+20212022,Man United,Arsenal,1.0,3.0,3.5,3.5,2.05,20212022_14_11_Away
+20212022,Aston Villa,Leicester,0.0,0.0,2.5,3.4,2.8,20212022_20_6_Away
+20212022,Watford,Man City,1.0,5.0,26.0,10.0,1.1,20212022_23_4_Away
+20212022,Newcastle,Norwich,3.0,0.0,2.15,3.3,3.5,20212022_15_22_Away
+20212022,Tottenham,Brentford,0.0,0.0,1.85,3.5,4.33,20212022_17_21_Away
+20212022,Southampton,Brighton,2.0,2.0,3.6,3.4,2.1,20212022_7_19_Away
+20212022,Wolves,Burnley,0.0,1.0,2.87,3.0,2.7,20212022_8_12_Away
+20212022,West Ham,Chelsea,0.0,1.0,6.5,4.33,1.5,20212022_9_1_Away
+20212022,Everton,Liverpool,0.0,2.0,15.0,7.0,1.18,20212022_5_3_Away
+20212022,Leeds,Crystal Palace,0.0,0.0,3.5,3.5,2.05,20212022_10_16_Away
+20212022,Chelsea,Man United,1.0,1.0,2.25,3.4,3.2,20212022_1_14_Away
+20212022,Liverpool,Newcastle,1.0,0.0,1.36,5.0,8.5,20212022_3_15_Away
+20212022,Norwich,Aston Villa,0.0,2.0,9.0,4.5,1.4,20212022_22_20_Away
+20212022,Crystal Palace,Southampton,2.0,1.0,3.1,3.3,2.4,20212022_16_7_Away
+20212022,Burnley,Watford,2.0,1.0,2.75,3.3,2.6,20212022_12_23_Away
+20212022,Brighton,Wolves,3.0,0.0,2.75,3.2,2.7,20212022_19_8_Away
+20212022,Man City,Leeds,4.0,0.0,1.3,6.0,8.5,20212022_4_10_Away
+20212022,Chelsea,Everton,0.0,1.0,1.75,3.6,5.0,20212022_1_5_Away
+20212022,Leicester,Tottenham,1.0,3.0,7.0,4.75,1.44,20212022_6_17_Away
+20212022,Arsenal,West Ham,2.0,1.0,1.8,3.8,4.33,20212022_11_9_Away
+20212022,Brentford,Man United,0.0,3.0,4.5,4.0,1.72,20212022_21_14_Away
+20212022,Southampton,Brentford,0.0,3.0,3.3,3.5,2.15,20212022_7_21_Away
+20212022,Aston Villa,Burnley,3.0,1.0,2.4,3.3,3.0,20212022_20_12_Away
+20212022,Wolves,Chelsea,2.0,2.0,9.5,5.0,1.33,20212022_8_1_Away
+20212022,Watford,Crystal Palace,0.0,1.0,5.0,4.0,1.65,20212022_23_16_Away
+20212022,Man United,Brighton,0.0,4.0,2.45,3.5,2.8,20212022_14_19_Away
+20212022,Tottenham,Liverpool,1.0,1.0,7.0,5.0,1.4,20212022_17_3_Away
+20212022,Leeds,Arsenal,1.0,2.0,7.0,4.5,1.45,20212022_10_11_Away
+20212022,Everton,Leicester,2.0,1.0,2.75,3.3,2.6,20212022_5_6_Away
+20212022,West Ham,Norwich,4.0,0.0,1.75,3.8,4.5,20212022_9_22_Away
+20212022,Newcastle,Man City,0.0,5.0,17.0,7.0,1.16,20212022_15_4_Away
+20212022,Liverpool,Aston Villa,2.0,1.0,1.4,4.75,7.5,20212022_3_20_Away
+20212022,Chelsea,Leeds,3.0,0.0,1.65,4.2,4.75,20212022_1_10_Away
+20212022,Norwich,Leicester,0.0,3.0,7.0,4.75,1.44,20212022_22_6_Away
+20212022,Everton,Watford,0.0,0.0,1.83,3.6,4.2,20212022_5_23_Away
+20212022,Man City,Wolves,5.0,1.0,1.25,6.0,11.0,20212022_4_8_Away
+20212022,Arsenal,Tottenham,0.0,3.0,3.5,3.75,2.05,20212022_11_17_Away
+20212022,Burnley,Tottenham,0.0,1.0,9.0,5.25,1.33,20212022_12_17_Away
+20212022,Crystal Palace,Aston Villa,1.0,1.0,3.75,3.5,2.0,20212022_16_20_Away
+20212022,Brighton,Leeds,1.0,1.0,2.62,3.5,2.62,20212022_19_10_Away
+20212022,Leicester,Watford,5.0,1.0,1.95,3.5,3.8,20212022_6_23_Away
+20212022,Man City,West Ham,2.0,2.0,1.4,5.0,7.5,20212022_4_9_Away
+20212022,Norwich,Wolves,1.0,1.0,6.5,4.75,1.45,20212022_22_8_Away
+20212022,Brentford,Everton,3.0,2.0,3.5,3.6,2.05,20212022_21_5_Away
+20212022,Arsenal,Newcastle,0.0,2.0,1.83,3.6,4.33,20212022_11_15_Away
+20212022,Liverpool,Southampton,2.0,1.0,1.33,5.5,7.5,20212022_3_7_Away
+20212022,Crystal Palace,Everton,2.0,3.0,4.33,3.4,1.9,20212022_16_5_Away
+20212022,Burnley,Aston Villa,1.0,1.0,3.6,3.5,2.05,20212022_12_20_Away
+20212022,Leicester,Chelsea,1.0,1.0,8.0,4.75,1.4,20212022_6_1_Away
+20212022,Everton,Arsenal,1.0,5.0,9.0,4.75,1.36,20212022_5_11_Away
+20212022,Leeds,Brentford,2.0,1.0,2.62,3.8,2.45,20212022_10_21_Away
+20212022,West Ham,Brighton,1.0,3.0,2.9,3.5,2.37,20212022_9_19_Away
+20212022,Newcastle,Burnley,2.0,1.0,3.2,3.4,2.25,20212022_15_12_Away
+20212022,Watford,Chelsea,1.0,2.0,15.0,7.5,1.18,20212022_23_1_Away
+20212022,Man United,Crystal Palace,0.0,1.0,2.25,3.6,3.0,20212022_14_16_Away
+20212022,Southampton,Leicester,1.0,4.0,3.8,4.0,1.85,20212022_7_6_Away
+20212022,Wolves,Liverpool,1.0,3.0,15.0,8.5,1.14,20212022_8_3_Away
+20212022,Aston Villa,Man City,2.0,3.0,17.0,8.0,1.16,20212022_20_4_Away
+20212022,Tottenham,Norwich,5.0,0.0,1.25,6.5,9.5,20212022_17_22_Away
+20202021,Arsenal,Fulham,3.0,0.0,1.53,4.33,6.0,20202021_11_18_Away
+20202021,Southampton,Crystal Palace,0.0,1.0,2.37,3.25,3.1,20202021_7_16_Away
+20202021,Leeds,Liverpool,3.0,4.0,9.5,6.0,1.28,20202021_10_3_Away
+20202021,Newcastle,West Ham,2.0,0.0,3.4,3.4,2.15,20202021_15_9_Away
+20202021,Leicester,West Brom,3.0,0.0,1.95,3.6,3.8,20202021_6_2_Away
+20202021,Everton,Tottenham,1.0,0.0,4.33,3.6,1.83,20202021_5_17_Away
+20202021,Chelsea,Brighton,3.0,1.0,1.61,4.33,5.0,20202021_1_19_Away
+20202021,Wolves,Sheffield United,2.0,0.0,2.37,3.1,3.25,20202021_8_13_Away
+20202021,West Brom,Everton,2.0,5.0,6.5,4.2,1.5,20202021_2_5_Away
+20202021,Fulham,Leeds,3.0,4.0,5.75,3.9,1.61,20202021_18_10_Away
+20202021,Crystal Palace,Man United,3.0,1.0,9.5,5.5,1.3,20202021_16_14_Away
+20202021,West Ham,Arsenal,1.0,2.0,5.5,4.5,1.53,20202021_9_11_Away
+20202021,Tottenham,Southampton,5.0,2.0,2.37,3.3,3.0,20202021_17_7_Away
+20202021,Brighton,Newcastle,3.0,0.0,2.87,3.1,2.6,20202021_19_15_Away
+20202021,Liverpool,Chelsea,2.0,0.0,2.2,3.6,3.1,20202021_3_1_Away
+20202021,Burnley,Leicester,2.0,4.0,5.5,4.0,1.61,20202021_12_6_Away
+20202021,Sheffield United,Aston Villa,0.0,1.0,2.75,3.1,2.7,20202021_13_20_Away
+20202021,Man City,Wolves,3.0,1.0,1.5,4.33,6.5,20202021_4_8_Away
+20202021,Man United,Brighton,3.0,2.0,1.72,3.75,4.75,20202021_14_19_Away
+20202021,Everton,Crystal Palace,2.0,1.0,2.1,3.25,3.75,20202021_5_16_Away
+20202021,Chelsea,West Brom,3.0,3.0,1.36,4.75,9.0,20202021_1_2_Away
+20202021,Southampton,Burnley,1.0,0.0,2.3,3.3,3.2,20202021_7_12_Away
+20202021,Leeds,Sheffield United,1.0,0.0,2.62,3.3,2.7,20202021_10_13_Away
+20202021,Newcastle,Tottenham,1.0,1.0,7.0,4.5,1.45,20202021_15_17_Away
+20202021,Leicester,Man City,5.0,2.0,9.5,6.0,1.28,20202021_6_4_Away
+20202021,Wolves,West Ham,0.0,4.0,2.05,3.5,3.6,20202021_8_9_Away
+20202021,Aston Villa,Fulham,3.0,0.0,2.5,3.25,2.9,20202021_20_18_Away
+20202021,Arsenal,Liverpool,1.0,3.0,6.5,4.75,1.45,20202021_11_3_Away
+20202021,Crystal Palace,Chelsea,0.0,4.0,8.0,4.75,1.4,20202021_16_1_Away
+20202021,Brighton,Everton,2.0,4.0,4.8,3.75,1.72,20202021_19_5_Away
+20202021,Man City,Leeds,1.0,1.0,1.36,5.25,7.5,20202021_4_10_Away
+20202021,Burnley,Newcastle,1.0,3.0,3.1,3.2,2.4,20202021_12_15_Away
+20202021,West Ham,Leicester,3.0,0.0,5.25,4.2,1.61,20202021_9_6_Away
+20202021,West Brom,Southampton,0.0,2.0,4.75,3.8,1.72,20202021_2_7_Away
+20202021,Sheffield United,Arsenal,1.0,2.0,6.0,4.0,1.57,20202021_13_11_Away
+20202021,Fulham,Wolves,0.0,1.0,7.5,4.0,1.5,20202021_18_8_Away
+20202021,Tottenham,Man United,6.0,1.0,4.0,3.8,1.85,20202021_17_14_Away
+20202021,Liverpool,Aston Villa,2.0,7.0,1.3,5.5,10.0,20202021_3_20_Away
+20202021,Liverpool,Everton,2.0,2.0,1.83,4.2,3.75,20202021_3_5_Away
+20202021,Southampton,Chelsea,3.0,3.0,6.5,4.75,1.45,20202021_7_1_Away
+20202021,Arsenal,Man City,0.0,1.0,6.5,5.0,1.44,20202021_11_4_Away
+20202021,Man United,Newcastle,4.0,1.0,1.66,4.0,4.75,20202021_14_15_Away
+20202021,Fulham,Sheffield United,1.0,1.0,3.7,3.3,2.1,20202021_18_13_Away
+20202021,Brighton,Crystal Palace,1.0,1.0,2.7,3.3,2.62,20202021_19_16_Away
+20202021,West Ham,Tottenham,3.0,3.0,5.5,4.33,1.57,20202021_9_17_Away
+20202021,Aston Villa,Leicester,1.0,0.0,4.1,3.8,1.83,20202021_20_6_Away
+20202021,Burnley,West Brom,0.0,0.0,2.9,3.3,2.45,20202021_12_2_Away
+20202021,Wolves,Leeds,1.0,0.0,2.87,3.3,2.5,20202021_8_10_Away
+20202021,Leeds,Aston Villa,3.0,0.0,3.3,3.75,2.05,20202021_10_20_Away
+20202021,Man City,West Ham,1.0,1.0,1.36,5.25,8.0,20202021_4_9_Away
+20202021,Crystal Palace,Fulham,2.0,1.0,2.7,3.1,2.75,20202021_16_18_Away
+20202021,Chelsea,Man United,0.0,0.0,2.8,3.6,2.37,20202021_1_14_Away
+20202021,Sheffield United,Liverpool,1.0,2.0,12.0,6.5,1.22,20202021_13_3_Away
+20202021,Everton,Southampton,0.0,2.0,2.55,3.4,2.75,20202021_5_7_Away
+20202021,Newcastle,Wolves,1.0,1.0,5.25,3.5,1.75,20202021_15_8_Away
+20202021,Leicester,Arsenal,1.0,0.0,3.8,3.75,1.9,20202021_6_11_Away
+20202021,West Brom,Brighton,1.0,1.0,4.75,4.0,1.7,20202021_2_19_Away
+20202021,Tottenham,Burnley,1.0,0.0,1.6,4.0,5.75,20202021_17_12_Away
+20202021,Crystal Palace,Wolves,0.0,2.0,4.33,3.2,2.0,20202021_16_8_Away
+20202021,Man City,Sheffield United,1.0,0.0,1.28,6.0,9.5,20202021_4_13_Away
+20202021,Chelsea,Burnley,3.0,0.0,1.5,4.5,6.0,20202021_1_12_Away
+20202021,West Ham,Liverpool,1.0,2.0,7.5,5.25,1.36,20202021_9_3_Away
+20202021,Southampton,Aston Villa,4.0,3.0,2.8,3.5,2.45,20202021_7_20_Away
+20202021,Everton,Newcastle,1.0,2.0,2.05,3.4,3.7,20202021_5_15_Away
+20202021,Arsenal,Man United,1.0,0.0,3.6,3.6,2.0,20202021_11_14_Away
+20202021,Brighton,Tottenham,1.0,2.0,5.5,4.0,1.61,20202021_19_17_Away
+20202021,West Brom,Fulham,0.0,2.0,3.0,3.3,2.4,20202021_2_18_Away
+20202021,Leicester,Leeds,4.0,1.0,2.62,3.6,2.5,20202021_6_10_Away
+20202021,Burnley,Brighton,0.0,0.0,4.33,3.5,1.85,20202021_12_19_Away
+20202021,Newcastle,Southampton,0.0,2.0,3.7,3.6,2.0,20202021_15_7_Away
+20202021,Man United,Everton,3.0,1.0,2.37,3.5,2.9,20202021_14_5_Away
+20202021,Leeds,Crystal Palace,1.0,4.0,2.45,3.4,2.87,20202021_10_16_Away
+20202021,Sheffield United,Chelsea,1.0,4.0,8.5,5.0,1.36,20202021_13_1_Away
+20202021,Fulham,West Ham,0.0,1.0,4.2,3.75,1.83,20202021_18_9_Away
+20202021,Tottenham,West Brom,1.0,0.0,1.45,4.33,7.0,20202021_17_2_Away
+20202021,Wolves,Leicester,0.0,1.0,3.25,3.2,2.3,20202021_8_6_Away
+20202021,Liverpool,Man City,1.0,1.0,3.4,4.2,1.95,20202021_3_4_Away
+20202021,Aston Villa,Arsenal,3.0,0.0,5.0,4.1,1.65,20202021_20_11_Away
+20202021,Chelsea,Newcastle,2.0,0.0,1.45,4.75,6.5,20202021_1_15_Away
+20202021,Brighton,Aston Villa,2.0,1.0,3.2,3.6,2.15,20202021_19_20_Away
+20202021,Man City,Tottenham,0.0,2.0,1.8,4.0,4.0,20202021_4_17_Away
+20202021,West Brom,Man United,0.0,1.0,9.5,5.5,1.3,20202021_2_14_Away
+20202021,Everton,Fulham,3.0,2.0,1.85,3.9,3.9,20202021_5_18_Away
+20202021,West Ham,Sheffield United,1.0,0.0,2.4,3.25,3.0,20202021_9_13_Away
+20202021,Arsenal,Leeds,0.0,0.0,2.2,3.75,3.0,20202021_11_10_Away
+20202021,Leicester,Liverpool,0.0,3.0,3.8,4.0,1.85,20202021_6_3_Away
+20202021,Crystal Palace,Burnley,0.0,1.0,2.75,3.1,2.75,20202021_16_12_Away
+20202021,Southampton,Wolves,1.0,1.0,3.25,3.25,2.3,20202021_7_8_Away
+20202021,Newcastle,Crystal Palace,2.0,0.0,3.75,3.25,2.05,20202021_15_16_Away
+20202021,Liverpool,Brighton,1.0,1.0,1.57,4.2,5.5,20202021_3_19_Away
+20202021,Burnley,Man City,0.0,5.0,16.0,7.5,1.16,20202021_12_4_Away
+20202021,Leeds,Everton,1.0,0.0,3.6,3.8,1.95,20202021_10_5_Away
+20202021,Sheffield United,West Brom,0.0,1.0,2.8,3.2,2.6,20202021_13_2_Away
+20202021,Man United,Southampton,3.0,2.0,1.95,3.5,4.0,20202021_14_7_Away
+20202021,Tottenham,Chelsea,0.0,0.0,3.6,3.5,2.05,20202021_17_1_Away
+20202021,Wolves,Arsenal,2.0,1.0,3.75,3.4,2.05,20202021_8_11_Away
+20202021,Fulham,Leicester,2.0,1.0,6.5,4.33,1.5,20202021_18_6_Away
+20202021,Aston Villa,West Ham,1.0,2.0,3.0,3.6,2.25,20202021_20_9_Away
+20202021,Everton,Burnley,1.0,1.0,1.9,3.5,4.0,20202021_5_12_Away
+20202021,Fulham,Man City,0.0,2.0,19.0,11.0,1.1,20202021_18_4_Away
+20202021,Man United,West Ham,3.0,1.0,2.0,3.6,3.6,20202021_14_9_Away
+20202021,Leeds,Chelsea,1.0,3.0,6.0,4.5,1.5,20202021_10_1_Away
+20202021,Crystal Palace,West Brom,5.0,1.0,2.55,3.2,2.87,20202021_16_2_Away
+20202021,Leicester,Sheffield United,2.0,1.0,1.95,3.5,3.8,20202021_6_13_Away
+20202021,Arsenal,Tottenham,0.0,2.0,3.8,3.6,1.95,20202021_11_17_Away
+20202021,Wolves,Liverpool,0.0,4.0,6.5,4.33,1.5,20202021_8_3_Away
+20202021,Southampton,Brighton,2.0,1.0,2.9,3.4,2.45,20202021_7_19_Away
+20202021,West Ham,Leeds,2.0,1.0,3.1,3.7,2.15,20202021_9_10_Away
+20202021,Aston Villa,Wolves,1.0,0.0,3.25,3.25,2.25,20202021_20_8_Away
+20202021,West Brom,Newcastle,1.0,2.0,3.0,3.2,2.45,20202021_2_15_Away
+20202021,Man City,Man United,0.0,0.0,1.72,4.2,4.33,20202021_4_14_Away
+20202021,Chelsea,Everton,0.0,1.0,1.7,4.2,4.33,20202021_1_5_Away
+20202021,Sheffield United,Southampton,0.0,3.0,5.0,3.75,1.7,20202021_13_7_Away
+20202021,Tottenham,Crystal Palace,1.0,1.0,1.72,3.9,4.5,20202021_17_16_Away
+20202021,Liverpool,Fulham,1.0,1.0,1.3,5.5,9.0,20202021_3_18_Away
+20202021,Burnley,Arsenal,1.0,0.0,6.25,4.2,1.53,20202021_12_11_Away
+20202021,Brighton,Leicester,0.0,3.0,3.8,3.5,2.0,20202021_19_6_Away
+20202021,Chelsea,Wolves,1.0,2.0,1.66,3.8,5.25,20202021_1_8_Away
+20202021,West Brom,Man City,1.0,1.0,21.0,11.0,1.09,20202021_2_4_Away
+20202021,Southampton,Arsenal,1.0,1.0,3.1,3.5,2.25,20202021_7_11_Away
+20202021,Newcastle,Leeds,2.0,5.0,4.33,4.0,1.75,20202021_15_10_Away
+20202021,Everton,Leicester,2.0,0.0,3.25,3.6,2.15,20202021_5_6_Away
+20202021,Brighton,Fulham,0.0,0.0,2.5,3.3,2.87,20202021_19_18_Away
+20202021,Tottenham,Liverpool,1.0,2.0,4.5,3.8,1.75,20202021_17_3_Away
+20202021,Crystal Palace,West Ham,1.0,1.0,3.6,3.4,2.05,20202021_16_9_Away
+20202021,Burnley,Aston Villa,0.0,0.0,4.5,3.8,1.75,20202021_12_20_Away
+20202021,Man United,Sheffield United,3.0,2.0,1.44,4.6,7.0,20202021_14_13_Away
+20202021,Liverpool,Crystal Palace,7.0,0.0,1.5,4.33,6.5,20202021_3_16_Away
+20202021,Man City,Southampton,1.0,0.0,1.44,4.5,7.0,20202021_4_7_Away
+20202021,Arsenal,Everton,1.0,2.0,2.8,3.5,2.45,20202021_11_5_Away
+20202021,Fulham,Newcastle,1.0,1.0,2.9,3.25,2.5,20202021_18_15_Away
+20202021,Sheffield United,Brighton,1.0,1.0,5.5,3.75,1.65,20202021_13_19_Away
+20202021,Leicester,Tottenham,2.0,0.0,3.6,3.5,2.05,20202021_6_17_Away
+20202021,Leeds,Man United,2.0,6.0,4.5,4.33,1.66,20202021_10_14_Away
+20202021,Aston Villa,West Brom,3.0,0.0,1.95,3.8,3.6,20202021_20_2_Away
+20202021,Wolves,Burnley,1.0,2.0,2.2,3.25,3.5,20202021_8_12_Away
+20202021,West Ham,Chelsea,0.0,3.0,6.25,5.0,1.44,20202021_9_1_Away
+20202021,Man United,Leicester,2.0,2.0,2.3,3.6,2.9,20202021_14_6_Away
+20202021,Crystal Palace,Aston Villa,0.0,3.0,3.8,3.75,1.9,20202021_16_20_Away
+20202021,Southampton,Fulham,0.0,0.0,2.3,3.3,3.2,20202021_7_18_Away
+20202021,Chelsea,Arsenal,1.0,3.0,1.9,3.6,4.0,20202021_1_11_Away
+20202021,Newcastle,Man City,0.0,2.0,19.0,10.0,1.11,20202021_15_4_Away
+20202021,Everton,Sheffield United,1.0,0.0,1.85,3.6,4.2,20202021_5_13_Away
+20202021,Burnley,Leeds,0.0,1.0,4.33,4.0,1.72,20202021_12_10_Away
+20202021,Brighton,West Ham,2.0,2.0,3.1,3.4,2.3,20202021_19_9_Away
+20202021,West Brom,Liverpool,1.0,1.0,19.0,10.0,1.11,20202021_2_3_Away
+20202021,Tottenham,Wolves,1.0,1.0,2.15,3.25,3.6,20202021_17_8_Away
+20202021,Leicester,Crystal Palace,1.0,1.0,2.0,3.5,3.75,20202021_6_16_Away
+20202021,Aston Villa,Chelsea,1.0,1.0,5.0,4.2,1.61,20202021_20_1_Away
+20202021,Arsenal,Brighton,1.0,0.0,2.2,3.5,3.25,20202021_11_19_Away
+20202021,Sheffield United,Burnley,0.0,1.0,3.25,3.1,2.37,20202021_13_12_Away
+20202021,West Ham,Southampton,0.0,0.0,3.4,3.6,2.1,20202021_9_7_Away
+20202021,Leeds,West Brom,5.0,0.0,2.0,3.6,3.6,20202021_10_2_Away
+20202021,Wolves,Man United,0.0,1.0,6.25,4.2,1.53,20202021_8_14_Away
+20202021,Liverpool,Newcastle,0.0,0.0,1.25,6.0,12.0,20202021_3_15_Away
+20202021,West Ham,Everton,1.0,0.0,3.5,3.5,2.1,20202021_9_5_Away
+20202021,Aston Villa,Man United,1.0,2.0,4.2,4.2,1.72,20202021_20_14_Away
+20202021,Leeds,Tottenham,0.0,3.0,4.2,4.1,1.75,20202021_10_17_Away
+20202021,Sheffield United,Crystal Palace,0.0,2.0,3.9,3.5,1.95,20202021_13_16_Away
+20202021,Wolves,Brighton,3.0,3.0,2.75,3.25,2.62,20202021_8_19_Away
+20202021,Arsenal,West Brom,4.0,0.0,1.57,4.0,5.75,20202021_11_2_Away
+20202021,Leicester,Newcastle,2.0,1.0,1.61,4.2,5.25,20202021_6_15_Away
+20202021,Man City,Chelsea,3.0,1.0,2.2,3.7,3.0,20202021_4_1_Away
+20202021,Liverpool,Southampton,0.0,1.0,1.61,4.33,5.0,20202021_3_7_Away
+20202021,Newcastle,Sheffield United,0.0,1.0,3.1,3.1,2.45,20202021_15_13_Away
+20202021,Man United,Burnley,1.0,0.0,1.45,4.5,7.0,20202021_14_12_Away
+20202021,Everton,Wolves,2.0,1.0,3.1,3.1,2.45,20202021_5_8_Away
+20202021,Brighton,Man City,0.0,1.0,16.0,8.5,1.14,20202021_19_4_Away
+20202021,Fulham,Tottenham,1.0,1.0,8.5,5.0,1.36,20202021_18_17_Away
+20202021,Crystal Palace,Arsenal,0.0,0.0,6.5,4.0,1.53,20202021_16_11_Away
+20202021,West Brom,Wolves,3.0,2.0,7.0,3.5,1.6,20202021_2_8_Away
+20202021,Brighton,Leeds,1.0,0.0,3.4,3.5,2.1,20202021_19_10_Away
+20202021,Burnley,West Ham,0.0,1.0,4.75,3.5,1.8,20202021_12_9_Away
+20202021,Chelsea,Fulham,1.0,0.0,1.5,4.33,6.5,20202021_1_18_Away
+20202021,Southampton,Leicester,0.0,2.0,4.5,3.75,1.8,20202021_7_6_Away
+20202021,Tottenham,Sheffield United,3.0,1.0,1.6,3.75,6.25,20202021_17_13_Away
+20202021,Man United,Liverpool,0.0,0.0,3.6,3.8,1.95,20202021_14_3_Away
+20202021,Crystal Palace,Man City,0.0,4.0,17.0,8.5,1.14,20202021_16_4_Away
+20202021,Newcastle,Arsenal,0.0,3.0,8.0,4.5,1.4,20202021_15_11_Away
+20202021,West Brom,West Ham,1.0,2.0,5.5,4.2,1.57,20202021_2_9_Away
+20202021,Chelsea,Leicester,0.0,2.0,2.45,3.4,2.87,20202021_1_6_Away
+20202021,Aston Villa,Man City,0.0,2.0,12.0,6.5,1.22,20202021_20_4_Away
+20202021,Man United,Fulham,2.0,1.0,1.53,4.33,6.0,20202021_14_18_Away
+20202021,Burnley,Liverpool,1.0,0.0,15.0,7.5,1.18,20202021_12_3_Away
+20202021,Newcastle,Aston Villa,0.0,2.0,6.5,4.75,1.45,20202021_15_20_Away
+20202021,West Ham,Crystal Palace,3.0,2.0,2.37,3.25,3.1,20202021_9_16_Away
+20202021,Leeds,Newcastle,2.0,1.0,1.85,3.8,3.9,20202021_10_15_Away
+20202021,Arsenal,Southampton,3.0,1.0,2.05,3.6,3.5,20202021_11_7_Away
+20202021,Man City,West Brom,5.0,0.0,1.18,7.5,15.0,20202021_4_2_Away
+20202021,Aston Villa,Burnley,2.0,3.0,1.95,3.5,3.8,20202021_20_12_Away
+20202021,Wolves,Chelsea,0.0,0.0,5.25,4.2,1.6,20202021_8_1_Away
+20202021,Fulham,Brighton,0.0,0.0,3.75,3.4,2.05,20202021_18_19_Away
+20202021,Leicester,Everton,1.0,1.0,2.55,3.3,2.8,20202021_6_5_Away
+20202021,Sheffield United,Man United,2.0,1.0,11.0,6.0,1.25,20202021_13_14_Away
+20202021,Liverpool,Tottenham,3.0,1.0,2.2,3.6,3.2,20202021_3_17_Away
+20202021,Newcastle,Everton,2.0,0.0,6.5,4.0,1.55,20202021_15_5_Away
+20202021,Wolves,Crystal Palace,0.0,1.0,2.55,3.2,2.87,20202021_8_16_Away
+20202021,Sheffield United,Man City,0.0,1.0,18.0,9.0,1.12,20202021_13_4_Away
+20202021,Fulham,West Brom,2.0,2.0,2.3,3.2,3.3,20202021_18_2_Away
+20202021,Man United,Arsenal,0.0,0.0,2.45,3.5,2.8,20202021_14_11_Away
+20202021,Aston Villa,Southampton,1.0,0.0,2.37,3.6,2.8,20202021_20_7_Away
+20202021,Burnley,Chelsea,0.0,2.0,9.5,5.0,1.33,20202021_12_1_Away
+20202021,Leeds,Leicester,3.0,1.0,4.2,4.0,1.8,20202021_10_6_Away
+20202021,Liverpool,West Ham,3.0,1.0,1.75,4.0,4.33,20202021_3_9_Away
+20202021,Tottenham,Brighton,0.0,1.0,2.25,3.4,3.2,20202021_17_19_Away
+20202021,West Brom,Sheffield United,1.0,2.0,4.0,3.3,2.0,20202021_2_13_Away
+20202021,Arsenal,Wolves,1.0,2.0,2.1,3.3,3.6,20202021_11_8_Away
+20202021,Southampton,Man United,0.0,9.0,7.0,4.75,1.4,20202021_7_14_Away
+20202021,Crystal Palace,Newcastle,2.0,1.0,2.6,3.2,2.8,20202021_16_15_Away
+20202021,Man City,Burnley,2.0,0.0,1.2,7.0,13.0,20202021_4_12_Away
+20202021,Leicester,Fulham,2.0,0.0,1.9,3.5,4.0,20202021_6_18_Away
+20202021,Everton,Leeds,2.0,1.0,2.7,3.5,2.5,20202021_5_10_Away
+20202021,West Ham,Aston Villa,3.0,1.0,3.25,3.4,2.2,20202021_9_20_Away
+20202021,Brighton,Liverpool,1.0,0.0,9.0,5.25,1.33,20202021_19_3_Away
+20202021,Chelsea,Tottenham,1.0,0.0,2.1,3.4,3.5,20202021_1_17_Away
+20202021,Arsenal,Aston Villa,0.0,1.0,2.6,3.5,2.62,20202021_11_20_Away
+20202021,Brighton,Burnley,1.0,1.0,2.2,3.1,3.6,20202021_19_12_Away
+20202021,Southampton,Newcastle,2.0,3.0,2.4,3.3,3.0,20202021_7_15_Away
+20202021,West Ham,Fulham,0.0,0.0,2.05,3.5,3.6,20202021_9_18_Away
+20202021,Everton,Man United,3.0,3.0,6.0,4.2,1.53,20202021_5_14_Away
+20202021,West Brom,Tottenham,0.0,2.0,7.0,4.5,1.45,20202021_2_17_Away
+20202021,Leicester,Wolves,0.0,0.0,2.1,3.4,3.5,20202021_6_8_Away
+20202021,Man City,Liverpool,4.0,1.0,2.05,3.6,3.4,20202021_4_3_Away
+20202021,Chelsea,Sheffield United,2.0,1.0,1.45,4.5,7.0,20202021_1_13_Away
+20202021,Crystal Palace,Leeds,0.0,2.0,4.2,3.8,1.8,20202021_16_10_Away
+20202021,Liverpool,Leicester,1.0,3.0,2.1,3.4,3.5,20202021_3_6_Away
+20202021,Burnley,Crystal Palace,3.0,0.0,3.2,3.1,2.37,20202021_12_16_Away
+20202021,Tottenham,Man City,0.0,3.0,9.5,5.75,1.28,20202021_17_4_Away
+20202021,Aston Villa,Brighton,0.0,0.0,2.5,3.5,2.7,20202021_20_19_Away
+20202021,Wolves,Southampton,2.0,1.0,3.1,3.2,2.37,20202021_8_7_Away
+20202021,Man United,West Brom,1.0,1.0,1.3,5.5,10.0,20202021_14_2_Away
+20202021,Leeds,Arsenal,2.0,4.0,4.0,3.8,1.83,20202021_10_11_Away
+20202021,Fulham,Everton,2.0,0.0,4.2,3.6,1.85,20202021_18_5_Away
+20202021,Sheffield United,West Ham,0.0,3.0,5.25,3.75,1.66,20202021_13_9_Away
+20202021,Newcastle,Chelsea,0.0,2.0,12.0,6.5,1.22,20202021_15_1_Away
+20202021,Fulham,Burnley,1.0,1.0,2.7,3.2,2.75,20202021_18_12_Away
+20202021,Man City,Everton,3.0,1.0,1.33,5.5,8.5,20202021_4_5_Away
+20202021,Leeds,Wolves,0.0,1.0,3.0,3.3,2.37,20202021_10_8_Away
+20202021,Chelsea,Southampton,1.0,1.0,1.7,3.8,5.0,20202021_1_7_Away
+20202021,West Brom,Burnley,0.0,0.0,4.0,3.3,2.0,20202021_2_12_Away
+20202021,Everton,Liverpool,2.0,0.0,7.0,4.5,1.44,20202021_5_3_Away
+20202021,Sheffield United,Fulham,0.0,1.0,3.6,3.2,2.15,20202021_13_18_Away
+20202021,Tottenham,West Ham,1.0,2.0,2.7,3.4,2.62,20202021_17_9_Away
+20202021,Leicester,Aston Villa,2.0,1.0,2.4,3.5,2.87,20202021_6_20_Away
+20202021,Man City,Arsenal,1.0,0.0,1.5,4.33,6.5,20202021_4_11_Away
+20202021,Newcastle,Man United,1.0,3.0,10.0,5.5,1.28,20202021_15_14_Away
+20202021,Crystal Palace,Brighton,2.0,1.0,5.5,3.5,1.7,20202021_16_19_Away
+20202021,Southampton,Leeds,0.0,3.0,3.1,3.5,2.25,20202021_7_10_Away
+20202021,West Ham,Man City,1.0,2.0,12.0,6.5,1.22,20202021_9_4_Away
+20202021,Brighton,West Brom,0.0,1.0,1.95,3.3,4.2,20202021_19_2_Away
+20202021,Aston Villa,Leeds,1.0,0.0,3.2,3.6,2.15,20202021_20_10_Away
+20202021,Wolves,Newcastle,1.0,1.0,2.2,3.2,3.5,20202021_8_15_Away
+20202021,Fulham,Crystal Palace,0.0,0.0,2.2,3.2,3.5,20202021_18_16_Away
+20202021,Arsenal,Leicester,3.0,1.0,2.8,3.4,2.5,20202021_11_6_Away
+20202021,Burnley,Tottenham,0.0,4.0,6.5,4.0,1.53,20202021_12_17_Away
+20202021,Man United,Chelsea,0.0,0.0,3.4,3.4,2.15,20202021_14_1_Away
+20202021,Liverpool,Sheffield United,2.0,0.0,1.36,5.0,8.0,20202021_3_13_Away
+20202021,Southampton,Everton,0.0,1.0,3.3,3.5,2.15,20202021_7_5_Away
+20202021,Wolves,Man City,1.0,4.0,15.0,7.0,1.18,20202021_8_4_Away
+20202021,Leicester,Burnley,1.0,1.0,2.0,3.25,4.0,20202021_6_12_Away
+20202021,Aston Villa,Sheffield United,0.0,1.0,2.05,3.4,3.75,20202021_20_13_Away
+20202021,Man United,Crystal Palace,0.0,0.0,1.4,4.75,8.0,20202021_14_16_Away
+20202021,Tottenham,Fulham,1.0,0.0,1.9,3.6,4.0,20202021_17_18_Away
+20202021,Everton,West Brom,1.0,0.0,1.83,3.6,4.33,20202021_5_2_Away
+20202021,Chelsea,Liverpool,1.0,0.0,3.0,3.6,2.25,20202021_1_3_Away
+20202021,Arsenal,Burnley,1.0,1.0,1.61,4.0,5.5,20202021_11_12_Away
+20202021,Southampton,Sheffield United,2.0,0.0,2.0,3.5,3.6,20202021_7_13_Away
+20202021,Wolves,Aston Villa,0.0,0.0,3.1,3.25,2.37,20202021_8_20_Away
+20202021,Leicester,Brighton,2.0,1.0,2.8,3.25,2.55,20202021_6_19_Away
+20202021,Newcastle,West Brom,0.0,0.0,3.1,3.2,2.37,20202021_15_2_Away
+20202021,Fulham,Liverpool,1.0,0.0,8.5,5.0,1.36,20202021_18_3_Away
+20202021,Man United,Man City,2.0,0.0,7.0,4.5,1.45,20202021_14_4_Away
+20202021,Crystal Palace,Tottenham,1.0,4.0,7.0,4.5,1.45,20202021_16_17_Away
+20202021,Everton,Chelsea,0.0,2.0,6.5,4.0,1.53,20202021_5_1_Away
+20202021,Leeds,West Ham,0.0,2.0,3.5,3.6,2.05,20202021_10_9_Away
+20202021,Southampton,Man City,2.0,5.0,15.0,7.5,1.18,20202021_7_4_Away
+20202021,Aston Villa,Newcastle,1.0,1.0,2.05,3.3,3.8,20202021_20_15_Away
+20202021,Chelsea,Leeds,0.0,0.0,1.7,4.0,4.75,20202021_1_10_Away
+20202021,West Brom,Crystal Palace,0.0,1.0,3.6,3.2,2.15,20202021_2_16_Away
+20202021,Burnley,Everton,2.0,1.0,4.5,3.5,1.83,20202021_12_5_Away
+20202021,Man City,Fulham,3.0,0.0,1.33,5.0,10.0,20202021_4_18_Away
+20202021,Brighton,Southampton,2.0,1.0,2.5,3.1,2.9,20202021_19_7_Away
+20202021,Sheffield United,Leicester,0.0,5.0,6.5,4.2,1.5,20202021_13_6_Away
+20202021,Tottenham,Arsenal,1.0,2.0,2.75,3.4,2.55,20202021_17_11_Away
+20202021,West Ham,Man United,0.0,1.0,4.33,3.6,1.83,20202021_9_14_Away
+20202021,Liverpool,Wolves,1.0,0.0,1.72,3.75,4.75,20202021_3_8_Away
+20202021,Leeds,Fulham,2.0,1.0,3.0,3.4,2.37,20202021_10_18_Away
+20202021,Newcastle,Brighton,0.0,3.0,6.0,3.5,1.66,20202021_15_19_Away
+20202021,Arsenal,West Ham,3.0,3.0,2.45,3.5,2.8,20202021_11_9_Away
+20202021,Tottenham,Aston Villa,2.0,0.0,2.45,3.3,2.9,20202021_17_20_Away
+20202021,West Brom,Chelsea,5.0,2.0,15.0,6.0,1.22,20202021_2_1_Away
+20202021,Sheffield United,Leeds,1.0,2.0,6.5,4.33,1.5,20202021_13_10_Away
+20202021,Man City,Leicester,2.0,0.0,1.53,4.2,6.0,20202021_4_6_Away
+20202021,Liverpool,Arsenal,3.0,0.0,2.15,3.7,3.1,20202021_3_11_Away
+20202021,Burnley,Southampton,2.0,3.0,3.8,3.3,2.05,20202021_12_7_Away
+20202021,Tottenham,Newcastle,2.0,2.0,1.6,4.0,5.5,20202021_17_15_Away
+20202021,Fulham,Aston Villa,1.0,3.0,3.3,3.3,2.25,20202021_18_20_Away
+20202021,Brighton,Man United,1.0,2.0,5.5,4.0,1.61,20202021_19_14_Away
+20202021,Crystal Palace,Everton,1.0,1.0,5.0,3.5,1.75,20202021_16_5_Away
+20202021,West Ham,Wolves,3.0,2.0,2.55,3.2,2.87,20202021_9_8_Away
+20202021,Wolves,Fulham,1.0,0.0,3.1,3.0,2.5,20202021_8_18_Away
+20202021,Leeds,Man City,2.0,1.0,10.0,5.75,1.28,20202021_10_4_Away
+20202021,Aston Villa,Liverpool,1.0,2.0,6.5,4.33,1.5,20202021_20_3_Away
+20202021,Chelsea,Crystal Palace,4.0,1.0,1.53,3.8,7.0,20202021_1_16_Away
+20202021,Newcastle,Burnley,2.0,1.0,3.4,3.1,2.3,20202021_15_12_Away
+20202021,Leicester,West Ham,2.0,3.0,2.37,3.3,3.0,20202021_6_9_Away
+20202021,Man United,Tottenham,3.0,1.0,2.45,3.4,2.87,20202021_14_17_Away
+20202021,Arsenal,Sheffield United,3.0,0.0,1.57,3.75,6.5,20202021_11_13_Away
+20202021,Southampton,West Brom,0.0,3.0,2.1,3.3,3.6,20202021_7_2_Away
+20202021,Everton,Brighton,0.0,0.0,3.3,3.3,2.25,20202021_5_19_Away
+20202021,Tottenham,Everton,2.0,2.0,2.1,3.5,3.4,20202021_17_5_Away
+20202021,West Ham,Newcastle,2.0,3.0,2.05,3.5,3.5,20202021_9_15_Away
+20202021,Sheffield United,Wolves,0.0,1.0,5.75,3.5,1.66,20202021_13_8_Away
+20202021,Fulham,Arsenal,1.0,1.0,4.8,3.8,1.7,20202021_18_11_Away
+20202021,Burnley,Man United,1.0,3.0,9.0,5.25,1.33,20202021_12_14_Away
+20202021,Liverpool,Leeds,1.0,1.0,1.66,4.33,4.5,20202021_3_10_Away
+20202021,Brighton,Chelsea,0.0,0.0,6.0,4.0,1.57,20202021_19_1_Away
+20202021,Southampton,Tottenham,1.0,2.0,4.5,3.8,1.75,20202021_7_17_Away
+20202021,Man City,Aston Villa,2.0,1.0,1.36,4.75,9.0,20202021_4_20_Away
+20202021,West Brom,Leicester,0.0,3.0,6.0,3.8,1.53,20202021_2_6_Away
+20202021,Everton,Arsenal,1.0,0.0,3.75,3.5,2.0,20202021_5_11_Away
+20202021,Newcastle,Liverpool,1.0,1.0,12.0,6.5,1.22,20202021_15_3_Away
+20202021,Chelsea,West Ham,1.0,0.0,1.75,3.6,4.75,20202021_1_9_Away
+20202021,Brighton,Sheffield United,0.0,1.0,1.75,3.4,5.25,20202021_19_13_Away
+20202021,Burnley,Wolves,4.0,0.0,3.9,3.4,2.0,20202021_12_8_Away
+20202021,Man United,Leeds,0.0,0.0,1.75,4.2,4.0,20202021_14_10_Away
+20202021,West Brom,Aston Villa,2.0,2.0,4.2,3.6,1.85,20202021_2_20_Away
+20202021,Crystal Palace,Leicester,1.0,2.0,8.5,4.33,1.4,20202021_16_6_Away
+20202021,Leicester,Southampton,1.0,1.0,1.9,3.8,3.8,20202021_6_7_Away
+20202021,Man City,Crystal Palace,2.0,0.0,1.33,5.0,10.0,20202021_4_16_Away
+20202021,Leeds,Brighton,0.0,2.0,3.5,3.5,2.05,20202021_10_19_Away
+20202021,Fulham,Chelsea,0.0,2.0,7.5,4.4,1.44,20202021_18_1_Away
+20202021,Aston Villa,Everton,2.0,1.0,3.8,3.6,1.95,20202021_20_5_Away
+20202021,Arsenal,Newcastle,2.0,0.0,2.0,3.6,3.6,20202021_11_15_Away
+20202021,Sheffield United,Tottenham,0.0,4.0,12.0,6.0,1.25,20202021_13_17_Away
+20202021,Wolves,West Brom,1.0,1.0,2.5,3.2,2.9,20202021_8_2_Away
+20202021,West Ham,Burnley,2.0,1.0,2.2,3.6,3.1,20202021_9_12_Away
+20202021,Newcastle,Leicester,4.0,2.0,8.0,4.75,1.4,20202021_15_6_Away
+20202021,Tottenham,Leeds,1.0,3.0,2.0,3.8,3.4,20202021_17_10_Away
+20202021,Crystal Palace,Sheffield United,2.0,0.0,2.45,3.2,3.0,20202021_16_13_Away
+20202021,Chelsea,Man City,2.0,1.0,4.2,3.4,1.9,20202021_1_4_Away
+20202021,Southampton,Liverpool,0.0,2.0,11.0,6.0,1.25,20202021_7_3_Away
+20202021,Brighton,Wolves,1.0,2.0,2.2,3.3,3.3,20202021_19_8_Away
+20202021,Man United,Aston Villa,3.0,1.0,1.8,3.8,4.2,20202021_14_20_Away
+20202021,Everton,West Ham,1.0,0.0,3.2,3.5,2.2,20202021_5_9_Away
+20202021,West Brom,Arsenal,1.0,3.0,7.0,4.5,1.44,20202021_2_11_Away
+20202021,Burnley,Fulham,2.0,0.0,3.3,3.4,2.2,20202021_12_18_Away
+20202021,Leicester,Man United,2.0,1.0,2.8,3.4,2.5,20202021_6_14_Away
+20202021,Crystal Palace,Southampton,1.0,3.0,3.5,3.6,2.05,20202021_16_7_Away
+20202021,Arsenal,Chelsea,1.0,0.0,5.0,4.0,1.65,20202021_11_1_Away
+20202021,Everton,Aston Villa,0.0,0.0,2.6,3.4,2.7,20202021_5_20_Away
+20202021,Liverpool,Man United,4.0,2.0,2.2,3.75,3.0,20202021_3_14_Away
+20202021,Man City,Newcastle,4.0,3.0,1.25,6.0,11.0,20202021_4_15_Away
+20202021,Leeds,Burnley,4.0,0.0,2.1,3.75,3.2,20202021_10_12_Away
+20202021,Fulham,Southampton,1.0,3.0,3.6,3.6,2.0,20202021_18_7_Away
+20202021,West Ham,Brighton,1.0,1.0,2.3,3.6,2.9,20202021_9_19_Away
+20202021,Aston Villa,Crystal Palace,2.0,3.0,2.25,3.6,3.0,20202021_20_16_Away
+20202021,Wolves,Tottenham,0.0,2.0,6.5,4.33,1.5,20202021_8_17_Away
+20202021,Liverpool,West Brom,2.0,1.0,1.22,6.5,12.0,20202021_3_2_Away
+20202021,Sheffield United,Everton,1.0,0.0,8.5,4.75,1.36,20202021_13_5_Away
+20202021,Fulham,Man United,1.0,1.0,9.0,6.0,1.28,20202021_18_14_Away
+20202021,Leeds,Southampton,2.0,0.0,2.5,3.9,2.55,20202021_10_7_Away
+20202021,Man City,Brighton,2.0,3.0,1.45,4.5,7.0,20202021_4_19_Away
+20202021,Leicester,Chelsea,1.0,2.0,5.0,3.75,1.7,20202021_6_1_Away
+20202021,Wolves,Everton,0.0,1.0,4.2,3.6,1.85,20202021_8_5_Away
+20202021,Sheffield United,Newcastle,0.0,1.0,4.75,3.8,1.72,20202021_13_15_Away
+20202021,Aston Villa,Tottenham,2.0,1.0,6.0,4.5,1.5,20202021_20_17_Away
+20202021,Arsenal,Crystal Palace,3.0,1.0,1.5,4.5,6.0,20202021_11_16_Away
+20202021,Liverpool,Burnley,3.0,0.0,1.22,7.0,11.0,20202021_3_12_Away
+20202021,West Ham,West Brom,3.0,1.0,1.6,4.33,5.0,20202021_9_2_Away
+20202021,Brighton,Arsenal,0.0,2.0,5.25,4.33,1.57,20202021_19_11_Away
+20202021,Chelsea,Aston Villa,1.0,2.0,1.45,4.6,6.5,20202021_1_20_Away
+20202021,Newcastle,Fulham,2.0,0.0,3.3,3.8,2.05,20202021_15_18_Away
+20202021,West Brom,Leeds,1.0,3.0,6.5,5.25,1.4,20202021_2_10_Away
+20202021,Tottenham,Leicester,4.0,2.0,3.3,4.0,2.0,20202021_17_6_Away
+20202021,Crystal Palace,Liverpool,0.0,2.0,15.0,8.5,1.14,20202021_16_3_Away
+20202021,Everton,Man City,0.0,5.0,6.5,5.0,1.44,20202021_5_4_Away
+20202021,Burnley,Sheffield United,0.0,1.0,2.4,3.6,2.8,20202021_12_13_Away
+20202021,Southampton,West Ham,0.0,3.0,5.0,4.0,1.65,20202021_7_9_Away
+20202021,Man United,Wolves,2.0,1.0,2.7,3.5,2.5,20202021_14_8_Away
