@@ -236,3 +236,4 @@ if __name__ == '__main__':
         future = pool.submit(main())
     finish=time.perf_counter()
     print(f'Finished in {round(((finish-start)/60),2)} minute(s)')
+    #Last run: Finished in 759.83 minute(s)
