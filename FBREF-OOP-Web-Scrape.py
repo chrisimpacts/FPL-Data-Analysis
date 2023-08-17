@@ -2,7 +2,7 @@ import pandas as pd
 import time
 from datetime import datetime
 
-version='020823_fpl_fbref'
+version='160823_fpl_fbref'
 
 import bs4 as bs
 import threading
@@ -189,7 +189,7 @@ def add_new_stat_columns(df, year, stat, names_links):
 
 def main():
 
-    year_list=['2022-2023','2021-2022','2020-2021'] #if 17/18 stats wanted also: ['2017-2018','2018-2019','2019-2020','2020-2021'] #20-21 season summary is called "https://fbref.com/en/comps/9/stats/Premier-League-Stats" but the matchlogs are still in the 2020-2021 format
+    year_list=['2023-2024']#['2022-2023','2021-2022','2020-2021'] #if 17/18 stats wanted also: ['2017-2018','2018-2019','2019-2020','2020-2021'] #20-21 season summary is called "https://fbref.com/en/comps/9/stats/Premier-League-Stats" but the matchlogs are still in the 2020-2021 format
     list_of_stat_types=['passing','passing_types','gca','defense','possession','misc']#'summary'
 
     for i, year in enumerate(year_list):
@@ -228,7 +228,8 @@ def main():
     #Export data to excel
     dfcsv=seasondata
     dfcsv.to_csv('data/fbrefdata_'+str(version)+'.csv', index=False)
-    dfcsv.to_csv('data/fbrefdata_OOP_updated.csv', index=False)
+    
+    # dfcsv.to_csv('data/fbrefdata_OOP_updated.csv', index=False)
 
 if __name__ == '__main__':
     start=time.perf_counter()
@@ -236,4 +237,5 @@ if __name__ == '__main__':
         future = pool.submit(main())
     finish=time.perf_counter()
     print(f'Finished in {round(((finish-start)/60),2)} minute(s)')
-    #Last run: Finished in 759.83 minute(s)
+    #Last run (2020-22): Finished in 759.83 minute(s)
+    #Last run (2023): 
