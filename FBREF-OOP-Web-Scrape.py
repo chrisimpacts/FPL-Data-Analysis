@@ -1,12 +1,8 @@
 import pandas as pd
 import time
 from datetime import datetime
-
-version='160823_fpl_fbref'
-
 import bs4 as bs
 import threading
-# from multiprocessing.pool import ThreadPool, Pool
 from concurrent.futures import ThreadPoolExecutor
 
 from selenium import webdriver
@@ -14,16 +10,26 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
+version='170823_fpl_fbref'
+
 threadLocal = threading.local()
 
 class Web_Scraper:
+    """
+    Web-Scraper class contains the methods needed to scrape FBREF data
+    """
     def __init__(self, 
-                 #driver_url: str,#"C:/Users/chris/Documents/Coding/python/projects/FPL/chromedriver.exe"
                  url_to_scrape: str
                  ): 
-        # self.driver_url = driver_url
+        """
+        Constructor for Web-Scraper.
+        Args:
+            url_to_scrape (str): The URL to scrape data from.
+        """
         self.url = url_to_scrape
     def get_driver(self):
+        # Using Chrome WebDriver, get driver
+        # Avoid creating a new instance of the driver every time by using getattr 
         self.driver = getattr(threadLocal, 'driver', None)
         if self.driver is None:
             chrome_options = Options()
@@ -32,21 +38,35 @@ class Web_Scraper:
             setattr(threadLocal, 'driver', self.driver)
         return self.driver
     def parse(self):
+        # Use driver to get source code
         driver = Web_Scraper.get_driver(self)
         driver.get(self.url)
         self.sourceCode=driver.page_source
         return  self.sourceCode
     def url_to_soup(self):
+        # Create a soup object from the source code
         soup = bs.BeautifulSoup(Web_Scraper.parse(self),'html.parser')
         return soup
     
 class League:
-    def __init__(self, soup
-                 ): 
+    """
+    League class contains the methods needed to transform URL soup to a dataframe
+    """
+    def __init__(self, soup): 
+        """
+        Constructor for League class.
+        Args:
+            soup (str): BeautifulSoup object
+        """
         self.soup = soup
         self.table = self.soup.find('table',attrs={"id":"stats_standard"})
     
     def ps_table_to_rows(self):
+        """
+        ps_table_to_rows method get the names/links for all players from this URL
+        Returns:
+            names_links (dict): A dict of the player names and links to the player pages 
+        """
         names_links={}
         self.table_rows = self.table.find_all('tr') #table rows
         for tr in self.table_rows:
@@ -67,6 +87,11 @@ class League:
         return self.allrows
 
     def ps_table_columns(self):
+        """
+        ps_table_columns method get the names of the columns from this URL
+        Returns:
+            cols (list): A list of data column names
+        """
         cols=[]
         for tx in self.table.find_all('th',attrs={"scope": "col"}):
             cols.append(tx.get('data-stat'))
@@ -74,36 +99,60 @@ class League:
         return self.cols
     
     def ps_table_to_df(self):
+        """
+        ps_table_to_df method uses table rows and columns to create a dataframe
+        Returns:
+            df (DataFrame): DataFrame of Player Data
+            names_links (dict): A dict of the player names and links to the player pages 
+        """
         allrows=League.ps_table_to_rows(self)
         allcols=League.ps_table_columns(self)
         self.df = pd.DataFrame(allrows[0][2:], columns = allcols[1:])
         return self.df, self.names_links
     
 class Player:
+    """
+    Player class contains the methods needed to get all the data for every player
+    """
     def __init__(self, 
                  names_links: dict,
-                 year: str
-                 ): 
+                 year: str): 
+        """
+        Constructor for Player class.
+        Args:
+            names_links (dict): A dict of player names and links to their stat pages
+            year (str): looping over a list of years, this specifies which year
+        """
         self.names_links = names_links
         self.first5pairs = {k: self.names_links[k] for k in list(self.names_links)[:5]}
         self.year = year
 
-    #Using all links for the first player, produce rows of a dataframe
     def find_p_name(self, soup):
+        #get player name from URL
         name=[]
         for div in soup.find_all('div',attrs={"id":"meta"}):
-            for h1 in div.find_all('h1'):#div.find_all('h1',attrs={"itemprop":"name"}):
+            for h1 in div.find_all('h1'):
                 name.extend(h1.text.strip().splitlines())
         return name[0]
 
     def find_season(self, soup):
+        #get season (digits only) from URL
         name=[]
         for div in soup.find_all('div',attrs={"id":"info"}):
-            for h1 in div.find_all('h1'):#div.find_all('h1',attrs={"itemprop":"name"}):
+            for h1 in div.find_all('h1'):
                 name.extend(h1.text.strip().splitlines())
         return ''.join(c for c in name[1] if c.isdigit()) #returns only digits
 
     def get_player_data(self,end,year,stat):
+        """
+        get_player_data method returns all rows of data from the given URL soup.
+        Args:
+            end (str): The end of the URL for this player
+            year (str): The year
+            stat (str): The stat type to scrape from
+        Returns:
+            playerdata (list): List of lists of appended rows of player data  
+        """
         playerdata=[]
         url="https://fbref.com/"+str(end)
         url_name=url.split('/')[-1]
@@ -127,7 +176,6 @@ class Player:
                     link=a['href']
                     date=a.text
             td = tr.find_all('td')
-            
             row.extend([tr.text for tr in td])
             for item in [p_name,season,date,"https://fbref.com/"+str(link),url_code]:
                 row.insert(0,item)
@@ -153,6 +201,15 @@ class Player:
         return self.cols
 
     def stat_to_df(self, stat): #, stat:str #Get all stats for all players for the first stat type: summary
+        """
+        stat_to_df method loops through each stat and each URL in names_links 
+            and runs get_player_data method, stacking the data in allplayers before finally
+            assembling the df
+        Args:
+            stat (str): The stat type to scrape from
+        Returns:
+            df (DataFrame): dataframe of all players for that stat type 
+        """
         start=time.perf_counter()
         self.stat = stat
         allplayers = []
@@ -178,6 +235,7 @@ class Player:
         return df
 
 def add_new_stat_columns(df, year, stat, names_links):
+        #Each time a new stat type is added, new columns need to be added to the column axis
         temp_df = Player(names_links,year).stat_to_df(stat)
         cols_to_use = list(temp_df.columns.difference(df.columns))
         temp_df['name_link'] = temp_df[['name','link']].apply(tuple, axis=1)
@@ -188,7 +246,7 @@ def add_new_stat_columns(df, year, stat, names_links):
         return df
 
 def main():
-
+    #main brings together all functions, collates the dfs into one df and saves the df to file
     year_list=['2023-2024']#['2022-2023','2021-2022','2020-2021'] #if 17/18 stats wanted also: ['2017-2018','2018-2019','2019-2020','2020-2021'] #20-21 season summary is called "https://fbref.com/en/comps/9/stats/Premier-League-Stats" but the matchlogs are still in the 2020-2021 format
     list_of_stat_types=['passing','passing_types','gca','defense','possession','misc']#'summary'
 
@@ -199,8 +257,6 @@ def main():
         ws = Web_Scraper(url_to_scrape)#driver_url,
         soup = ws.url_to_soup()
         df, names_links = League(soup).ps_table_to_df()
-        # season_links[year]=names_links
-        # df = df.apply(pd.to_numeric, errors='ignore')
 
         #get first stat for first year
         dfsummary = Player(names_links, year).stat_to_df('summary') #names_links are specific to that season
@@ -228,7 +284,6 @@ def main():
     #Export data to excel
     dfcsv=seasondata
     dfcsv.to_csv('data/fbrefdata_'+str(version)+'.csv', index=False)
-    
     # dfcsv.to_csv('data/fbrefdata_OOP_updated.csv', index=False)
 
 if __name__ == '__main__':
@@ -238,4 +293,4 @@ if __name__ == '__main__':
     finish=time.perf_counter()
     print(f'Finished in {round(((finish-start)/60),2)} minute(s)')
     #Last run (2020-22): Finished in 759.83 minute(s)
-    #Last run (2023): 
+    #Last run (2023): Finished in 141.22 minutes
