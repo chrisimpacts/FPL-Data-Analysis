@@ -30,8 +30,6 @@ This script performs Extract, Transform, and Load (ETL) operations on Fantasy Pr
 <details>
 <summary><strong>Details</strong></summary>
 
-##### Script Details
-
 The script fetches data, creates staging tables for the following tables in postgreSQL:
 
 | Tables         | Description                                       |
@@ -68,7 +66,6 @@ This repository contains Python code for analyzing Fantasy Premier League data, 
 <details>
 <summary><strong>Details</strong></summary>
 
-##### Script Details
 The code performs the following tasks:
 * Fetches league standings data from the FPL API.
 * Collects member IDs and player names from the league data.
