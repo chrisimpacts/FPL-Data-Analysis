@@ -28,7 +28,7 @@ This script performs Extract, Transform, and Load (ETL) operations on Fantasy Pr
 
 
 <details>
-<summary><strong>SDetails</strong></summary>
+<summary><strong>Details</strong></summary>
 
 ##### Script Details
 
@@ -83,6 +83,28 @@ The code generates CSV files containing gameweek-level analysis and member picks
 * DIVX_gameweek_updated.csv: Gameweek-level analysis with formation, captain selection, and more.
 * DIVX_picks_updated.csv: Member's picks data for each gameweek.
 * The notebook takes approx. 5 minutes to run for a league with 17 members
+
+A summary of the insight provided is where transfer suggestions are made, maximising the difference between the expected gain of bringing in a new player relative to the other members of my mini-league (expected points * 1-ownership rate) minus the expected loss of taking out a player relative to the other members of my mini-league (expected points * ownership rate). In GW1 this table looked like this:
+
+| web_name    | element | element_type | now_cost | multiplier | multiplier_myteam | own_rate | ep_next | expected_gain | expected_loss_on_transfer | affordable_suggested_transfer | suggested_transfer_gain |
+|-------------|---------|--------------|----------|------------|-------------------|----------|---------|---------------|---------------------------|-------------------------------|------------------------|
+| Chilwell    | 195     | 2            | 56       | 4.0        | 1                 | 0.2500   | 2.6     | 1.95000       | 0.65000                   | [Rúben, 0.0, 3.1, 3.1, 2.45] | 2.45                   |
+| Watkins     | 60      | 4            | 80       | 3.0        | 1                 | 0.1875   | 2.6     | 2.11250       | 0.48750                   | [Darwin, 0.062, 2.9, 2.72, 2.23] | 2.23                   |
+| B.Fernandes | 373     | 3            | 85       | 5.0        | 1                 | 0.3125   | 3.4     | 2.33750       | 1.06250                   | [Ødegaard, 0.062, 3.4, 3.19, 2.12] | 2.12                   |
+| Martinelli  | 12      | 3            | 80       | 6.0        | 1                 | 0.3750   | 3.3     | 2.06250       | 1.23750                   | [Havertz, 0.062, 3.1, 2.91, 1.67] | 1.67                   |
+| Onana       | 597     | 1            | 50       | 7.0        | 1                 | 0.4375   | 3.7     | 2.08125       | 1.61875                   | [Ramsdale, 0.125, 3.7, 3.24, 1.62] | 1.62                   |
+| Rashford    | 396     | 3            | 90       | 8.0        | 1                 | 0.5000   | 3.5     | 1.75000       | 1.75000                   | [Ødegaard, 0.062, 3.4, 3.19, 1.44] | 1.44                   |
+| Estupiñan   | 131     | 2            | 51       | 10.0       | 1                 | 0.6250   | 2.4     | 0.90000       | 1.50000                   | [Walker, 0.0, 2.8, 2.8, 1.3] | 1.30                   |
+| Gabriel     | 5       | 2            | 50       | 9.0        | 1                 | 0.5625   | 2.8     | 1.22500       | 1.57500                   | [Walker, 0.0, 2.8, 2.8, 1.22] | 1.22                   |
+| Beyer       | 160     | 2            | 40       | 0.0        | 0                 | 0.0000   | 0.0     | 0.00000       | 0.00000                   | [Chambers, 0.0, 1.0, 1.0, 1.0] | 1.00                   |
+| Turner      | 28      | 1            | 40       | 0.0        | 0                 | 0.0000   | 1.5     | 0.00000       | 0.00000                   | [Areola, 0.0, 1.0, 1.0, 1.0] | 1.00                   |
+| Mubama      | 538     | 4            | 45       | 0.0        | 0                 | 0.0000   | 1.0     | 0.00000       | 0.00000                   | [Archer, 0.0, 1.0, 1.0, 1.0] | 1.00                   |
+| Mitoma      | 143     | 3            | 65       | 12.0       | 1                 | 0.7500   | 2.3     | 0.57500       | 1.72500                   | [Gibbs-White, 0.0, 2.7, 2.7, 0.98] | 0.98                   |
+| Baldock     | 473     | 2            | 40       | 1.0        | 0                 | 0.0625   | 0.5     | -0.03125      | 0.03125                   | [Chambers, 0.0, 1.0, 1.0, 0.97] | 0.97                   |
+| Saka        | 19      | 3            | 86       | 12.0       | 1                 | 0.7500   | 3.4     | 0.85000       | 2.55000                   | [Ødegaard, 0.062, 3.4, 3.19, 0.64] | 0.64                   |
+| Haaland     | 355     | 4            | 140      | 26.0       | 2                 | 1.6250   | 4.5     | 1.68750       | 7.31250                   | [nan, nan, nan, nan, nan] | NaN                    |
+
+From this table I can tell that the highest gain in expected points would be in transferring out Ben Chilwell for Ruben Dias
 
 </details>
 
