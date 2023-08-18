@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-version='170823_fpl_fbref'
+version='170823'
 
 threadLocal = threading.local()
 
@@ -283,8 +283,167 @@ def main():
 
     #Export data to excel
     dfcsv=seasondata
-    dfcsv.to_csv('data/fbrefdata_'+str(version)+'.csv', index=False)
-    # dfcsv.to_csv('data/fbrefdata_OOP_updated.csv', index=False)
+    dfcsv.to_csv('data/fbrefdata23_'+str(version)+'.csv', index=False)
+    dfcsv.to_csv('data/fbrefdata23_OOP_updated.csv', index=False)
+
+    #Insert into PSQL
+    from sqlalchemy import create_engine, text
+    from datetime import datetime
+    import psycopg2 # python -> psql connection
+    import psycopg2.extras
+
+    #Import secret settings
+    import CJDH_local_settings
+    dbname = CJDH_local_settings.local_settings['TRDL_PSQL_Analysis']['dbname']
+    user = CJDH_local_settings.local_settings['TRDL_PSQL_Analysis']['user']
+    password = CJDH_local_settings.local_settings['TRDL_PSQL_Analysis']['password']
+    host = "localhost"
+    port = 5432
+
+    #Create connection to psql via psycopg2 & sqlalchemy
+    connection_string = f'postgresql+psycopg2://{user}:{password}@{host}:{port}/{dbname}'
+    engine = create_engine(connection_string)
+    engine.autocommit = True  # read documentation understanding when to Use & NOT use # changes will be automatically committed to the database after each statement is executed.
+
+    data20_22 = pd.read_csv('data/fbrefdata20-22_OOP_updated.csv')
+    data23 = pd.read_csv('data/fbrefdata23_OOP_updated.csv')
+    fbref = pd.concat([data20_22,data23])
+
+    #Create staging table for player data 
+    def create_staging_table_fbref(cursor):
+    cursor.execute(text("""
+        DROP TABLE IF EXISTS fbref CASCADE;
+        CREATE UNLOGGED TABLE fbref (
+            code           NUMERIC,
+            link           TEXT,
+            date           TIMESTAMP,
+            season         NUMERIC,
+            name           TEXT,
+            dayofweek      TEXT,
+            comp           TEXT,
+            round          TEXT,
+            venue          TEXT,
+            result         TEXT,
+            team           TEXT,
+            opponent       TEXT,
+            game_started   TEXT,
+            position       TEXT,
+            minutes        NUMERIC,
+            goals          NUMERIC,
+            assists        NUMERIC,
+            pens_made      NUMERIC,
+            pens_att       NUMERIC,
+            shots          NUMERIC,
+            shots_on_target NUMERIC,
+            cards_yellow   NUMERIC,
+            cards_red      NUMERIC,
+            touches        NUMERIC,
+            tackles        NUMERIC,
+            interceptions  NUMERIC,
+            blocks         NUMERIC,
+            xg             NUMERIC,
+            npxg           NUMERIC,
+            xg_assist      NUMERIC,
+            sca            NUMERIC,
+            gca            NUMERIC,
+            passes_completed NUMERIC,
+            passes         NUMERIC,
+            passes_pct     NUMERIC,
+            progressive_passes NUMERIC,
+            carries        NUMERIC,
+            progressive_carries NUMERIC,
+            take_ons       NUMERIC,
+            take_ons_won   NUMERIC,
+            match_report   NUMERIC,
+            name_link      NUMERIC,
+            assisted_shots NUMERIC,
+            crosses_into_penalty_area NUMERIC,
+            pass_xa        NUMERIC,
+            passes_completed_long    NUMERIC,
+            passes_completed_medium  NUMERIC,
+            passes_completed_short   NUMERIC,
+            passes_into_final_third  NUMERIC,
+            passes_into_penalty_area NUMERIC,
+            passes_long      NUMERIC,
+            passes_medium     NUMERIC,
+            passes_pct_long     NUMERIC,
+            passes_pct_medium     NUMERIC,
+            passes_pct_short     NUMERIC,
+            passes_progressive_distance     NUMERIC,
+            passes_short     NUMERIC,
+            passes_total_distance     NUMERIC,
+            corner_kicks     NUMERIC,
+            corner_kicks_in     NUMERIC,
+            corner_kicks_out     NUMERIC,
+            corner_kicks_straight     NUMERIC,
+            crosses     NUMERIC,
+            passes_blocked     NUMERIC,
+            passes_dead     NUMERIC,
+            passes_free_kicks     NUMERIC,
+            passes_live     NUMERIC,
+            passes_offsides     NUMERIC,
+            passes_switches     NUMERIC,
+            through_balls     NUMERIC,
+            throw_ins     NUMERIC,
+            gca_defense     NUMERIC,
+            gca_fouled     NUMERIC,
+            gca_passes_dead     NUMERIC,
+            gca_passes_live     NUMERIC,
+            gca_shots     NUMERIC,
+            gca_take_ons     NUMERIC,
+            sca_defense     NUMERIC,
+            sca_fouled     NUMERIC,
+            sca_passes_dead     NUMERIC,
+            sca_passes_live     NUMERIC,
+            sca_shots     NUMERIC,
+            sca_take_ons     NUMERIC,
+            blocked_passes     NUMERIC,
+            blocked_shots     NUMERIC,
+            challenge_tackles     NUMERIC,
+            challenge_tackles_pct     NUMERIC,
+            challenges     NUMERIC,
+            challenges_lost     NUMERIC,
+            clearances     NUMERIC,
+            errors     NUMERIC,
+            tackles_att_3rd     NUMERIC,
+            tackles_def_3rd     NUMERIC,
+            tackles_interceptions     NUMERIC,
+            tackles_mid_3rd     NUMERIC,
+            tackles_won     NUMERIC,
+            carries_distance     NUMERIC,
+            carries_into_final_third     NUMERIC,
+            carries_into_penalty_area     NUMERIC,
+            carries_progressive_distance     NUMERIC,
+            dispossessed     NUMERIC,
+            miscontrols     NUMERIC,
+            passes_received     NUMERIC,
+            progressive_passes_received     NUMERIC,
+            take_ons_tackled     NUMERIC,
+            take_ons_tackled_pct     NUMERIC,
+            take_ons_won_pct     NUMERIC,
+            touches_att_3rd     NUMERIC,
+            touches_att_pen_area     NUMERIC,
+            touches_def_3rd     NUMERIC,
+            touches_def_pen_area     NUMERIC,
+            touches_live_ball     NUMERIC,
+            touches_mid_3rd     NUMERIC,
+            aerials_lost     NUMERIC,
+            aerials_won     NUMERIC,
+            aerials_won_pct     NUMERIC,
+            ball_recoveries     NUMERIC,
+            cards_yellow_red     NUMERIC,
+            fouled     NUMERIC,
+            fouls     NUMERIC,
+            offsides     NUMERIC,
+            own_goals     NUMERIC,
+            pens_conceded     NUMERIC,
+            pens_won     NUMERIC,
+            scrape_datetime     TIMESTAMP
+        );"""))
+    # creating our schema  and sending the table to psql
+    with engine.connect() as cursor:
+        create_staging_table_fbref(cursor)
+    fbref.to_sql('fbref', con=engine, if_exists='replace',index=False)
 
 if __name__ == '__main__':
     start=time.perf_counter()
