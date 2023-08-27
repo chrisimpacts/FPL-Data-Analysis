@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-version='170823'
+version='240823'
 
 threadLocal = threading.local()
 
@@ -277,6 +277,7 @@ def main():
     seasondata
 
     #drop duplicates
+    from datetime import datetime
     seasondata=seasondata.drop_duplicates(subset=['name_link']).reset_index(drop=True)
     seasondata['scrape_datetime'] = datetime.now()
     print("Final shape: ",seasondata.shape)
@@ -311,7 +312,7 @@ def main():
 
     #Create staging table for player data 
     def create_staging_table_fbref(cursor):
-    cursor.execute(text("""
+        cursor.execute(text("""
         DROP TABLE IF EXISTS fbref CASCADE;
         CREATE UNLOGGED TABLE fbref (
             code           NUMERIC,
@@ -453,3 +454,5 @@ if __name__ == '__main__':
     print(f'Finished in {round(((finish-start)/60),2)} minute(s)')
     #Last run (2020-22): Finished in 759.83 minute(s)
     #Last run (2023): Finished in 141.22 minutes
+
+
