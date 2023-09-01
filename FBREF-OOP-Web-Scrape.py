@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-version='240823'
+version='300823'
 
 threadLocal = threading.local()
 
